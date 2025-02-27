@@ -1,0 +1,801 @@
+id,text,aspect_category_now,ac_polarity
+32897564#894393#2,Bread bhI top notch kA hai|,['food'],['positive']
+33070600#670328#0,mujhe kahanA hai ki unake pAsa city meM eka sabase fastest delivery times hai|,['service'],['positive']
+33070600#670328#2,Food hamezA fresh aura hot - khAne ke lie taiyAra hai|,['food'],['positive']
+36244464#949326#5,kyA maiMne mention kiyA ki coffee OUTSTANDING hai ?,['food'],['positive']
+32894246#870052#0,"bilakula New York kA best sushi nahIM haiM, jabaki yaha hamezA se fresh hai, aura place bahuta clean, sterile hai|","['food', 'ambience']","['conflict', 'positive']"
+32894246#870052#1,"maiM Go Sushi ke people para trust karatA hU~, yaha kabhI disappoint nahIM karatA|",['anecdotes/miscellaneous'],['positive']
+32894246#870052#2,"Straight-forward, koI surprises nahIM, bahuta hI decent Japanese food hai|",['food'],['positive']
+35390182#756337#4,"sabase acchA spicy tuna roll, zAnadAra asian salad hai|",['food'],['positive']
+35390182#756337#5,Rose roll ko Az2amAe~ (menu meM nahIM hai)|,['food'],['positive']
+11447227#436718#3,"mujhe drinks pasaMda hai, vizeSakara lychee martini, aura food bhI bahuta acchA hai|",['food'],['positive']
+33071731#1007204#3,"jabaki, yaha eka Nicoise salad aura barely eatable nahIM hai|",['food'],['negative']
+33085939#758010#0,"jabaki eka decent menu hai, ise Apako drinks dene meM ten minutes aura 45 minutes dessert pizza ke lie nahIM lenA cAhie|","['food', 'service']","['positive', 'negative']"
+11313431#524365#3,"jaba eka bAra hama cala par3e, to top-notch food aura live entertainment ko hama eka unforgettable evening kI taraha beca diyA|","['food', 'ambience']","['positive', 'positive']"
+11359717#1138929#1,hamArA waiter horrible thA; bahuta rude aura disinterested thA|,['service'],['negative']
+11359717#1138929#3,The sangria's - watered down.,['food'],['negative']
+11359717#1138929#4,"Menu - uneventful, small.",['food'],['negative']
+11313439#692431#0,kisI bhI time yA hara time maiM apane Apako neighborhood meM pAtA hU~ maiM Sushi Rose meM tAz2e sushi ke lie jAUMgA aura reasonable price para great portions lU~gA|,"['food', 'price']","['positive', 'positive']"
+11351513#832512#0,zAnadAra food lekina service bhayAnaka thA|,"['food', 'service']","['positive', 'negative']"
+35390148#588852#2,Portions of the food jo bAhara AyA vo mediocre thA|,['food'],['neutral']
+11351513#832512#1,Two waitress's aise dikhAI par3atI thI ki lemons jaisI sucked hoM|,['service'],['negative']
+11313431#524365#2,"zuruvAta se, hama friendly staff members se mile, aura Chelsea Piers ke lie convienent parking milA jisase hamAre lie boat ko pAnA easy ho gayA|","['service', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35196520#758440#4,hama khuda ko thoroughly enjoy kie aura desserts ke lie vApasa jA rahe haiM|,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35196527#481646#2,Desserts hamezA incredible hotA hai: merA khuda kA pasaMdIdA vahA~ kA Tart of the Day hai|,['food'],['positive']
+35668126#536759#0,hama lower reviews se khuza haiM kyoMki yaha bilakula dUsare place se acchA hai jo hameM higher ratings ke sAtha milA hai|,['anecdotes/miscellaneous'],['positive']
+35668126#536759#1,zAyada yaha secret ho ki hama sunday night gae aura saba great thA|,['anecdotes/miscellaneous'],['positive']
+35668126#536759#2,"Food bahuta hI tasty thA, creatively present kiyA gayA thA aura wine zAnadAra thA|",['food'],['positive']
+33070286#1133164#0,hamane thor3A LATE AFTERNOON meM khatma kiyA|,['anecdotes/miscellaneous'],['neutral']
+33070286#1133164#4,hama apane CHOICE ke sAtha PLEASANTLY SURPRISED the|,['anecdotes/miscellaneous'],['positive']
+33070286#1133164#6,LASAGNA jo PROBABLY hamane TASTE kiyA thA bahuta hI acchA thA|,['food'],['positive']
+32894336#662479#0,Harumi Sushi sabase tAz2A aura sushi kA NYC meM sabase svAdiSTa array of sushi rahA hai|,['food'],['positive']
+32894336#662479#1,maiM basa nA kevala isake superb cuisine ko highly recommend karatA hU~ balki isake friendly owners aura staff ko bhI karatA hU~|,"['food', 'service']","['positive', 'positive']"
+32892130#435512#0,"yadi Apa serious indian food ke lie tarasa raheM haiM aura eka cozy ambiance kI icchA karate haiM, yaha bahuta hI exquisite choice hai|","['food', 'ambience']","['positive', 'positive']"
+32892130#435512#4,maiMne food ko bhI definitely enjoy kiyA hai|,['food'],['positive']
+32894791#1611374#0,hamezA yahA~ great time bitAyA hai|,['anecdotes/miscellaneous'],['positive']
+11432316#715219#2,"yaha pleasantly uncrowded thA, service delightful thA, garden adorable thA, food (entrees se appetizers taka) delectable thA|","['ambience', 'service', 'food']","['positive', 'positive', 'positive']"
+33085669#409731#13,Apa experience karake bahuta khuza hoMge|,['anecdotes/miscellaneous'],['positive']
+11351354#412616#0,"Food surprisingly acchA hai, aura decor acchA hai|","['food', 'ambience']","['positive', 'positive']"
+35714274#1076679#0,yaha MJ Grill ke lie claim karanA kitanA pretentious aura inappropriate hai ki yaha power lunch aura dinners detA hai!,['food'],['negative']
+35714274#1076679#5,Two wasted steaks -- kitanA bar3A crime hai!,['food'],['negative']
+35720486#684689#4,Staff ko thor3A aura friendly honA cAhie thA|,['service'],['negative']
+33507331#1177339#2,maiM bilakula yaha place suggest karatA hU~|,['anecdotes/miscellaneous'],['positive']
+33064346#1483297#0,mere hisAba se meatball parm acchA hai|,['food'],['positive']
+11417054#1062693#2,"yadi tuma acchA tasting, Cabana meM well seasoned latin food khAnA cAhate ho, to Apa wrong nahIM kara sakate|",['food'],['positive']
+13383936#420974#4,bilakula taglierini with truffles ko Az2amAe~ - yaha zAnadAra thA|,['food'],['positive']
+13383936#420974#5,jabaki staff bahuta attentive aura really personable hai|,['service'],['positive']
+13383936#420974#6,"kulamilAkara, yaha eka great new restaurant hai jo hara time bahuta acchA rahA hai|",['anecdotes/miscellaneous'],['positive']
+36244423#1058258#2,Gnocchi bilakula tumhAre mouth meM gala gayA|,['food'],['positive']
+11559272#409013#0,Trio meM eka zAnadAra experiance huA hai ... staff zAnadAra thA; food tasty aura portion size meM large thA - maiM portobello/gorgonzola/sausage appetizer aura lobster risotto kI bahuta jyAdA pezakaza karatA hU~|,"['service', 'food']","['positive', 'positive']"
+36244784#0#3,"Entrees classics jaisA lasagna, fettuccine Alfredo aura chicken parmigiana jur3A huA hai|",['food'],['neutral']
+32938222#1552119#2,"Food acchA hai, aura teriyaki ko maiM recommend karatA hU~|",['food'],['positive']
+11546184#1465600#0,Meal jo Apako milA bahuta expensive thA|,"['food', 'price']","['negative', 'negative']"
+32895093#418997#3,Peanut Butter Sorbet aura pizza with soy cheese ko bhI Az2amAe~!,['food'],['positive']
+32406302#615620#2,"sahI price para good food, Apako aura kyA cAhie|","['food', 'price']","['positive', 'positive']"
+35390182#756337#1,"hame yaha pasaMda hai, aura vahA~ jAne ke lie buses aura cabs milatA hai|",['anecdotes/miscellaneous'],['positive']
+11302356#1455624#2,"yadi Apa New York meM haiM, Apako yaha place miss nahIM karanA cAhie|",['anecdotes/miscellaneous'],['positive']
+11302356#1455624#1,"Food zAnadAra hai, service attentive, aura atmosphere kamAla kA hai|","['food', 'service', 'ambience']","['positive', 'positive', 'positive']"
+11302356#1455624#0,"maiM yahA~ pichale five years se kabhI-kabhI AtA rahA hU~, aura mujhe kahanA hai ki La Lanterna ne mujhe kabhI bhI dissapoint nahIM kiyA hai|",['anecdotes/miscellaneous'],['positive']
+11302355#533813#0,"zAnadAra food, zAnadAra waitstaff, zAnadAra atmosphere, aura sabhI GREAT beer meM se eka hai|","['food', 'service', 'ambience']","['positive', 'positive', 'positive']"
+35698351#821341#0,yaha abhI bhI usa area meM merA most favorite restaurants hai food expensive hai lekina bahuta acchA hai (kimono shrimp special zAnadAra thA) aura eka great atmosphere rahA hai|,"['food', 'price', 'ambience']","['positive', 'positive', 'positive']"
+11351664#1238806#0,"mere husband aura maiM 6 years pahale Nolita gae aura jaba se hama yahA~ raha rahe haiM, Peasant hamArA favorite hai!",['anecdotes/miscellaneous'],['positive']
+33070305#1312437#6,sabhI experience satisfy karane vAle the,['anecdotes/miscellaneous'],['positive']
+33070305#1312437#1,"jabaki, yaha visit ke lie worth thA|",['anecdotes/miscellaneous'],['positive']
+33070305#1312437#2,Menu maz2edAra aura bilakula sahI se priced haiM|,"['food', 'price']","['positive', 'positive']"
+33070305#1312437#3,Food delicious aura clearly fresh ingredients prayoga kie gae the|,,['positive']
+11610073#973003#3,yaha ise obvious banAyA hai ki food acche se cooked nahIM thA; yaha spaSTa rUpa se pahale hand se banAyA gayA thA aura reheat kiyA gayA thA|,['food'],['negative']
+11464789#378665#0,Appetizer yahA~ zAnadAra hai; Apa isameM se use meal out karake great (aura inexpensive) banA sakate haiM|,,"['positive', 'positive']"
+11464789#378665#1,Spicy mussels eka highlight hai|,,['positive']
+32899282#556036#2,Onion Rings milatA hai -- hamane jo best khAyA hai|,,['positive']
+11351587#1488758#8,hamane jo amount paid kiyA hai vo return nahIM hogA|,['price'],['negative']
+11351587#1488758#2,"jabaki, foodies hokara bhI, hama food ko lekara utterly disappointed the|",['food'],['negative']
+11359656#1716239#1,"bahuta bar3A portions, zAnadAra aura attentive service, aura bahuta acchA prices hai|","['food', 'service', 'price']","['positive', 'positive', 'positive']"
+11359797#469087#7,maiM unake service aura food se bahuta adhika disappointed thA|,"['service', 'food']","['negative', 'negative']"
+11359797#469087#6,"maiMne pahale waiter aura phira manager ko complain kiyA, lekina unakI ora se rudeness kI intensity baढ़tI calI gayI|",['service'],['negative']
+32938828#1194079#1,Food zAnadAra thA aura milkshakes jabaki better hai!,['food'],['positive']
+11349445#757796#5,"dUra raheM, agara Apa claustrophobic haiM|",['ambience'],['negative']
+11349445#757796#0,"yadi Apa hood meM haiM, to bilakula aMdara raheM|",['anecdotes/miscellaneous'],['positive']
+11349445#757796#1,Mushroom barley soup zAnadAra hai|,['food'],['positive']
+11602699#875811#0,"eka friend ke recommendation para, maiM apanI wife ke sAtha Arezzo meM gayA|",['anecdotes/miscellaneous'],['neutral']
+11602699#875811#1,"mujhe khuzI hai ki maiMne aisA dikhAyA ki food acchA thA aura staff friendly, courteous aura efficient the|","['food', 'service']","['positive', 'positive']"
+11313316#1234433#2,unake duck yahA~ bilakula delicious hai|,['food'],['positive']
+11313316#1234433#0,yaha place bilakula unameM se eka hai jahAM meM kaI years meM lagAtAra vApasa AyA hU~|,['anecdotes/miscellaneous'],['positive']
+11351762#644011#1,"jabaki yaha bar3A aura thor3A noisy thA, drinks zAnadAra the, aura food kamAla kA thA|","['ambience', 'food']","['negative', 'positive']"
+35719198#0#5,eka caveat: kucha curried casseroles kAphI kaThora ho sakate haiM|,['food'],['negative']
+35158451#1089920#3,maiM impressed nahIM thA aura yaha SPICEY nahIM thA|,['food'],['negative']
+33070461#1496736#1,Food lagabhaga hamezA EXCELLENT thA|,['food'],['positive']
+32882616#562969#4,maiM taste ke lie pleasently surprised thA|,['food'],['positive']
+33070309#423221#1,"eka acchA space, jaba taka ki yaha bahuta crowded nahIM ho jAtA hai aura eka singleminded devotion isa cune hue cuisine ko seafood lovers ke lie eka great choice nahIM banA detA hai|","['ambience', 'food']","['conflict', 'positive']"
+32882616#562969#3,maiMne pahale kabhI bhI orange donut nahIM khAyA thA isalie eka shot diyA|,,['neutral']
+35171678#484493#3,"unhone vAkaI eka relaxing, laid-back atmosphere pradAna kiyA| ",['ambience'],['positive']
+32945645#1528063#2,yaha particular location bilakula substandars meats kA upayoga karatA hai|,['food'],['negative']
+32895093#418997#0,maiM subway se home ke way meM isa resteraunt ke pAsa Thokara khAyA|,['anecdotes/miscellaneous'],['neutral']
+11546184#1465600#4,Management accommodating ke lie bahuta kama thA|,['service'],['negative']
+13383936#420974#2,Ambience bhI bahuta adhika laid-back aura relaxed thA|,['ambience'],['positive']
+35692932#1064131#3,Teas zAnadAra hai aura sabhI sweets homemade haiM|,['food'],['positive']
+11488685#420977#1,Mojitos aura service vahA~ kA sabase acchA part hai|,"['food', 'service']","['positive', 'positive']"
+35397104#0#3,"Sandwiches, burgers aura salads, lemon-dressed cobb kI taraha, classic successes hai|",['food'],['positive']
+35820984#608922#0,yaha restaurant bilakula beautiful hai|,['anecdotes/miscellaneous'],['positive']
+35820984#608922#1,Design bahuta hI intimate aura romantic hai|,['ambience'],['positive']
+35820984#608922#2,Food zAnadAra aura imaginative hai|,['food'],['positive']
+35820984#608922#3,Staff bahuta sharp aura ve acche bhI dikhate haiM|,['service'],['positive']
+36245348#821441#2,sabase worst hAlAMki taste thA|,['food'],['negative']
+36245348#821441#3,"ve dry, stale aura thor3A flavorless thA|",['food'],['negative']
+11432442#650772#5,jo fajita hamane Az2amAyA thA tasteless aura burned thA aura mole sauce bahuta mIThI thI |,['food'],['negative']
+11432442#650772#6,Roasted chickens ke sAtha rahie aura Apa fine raheMge|,['food'],['positive']
+32944693#1193404#4,"Atmosphere garma hai, ArAmadAyaka, artsy aura sexy hai|",['ambience'],['positive']
+32944693#1193404#1,"Food zAnadAra (bar3e selection, sahI prices) aura drinks vAkaI acche haiM|","['food', 'price']","['positive', 'positive']"
+35693214#539116#1,Steak mere mouth meM melt ho gayA|,['food'],['positive']
+32950007#1320096#3,"Food Ane meM kucha aura extra minutes haiM, lekina waiters' ke cute jokes aura friendliness ne ise make up diyA|",['service'],['conflict']
+35938288#666236#2,"sabase important, yaha reasonably priced thA|",['price'],['positive']
+11350660#564640#1,Selection of food kamAla kA hai (hamAre pAsa restaurants meM jyAdA choice nahIM hotI hai) aura atmosphere zAnadAra hai|,"['food', 'ambience']","['positive', 'positive']"
+35393632#1591698#7,"kevala suggestion yaha hai ki Apa dessert ko skip kareM, yaha overpriced aura taste ke lie kama thA|","['food', 'price']","['negative', 'negative']"
+15087705#871249#1,"Food decent, lekina zAnadAra nahIM thA|",['food'],['positive']
+11349871#518230#0,mujhe nahIM patA hai ki yaha restaurant itanA overlooked kyoM hai|,['anecdotes/miscellaneous'],['positive']
+11349871#518230#1,"jisa moment Apa walk in karate haiM, Apako lagatA hai ki Apa eka perfect place para haiM|",['anecdotes/miscellaneous'],['positive']
+11651062#1264882#1,"mujhe nahIM patA ki kucha people jo isa hot dog ke lie rave kara rahe haiM, bAta karate haiM|",['food'],['negative']
+11359619#487952#3,yaha eka pUrA chupe hue zAnadAra quaint bar aura acche food ke sAtha hai|,"['food', 'ambience']","['positive', 'positive']"
+32893510#483382#2,"maiMne dekhA ki adhikatara Kosher restaurants ausata se acche haiM, lekina yaha maiMne jo abataka kA khAyA vo best thA|",['anecdotes/miscellaneous'],['positive']
+11351628#404492#6,Waiters hamezA angry dikhAI par3ate haiM aura yahAM taka ki apane high-tipping regulards ko bhI ignore kara dete haiM|,['service'],['negative']
+35709141#1107179#0,"Atmosphere bahuta acchA hai, aura eka welcome escape bA~kI saba SI mall se alaga hai|",['ambience'],['positive']
+32935211#1468239#1,"hA~, ve typical se thor3A jyAdA expensive haiM, lekina phira bhI, unakA food vaisA hai|","['price', 'food']","['negative', 'positive']"
+11351725#582163#11,"Terrible nahIM, lekina restaurant 2002 ke reviews meM nahIM|",['anecdotes/miscellaneous'],['negative']
+33069901#1437116#3,"maiM kaha sakatA hU~ ki wraps, burgers aura salads sabhI fresh, tasty the sAtha hI $9 meM mango margareta bhI money ke lie worth thA|","['food', 'price']","['positive', 'positive']"
+33069901#1437116#4,yaha delicious aura large thA!,['food'],['positive']
+35709337#1579632#6,"aura kahIM bhI, prices 3x se jyAdA high hogA|",['price'],['positive']
+33069901#1437116#1,jo service hamane experience kiyA thA vo friendly aura acchA thA|,['service'],['positive']
+11351725#582163#9,hamAre waiters friendly the aura yaha shame kI bAta hai ki unake sAtha work ke lie supportive staff nahIM hai|,['service'],['conflict']
+11351725#582163#7,Folding chair jisapara maiM baiThA thA uncomfortable thA|,['ambience'],['negative']
+11351725#582163#5,jaisA ki hamane wait kiyA hamane diners ke 3 separate groups ko dekhA ki vo bhI kitane disappointed the|,['anecdotes/miscellaneous'],['negative']
+11432842#416795#5,Midtown meM zAnadAra choice hai|,['anecdotes/miscellaneous'],['positive']
+11432842#416795#1,aba taka jo Service maiMne NYC meM pAyA usameM yaha best thI|,['service'],['positive']
+11432842#416795#2,Fettucino alfredo zAnadAra thA|,['food'],['positive']
+33067279#1612676#1,Food bahuta hI acchA thA aura maiM itane sAre vegan options dekhakara pleasantly surprised thA|,['food'],['positive']
+32930165#1643018#3,maiM real Indian food janatA hU~ aura yaha itanA hI nahIM hai|,['food'],['negative']
+11359727#487554#5,"Smoked Trout ko Az2amAne ke lie taiyAra raho... Lamb Chops, Veal Chops, Rabbit, potato gratin, cAlU aura cAlU hai|",,['positive']
+11359727#487554#2,"jabaki chef house meM nahIM haiM, food aura service pahale se target karate haiM|","['food', 'service']","['positive', 'positive']"
+32893609#708406#2,Eggs benedict se mussels taka sabakucha aura jabaki hamburger bahuta acche se banA aura svAdiSTa thA|,['food'],['positive']
+32926987#668438#1,"Waiters bahuta professional, corteous aura attentive the|",['service'],['positive']
+32926987#668438#0,merA boyfriend aura maiM yahA~ last night gaI thI aura ye pasaMda AyA|,['anecdotes/miscellaneous'],['positive']
+32935729#785247#5,Falafal zAyada over cooked aura dried thA lekina chicken acchA thA|,['food'],['conflict']
+32935211#1468239#3,"maiM grand marnier shrimp ko bahuta jyAdA reccomend karatA hU~, yaha bahuta acchA hai|",['food'],['positive']
+32944704#492723#0,"hama vahA~ gae aura food ko vAkaI enjoy kiyA, bahuta zAnadAra food thA, aura service vAkaI meM acchA thA|","['food', 'service']","['positive', 'positive']"
+33061325#0#3,Desserts meM flan aura sopaipillas zAmila hai|,['food'],['neutral']
+32894513#498296#0,maiM bhUkhe mara rahA thA aura small portions mujhe crazy kara rahA thA!,['food'],['negative']
+35709141#1107179#4,Wait staff tez2a aura inconsiderate thA|,['service'],['negative']
+35709141#1107179#1,"jabaki, food aura service dramatically lack ho rahA thA|","['food', 'service']","['negative', 'negative']"
+35709141#1107179#2,Sushi ko blocks meM kATA gayA jo mere cell phone se bar3A thA|,['food'],['negative']
+11350496#1560668#3,"Service zAnadAra hai, merA soup hamezA acchA aura hot AtA hai| ","['service', 'food']","['positive', 'positive']"
+11351625#909535#1,yaha jabaki aba taka rahI hai aura maiM bhUla gayA ki crepes kitanA delicious ho sakatA hai|,['food'],['positive']
+11351622#0#5,Montparnasse's desserts-- mukhya rUpa se silken creme brulee aura paper-thin apple tart-- apane restaurant ke trip ko worth banAne ke lie paryApta acchA hai|,['food'],['positive']
+35701425#1155856#1,mere friend ne mujhe isa restaurant ke bAre meM eka year pahale batAyA thA vo finally hameM isa weekend para le gae|,['anecdotes/miscellaneous'],['neutral']
+11351620#1180095#0,maiMne eka svAdiSTa shrimp creole khAyA thA|,['food'],['positive']
+11351620#1180095#1,Chicken dinner saca meM acchA thA|,['food'],['positive']
+32464595#574909#4,Chili signed food items se taba taka sAvadhAna nA raheM jaba taka ki Apa fire department apane mouth ke flame ko bujhAne ke lie nA bulA leM|,['food'],['negative']
+32938222#1552119#1,Restaurant kA decor contemporary Japanese style meM sajA huA hai|,['ambience'],['neutral']
+11351620#1180095#3,lekina food svAdiSTa thA|,['food'],['positive']
+32464595#574909#2,"Ribs ko, sizzling beef aura bahuta se coconut rice ke sAtha couple karake Az2amAe~|",['food'],['positive']
+32893510#483382#3,yaha kevala aisA drawback hai jo thor3A pricey hai|,['price'],['negative']
+32893510#483382#0,isa place ke bAre meM sabakucha wonderful hai|,['anecdotes/miscellaneous'],['positive']
+32893040#1716582#5,Avocado salad eka personal fave hai|,['food'],['positive']
+32893040#1716582#6,"aura, honey BBQ rib tips svAdiSTa haiM|",['food'],['positive']
+32893040#1716582#0,sabase acchA Chinese food Uptown hai|,['food'],['positive']
+35170181#0#2,Service backwards ko bending over karake sabako happy karane ke lie hai|,['service'],['positive']
+32464601#418474#1,"Atmosphere attractive, lekina little uncomfortable hai|",['ambience'],['conflict']
+32464601#418474#2,yaha staff bahuta friendly hai|,['service'],['positive']
+11359618#788741#3,Waiters bahut friendly aura pasta isa world ke bAhara hai|,"['service', 'food']","['positive', 'positive']"
+33068517#482841#2,kamAla kA wine list aura zAnadAra cocktail menu hai|,['food'],['positive']
+33068517#482841#1,Crab cakes svAdiSTa hai aura BBQ rib bilakula sahI thA|,['food'],['positive']
+35869867#649564#1,"Food acchA hai, artfully kiyA huA aura simply delicious hai| ",['food'],['positive']
+32864873#471207#1,bahuta fast service ke sAtha choTA restaurant hai|,"['service', 'ambience']","['positive', 'neutral']"
+11350539#680470#4,"Sauce sabake lie nahIM ho sakatA hai, jabataka ki yaha distintive nA ho|",['food'],['conflict']
+33069536#707145#3,mere husband aura maiM karIba 6 times yahA~ A cuke haiM aura hameM hamezA yahA~ highest service aura free desserts milA hai|,"['service', 'price']","['positive', 'positive']"
+32899414#512291#0,"eka suMdara atmosphere, drinks aura/yA appetizers ke lie bahuta sahI hai|",['ambience'],['positive']
+32469157#1273114#0,yahA~ Curioni's Pizza lagabhaga 1920 se calA A rahA hai|,['anecdotes/miscellaneous'],['neutral']
+32469157#1273114#1,ve New Jersey meM best pizza banAte haiM|,['food'],['positive']
+36072604#1106889#1,maiM hAla ke pichale summer ke bAda eka year ke lie gayA thA|,['anecdotes/miscellaneous'],['neutral']
+36072604#1106889#2,"kyA difference hai, service bahuta comforting aura food average se jyAdA better hai, lekina sabase jyAdA jo standed out karatA hai vo eka dynamic aura extensive beer list hai|","['service', 'food']","['positive', 'positive']"
+12036269#580745#1,"vAkaI, yahA~ kA chinese food kucha aisA hai ki isase better maiM home meM banA sakatI hU~|",['food'],['negative']
+12036269#580745#2,Upara ke pUre restaurant meM kevala eka waiter hai|,['service'],['negative']
+35695422#1464305#3,hamane scallops aura asparagus aura soft shell crab ke sAtha-sAtha cheese plate se zuruvAta kI|,['food'],['neutral']
+36220672#1714981#3,"overlooked ke lie nahIM hai, service zAnadAra hai|",['service'],['positive']
+11651062#1264882#2,yaha question ke binA hamane aba taka kA eka worst hotdogs khAyA hai|,['food'],['negative']
+32971013#1044651#2,"Staff unbelievably friendly hai, aura maiM Saag gosht ko dream karate haiM...bahuta acchA| ","['service', 'food']","['positive', 'positive']"
+33064238#563983#2,maiM garlic knots ko bhI recommend karatA hU~|,['food'],['positive']
+32971013#1044651#0,aba taka kA best Indian food jo maiMne khAyA hai|,['food'],['positive']
+11351521#768768#3,Apa dissapointed nahIM hoMge|,['anecdotes/miscellaneous'],['positive']
+33064238#563983#0,isa place kA pizza sabase acchA hai|,['food'],['positive']
+35816071#637243#0,Culinaria Garment district kA welcome addition hai- area meM kisI bhI restaurant se bahuta acchA hai|,['anecdotes/miscellaneous'],['positive']
+32896473#439063#3,Music jo sometime mere taste ke lie bhI thor3A heavy hai|,['ambience'],['negative']
+11350010#590580#1,Service zAnadAra hai aura binA air ke informative bhI hai|,['service'],['positive']
+11359762#927332#1,Owner aura staff eka bar3e lengths ke lie Apako comfortable feel karAne jAte haiM|,['service'],['positive']
+11359764#1373169#0,maiM isa dungeon meM nahIM sakatA|,['ambience'],['negative']
+32950061#1264345#1,Sushi hamezA fresh aura yummy aura menu bahuta vary karatA hai|,['food'],['positive']
+11359767#969393#2,"Food zAnadAra thA - sushi acchA thA, lekina cooked food ne hameM Azcaryacakita kiyA|",['food'],['positive']
+33106326#864352#0,unake dinner specials zAnadAra hote haiM|,['food'],['positive']
+32894522#1633452#4,Delish aura apanI liking ke anusAra banAyA!,['food'],['positive']
+32405935#675215#0,"zAnadAra food, zAnadAra drinks, acchA dining atmosphere.","['food', 'ambience']","['positive', 'positive']"
+32894669#1075584#0,"jaba Apa yahA~ food ke lie price pay karate haiM, Apa expect kareMge ki yahA~ dUsare Japanese restaurants ke barAbara kucha baneMge|","['price', 'food']","['negative', 'negative']"
+32894669#1075584#1,Food portion choTA thA aura average se nIce thA|,['food'],['negative']
+32894669#1075584#8,apane Apako favor karo aura isa place ko ALL COST para avoid karo|,['anecdotes/miscellaneous'],['negative']
+33070605#1232775#0,taba se aba taka pahalI bAra maiM AyA aura hooked kiyA gayA|,['anecdotes/miscellaneous'],['positive']
+33085669#409731#11,pIche una comfortable chairs meM se eka meM baiThie|,['ambience'],['positive']
+11351360#1704700#2,neighborhood meM people ise bhI pasaMda karate haiM|,['anecdotes/miscellaneous'],['positive']
+32894416#1193614#6,Conclusion meM yaha PLACE sar3a gayA hai!!!,['anecdotes/miscellaneous'],['negative']
+33070461#1496736#6,merA yahA~ kA favs Tacos Pastor aura  Tostada de Tinga hai|,['food'],['positive']
+11351814#1650882#6,"isa area meM jAne ke lie Nick Stef's hI ekamAtra worthy place hai, to yadi Apa Madison Square Garden yA Herald's Square haiM to ise ceka kara leM!",['anecdotes/miscellaneous'],['positive']
+32936760#1397861#1,Apako batAnA hai: bilakula bhI impressed nahIM huA|,['anecdotes/miscellaneous'],['negative']
+11447227#436718#2,Bartenders aura managers vAkaI acche haiM aura decor bhI trendy hone ke daurAna comfy aura ArAma se leTane ke lie hai|,"['service', 'ambience']","['positive', 'positive']"
+32889544#0#4,"Savory ke lie soup and sandwich meal lo, hot and sour soup Az2amAo|",['food'],['positive']
+35693136#561234#0,"isa bar meM basa yahI hai - great drinks, cool atmosphere, zAnadAra service aura delicious food.","['food', 'ambience', 'service']","['positive', 'positive', 'positive']"
+11484031#1129679#4,"aura, chick peas with shrimp (appetizer) kamAla kA hai|",,['positive']
+11351628#404492#9,"aMta meM, maiM isa bakavAsa service, obnoxious smirks, aura snotty back talk se Uba gayA hU~|",['service'],['negative']
+35701425#1155856#0,maiM isase pahale kabhI bhI Agave nahIM gayA thA|,['anecdotes/miscellaneous'],['positive']
+11349536#778388#1,"Apa kucha coin drop kara rahe haiM, lekina yaha pUrI taraha se worth hai, z2yAdAtara yadi Apa kisI ko impress karane kI soca rahe haiM|",['price'],['conflict']
+32893510#483382#1,hamane lamb order kiyA jo pUrI taraha cooked aura awesome tasted thA|,['food'],['positive']
+11359619#487952#6,mujhe vAkaI unakA soft shell crab sandwich with fries pasaMda AyA|,['food'],['positive']
+33070605#1232775#2,"yadi Apa authentic hong kong-style food ko DhUMDha raheM haiM, to Age nA dekheM|",['food'],['positive']
+35390182#756337#0,merI wife aura maiM west side meM rahate haiM aura yaha UES meM friends ko visit karane ke daurAna pAyA|,['anecdotes/miscellaneous'],['neutral']
+11351664#1238806#6,acchA food acchA wine basa itanA hI|,['food'],['positive']
+33070305#1312437#7,Neighborhood meM eka acchA find hai|,['anecdotes/miscellaneous'],['positive']
+33070305#1312437#4,Staff bahuta hI friendly aura khuzanumA thA|,['service'],['positive']
+32894669#1075584#3,"aura jaise hI eka person kA ho jAtA hai, unase plate turaMta uThAne ko kahA jAtA hai|",['service'],['negative']
+11349840#433070#0,"yaha place Italian hai, French nahIM|",['anecdotes/miscellaneous'],['neutral']
+11351587#1488758#0,"yahA~ diye bahuta se great reviews ko dekhakara, last night mere bf aura maiM merA birthday celebrate karane Esca cale gae|",['anecdotes/miscellaneous'],['neutral']
+11478791#397331#1,"jabaki unakA kitchen food delicious hai, unakA Sushi isa saMsAra meM alaga hai|",['food'],['positive']
+35177381#521555#2,"Boot ke sAtha heat problem thI, isalie yaha restaurant meM 40 degrees kA thA -- hamane apane coats ko uncheck karane kA request kiyA!",['ambience'],['negative']
+35171678#484493#2,"sabakucha, eka cute waitresses ke excellent service ke sAtha, bilakula lush atmosphere meM scrumptious  hai|","['service', 'ambience']","['positive', 'positive']"
+11351664#1238806#1,"yaha traditional, sAdhAraNa italian food hai|",['food'],['positive']
+11432316#715219#0,merI girlfriend aura maiM anniversary ke 10 month Lou Lou meM bitAe haiM|,['anecdotes/miscellaneous'],['neutral']
+35693081#540596#1,"Food kula milAkara, rolls ke sAtha usually zAnadAra aura sushi/sashimi balki usa level kA bilakula nahIM, acchA hai|   ",['food'],['positive']
+35693081#540596#2,Sashimi  thor3A patalA kaTA hai|,['food'],['negative']
+32944714#1559783#2,"Bay Terrace mall isake binA (ok, bilakula kucha nahIM) kucha nahIM hai|",['anecdotes/miscellaneous'],['positive']
+35708055#673129#2,Chinatown meM 1/3 ke price meM better khA sakA thA|,['price'],['negative']
+11567247#1415594#0,mere husband aura maiMne blast kara diyA thA|,['anecdotes/miscellaneous'],['positive']
+11651062#1264882#6,maiM personally kahatA hU~ apanA money save kIjiye|,['anecdotes/miscellaneous'],['negative']
+11651063#1217842#0,"Great hot dogs ke sAtha hI, DOTP meM zAnadAra breakfast sandwiches hai jo kaI bar3e features ko jor3ate hue jaise tator tots aura English muffins ko jor3ate hue, eka delicious NJ-based pork product hameM Jersey girls aura boys ko Taylor ham jaisA batAtA hai|",['food'],['positive']
+11651063#1217842#8,"merA believe karo, ve name para rahate haiM|",['anecdotes/miscellaneous'],['positive']
+"balki, yaha huA hai kyoMki eka graceless manager aura eka rude bartender jo drinks ke lie 20 minutes waiting karAyA, aura phira hameM chill out karane ko kahA|","balki, yaha huA hai kyoMki eka graceless manager aura eka rude bartender jo drinks ke lie 20 minutes wait karAyA, aura phira hameM chill out karane ko kahA|",['service'],['negative']
+32892130#435512#1,"kevala service hI great nahIM hai, balki tables ke cAro ora conversation banAnA bahuta easy hai kyoMki atmosphere donoM tarapha romantic aura comfortable ho sakatA hai|","['service', 'ambience']","['positive', 'positive']"
+11359797#469087#5,"jaba dish AyA yaha green chillis ke sAtha jala rahA thA, jo bilakula human ke lie edible nahIM thA|",['food'],['negative']
+11351819#985076#1,aba taka kA worst service jo maiMne anubhava kiyA hai aura food average (jabaki people ko vAkaI meM order kiyA huA meals unhe diyA gayA thA) se kama thA|,"['service', 'food']","['negative', 'negative']"
+33061445#591371#1,yaha lunch ke lie $7 hai aura unhone take-out yA dine-in kiyA hai|,"['price', 'service']","['neutral', 'neutral']"
+11359762#927332#2,kula milAkara yaha New York kA BEST past hai|,['anecdotes/miscellaneous'],['positive']
+35698240#574381#0,hama yahA~ afternoon kA performance dekhate hue pahale bhI several times khA cuke haiM,['anecdotes/miscellaneous'],['neutral']
+32934709#796678#1,sabakucha bahuta cheap hai|,['price'],['positive']
+32934709#796678#2,lekina apane food ko eka fresh juice concoctions ke sAtha nizcita kareM|,['food'],['positive']
+32894963#1707639#1,Food zAnadAra hai aura prices reasonable hai|,,"['positive', 'positive']"
+32894963#1707639#3,"Place sApha hai, aura yadi Apako soul food pasaMda hai, to yahI vaha place hai|","['ambience', 'food']","['positive', 'positive']"
+32894963#1707639#4,Apa church ke bAhara bahuta se people ko khAte hue dekheMge|,['anecdotes/miscellaneous'],['neutral']
+33059678#631861#3,maiMne roast chicken aura eka salad khAyA|,,['neutral']
+32894966#1727613#0,maiM Juice Generation kA pichale 3 months se customer rahA hU~ - merA office Film Center ke Ninth Avenue aura ve agale block meM haiM|,['anecdotes/miscellaneous'],['neutral']
+32894966#1727613#7,unake pAsa bahuta acche chicken with avocado aura acchA tuna bhI hai|,['food'],['positive']
+32894966#1727613#11,yaha eka taraha kA place hai jise maiM support karatA hU~!,,['positive']
+11558693#1436895#4,lekina meals bhayAnaka thA|,['food'],['negative']
+11558693#1436895#6,merA chicken purI taraha se dried out ho gayA thA aura cold side meM sauce bahuta hI flavorful thA|,['food'],['negative']
+12037822#470071#0,Malted Milk Ball Gelato - kyA Apane apane life meM kabhI bhI kucha ridiculously wonderful sunA hai?,['food'],['positive']
+36216551#1233442#0,basa maiMne window kI aura se walk kiyA aura sabhI unbiased positive reviews ko acche major publications meM dekhatA hU~|,['anecdotes/miscellaneous'],['positive']
+11558693#1436895#9,isa terrible meal ke lie money z2yAdA hai|,"['price', 'food']","['negative', 'negative']"
+35708055#673129#6,kisI ko jAne ke lie recommend nahIM karatA hU~|,['anecdotes/miscellaneous'],['negative']
+35700731#1595671#2,jabaki service bahuta hI horrible hai|,['service'],['negative']
+11350033#1264371#4,dhImI bar service eka dhokA thA|,['service'],['negative']
+35158410#1207085#5,Dessert bhI kamAla kA thA|,['food'],['positive']
+11660930#655010#6,"BTW, service bahuta acchA hai|",['service'],['positive']
+11567247#1415594#4,We loved it and will go back!,['anecdotes/miscellaneous'],['positive']
+35695422#1464305#4,maiM phira eka weeks ke bAda mere boyfriend ke sAtha AyA aura aura phira se bahuta acchA experience huA|,['anecdotes/miscellaneous'],['positive']
+12036269#580745#8,yaha black vinegar aura shredded ginger ke sAtha khAyA jAtA hai|,['food'],['neutral']
+11350390#802808#2,"The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.","['ambience', 'price', 'food']","['negative', 'negative', 'negative']"
+33068517#482841#4,maiM definitly vApasa AU~gA!,['anecdotes/miscellaneous'],['positive']
+11359618#788741#1,yaha city meM sabase acchA Italian restaurant hai|,['anecdotes/miscellaneous'],['positive']
+11359619#487952#4,yaha kucha friends ke sAtha jAne ke lie cozy place hai|,['ambience'],['positive']
+11565268#560107#1,"Service hamezA se great hai, aura owner sabhI ora ghUmate haiM ki Apa enjoy kara sakeM| ",['service'],['positive']
+11351628#404492#5,kyoMki waiters ko SEVERE ATTITUE ADJUSTMENTS kI jarUrata hai|,['service'],['negative']
+35160930#774531#2,LA meM bahuta se numerous shavue restaurants haiM lekina kucha hI bAhara haiM|,['anecdotes/miscellaneous'],['neutral']
+33068909#1189415#6,bhayAnaka experience - dUra raho!,['anecdotes/miscellaneous'],['negative']
+32926987#668438#3,"yadi yaha restaurant Manhattan meM hotA, to maiM bilakula aksara jAtA|",['anecdotes/miscellaneous'],['positive']
+11359791#791967#1,Food delicious aura highly recommended hai|,['food'],['positive']
+11359790#823900#2,"jaba order lene kA time AyA to waiter ne hame thor3A hard time diyA, gayA aura phira vApasa AyA aura pen down kiyA kI hame kyA cAhie thA... kyA vaha isakA job nahIM hai?",['service'],['negative']
+11350269#481079#1,yaha city meM merA Fav sports hai|,['anecdotes/miscellaneous'],['positive']
+11351819#985076#4,"Over priced, overrated.... dUra raho!","['price', 'anecdotes/miscellaneous']","['negative', 'negative']"
+11351819#985076#0,Apa isa restaurant meM mata jAo|,['anecdotes/miscellaneous'],['negative']
+32894267#698671#2,"jaba se hama neighborhood meM the, hamane ise sure Az2amAne kA try kiyA thA|",,['neutral']
+11565268#560107#2,kula milakara kaha sakatA hU~ ki ve fantastic haiM|,['anecdotes/miscellaneous'],['positive']
+11351628#404492#2,Dieters salads se cipake hue haiM aura  vegetarian platters meM indulge haiM|,['food'],['positive']
+32935729#785247#10,aba taka kA filling aura healthy meal hai ise jAne do|,['food'],['positive']
+33068909#1189415#7,maiM imagine kara sakatA hU~ ki yaha kitanA burA ho cukA hogA ki yadi hama prime time meM gae hoMge|,['anecdotes/miscellaneous'],['negative']
+33066089#490193#0,maiM dine meM kaI times Mammino khA cukA hoUMgA aura hara bAra yaha better hotA jAyegA|,['anecdotes/miscellaneous'],['positive']
+33066089#490193#4,Definitely kucha check out karane ko hai|,['anecdotes/miscellaneous'],['positive']
+11359727#487554#3,"jaba taka maiM jIne ke lie pakAtA hU~, maiM bahuta food ko lekara bahuta fussy hU~ maiM restaurants meM khAtA hU~|",['anecdotes/miscellaneous'],['neutral']
+11639814#570590#2,Service zAnadAra thA|,['service'],['positive']
+11432842#416795#0,maiM restaurant week ke lie gayA|,['anecdotes/miscellaneous'],['neutral']
+11350141#1745557#0,merA friend aura maiM Kips Bay movie theater jAne se pahale yahA~ pizza ke lie ruke|,['anecdotes/miscellaneous'],['neutral']
+11350141#1745557#1,hama hamezA pizza enjoy karate haiM|,['food'],['positive']
+11350141#1745557#4,Service thor3A acchA hai|,['service'],['positive']
+35693216#1233439#0,maiM vahA~ kucha friends ke sAtha gayA aura vApasa A jAUMgA|,['anecdotes/miscellaneous'],['positive']
+32944693#1193404#0,yaha place kucha years ke lie hai|,['anecdotes/miscellaneous'],['neutral']
+11432442#650772#0,"Yum, chicken yahA~ zAnadAra hai|",['food'],['positive']
+36244423#1058258#3,maiM isa restaurant ko highly recommend karatA hU~!!,['anecdotes/miscellaneous'],['positive']
+11559272#409013#1,Apa apane Trio ke bAre meM sabakucha pasaMda kareMge|,['anecdotes/miscellaneous'],['positive']
+11538980#453602#0,yaha place bahuta worst thA|,['anecdotes/miscellaneous'],['negative']
+32891589#573560#0,maiMne yahA~ se last week order kiyA thA|,['anecdotes/miscellaneous'],['neutral']
+32938222#1552119#0,yaha Brooklyn meM eka acchA sushi restaurant hai jo 86 street para train station ke ThIka nIce located hai|,['anecdotes/miscellaneous'],['positive']
+32406302#615620#1,"yahA~ food bahuta zAnadAra thA, eka treat beginning se end taka thA|",['food'],['positive']
+11484031#1129679#1,Host (owner) aura servers apano jaisA aura dhyAna rakhane vAlA hai|,['service'],['positive']
+32882616#562969#0,maiM bahuta se magazines meM isake bAre meM sunane ke bAda try out karane kA decide kiyA|,['anecdotes/miscellaneous'],['neutral']
+11351561#744321#0,"yaha sabakucha bilakula hai... food, atmosphere...kamAla kI kind aura gracious hostess hai|","['food', 'ambience', 'service']","['positive', 'positive', 'positive']"
+33070461#1496736#7,Moved karake maiMne saca meM place ko bahuta miss kiyA|,['anecdotes/miscellaneous'],['positive']
+33068635#1533725#2,Food bahuta acchA aura service zAnadAra hai|,"['food', 'service']","['positive', 'positive']"
+11313316#1234433#1,maiM hamezA eka Vietnamese Beef Noodle Soup letA hU~|,['food'],['neutral']
+33069925#747092#5,"ise jor3eM : local investment bankers ise pasaMda karate haiM, apane lie kama se kama eka bAra try kareM|",['anecdotes/miscellaneous'],['positive']
+11359797#469087#1,maiM usake bAda dosa hut aura adhika jAne lagA|,['anecdotes/miscellaneous'],['positive']
+11661949#1709112#5,hama wonder kara rahe haiM ki ve vahA~ kyoM hamArA dining experience miserable kara rahe the|,['anecdotes/miscellaneous'],['negative']
+11351354#412616#2,"bahuta burA, bahuta potential hai|",['anecdotes/miscellaneous'],['conflict']
+33069536#707145#0,"New York ke isa place para sabase acchA Indian food milatA hai, hands down.",['food'],['positive']
+33069536#707145#1,Waiters bahuta hI friendly aura helpful hai aura yadi Apa frequent Ate haiM ve Apako yAda kareMge|,['service'],['positive']
+35693081#540596#0,Intimate lekina bilakula friendly service ke sAtha attentive service aura charming interior hai|,"['ambience', 'service']","['positive', 'positive']"
+35393632#1591698#4,Food utanA hI creative thA jitanA ki decor aura donoM kAma karatA thA|,"['food', 'ambience']","['positive', 'positive']"
+33009300#626261#0,Siam Square neighborhood meM bahuta nayA hai aura maujhe lagatA hai ki time meM ise vo recognition mila jAegA jo deserve karatA hai|,['anecdotes/miscellaneous'],['positive']
+33009300#626261#2,merA pahalA experiance Siam Square jo bahuta pleasent thA|,['anecdotes/miscellaneous'],['positive']
+33009300#626261#4,maiM Siam Square bahuta times jA cukA hU~ aura hara time maiM kAphI satisfied bhI rahA hU~|,['anecdotes/miscellaneous'],['positive']
+33009300#626261#5,"Menu eka acche selection ke lie, aura sabhIkucha jo maiMne koziza kI jo absolutely delicious hai|",['food'],['positive']
+35393630#1095759#0,hamane apanA Christmas party Dos para kiyA thA aura yaha zAnadAra thA|,['anecdotes/miscellaneous'],['positive']
+11350539#680470#1,merA khuda kA favorite Nick aura Joe's hai|,['anecdotes/miscellaneous'],['positive']
+11350539#680470#3,Sauce zesty aura flavorful aura crust acchA aura crispy hai|,['food'],['positive']
+33059931#926509#0,isa place meM isa city kA best sushi hai|,['food'],['positive']
+33059931#926509#1,unakA selection kamAla kA hai (rolls with crab vAkaI zAnadAra hai),['food'],['positive']
+11349871#518230#2,"hara koI jo vahA~ kAma karatA hai (host, bartender, servers) bahuta helpful hai|",['service'],['positive']
+11349871#518230#3,aura food fantastic hai|,['food'],['positive']
+11349871#518230#4,Favourites include: potato spinach gnocchi and the lamb.,['food'],['positive']
+32935583#854234#2,Glechik ke bAre meM dUsarI acchI cIja- sabakucha cheap hai!,['price'],['positive']
+33071731#1007204#0,"durbhAgyavaza, hamane yaha spot lunch ke lie aise cunA hai ki lage hamane bahuta walking kara lI aura yaha South St Seaport para jA kara khatma ho|",['anecdotes/miscellaneous'],['negative']
+32889544#0#3,lekina regulars jAnate haiM ki sandwiches yahA~ kA real star hai|,['food'],['positive']
+11351753#0#4,Portuguese cheese cart kA skillfully cunA gayA quality ke port ke sAtha jor3anA eka sahI lberian ending pradAna karatA hai|,['food'],['positive']
+35084984#412657#1,mere friend ne burger khAyA hai aura maiMne ye zAnadAra blueberry pancakes pancakes khAyA hai|,['food'],['positive']
+35084984#412657#2,hama apane food se bahuta khuza the aura jabaki jyAdA thrilled taba hue jaba hamane bill dekhA|,"['food', 'price']","['positive', 'positive']"
+35084984#412657#3,maiM isa restaurant meM definitely vApasa jAUMgA|,['anecdotes/miscellaneous'],['positive']
+15087705#871249#5,Place bilkul bhI prime time ke lie ready nahIM haiM|,['anecdotes/miscellaneous'],['negative']
+33064221#427885#3,sabhI toppings bahuta fresh haiM ve soceMge ki unakA apanA vegetable garden thA aura crust itanA perfect hai ki sahI meM socatA hai ki koI bhI sahI meM socatA hai ki kaise banAyA gayA thA|,['food'],['positive']
+11548230#560890#0,NYC meM Quartino merA pasaMdIdA resturant hai|,['anecdotes/miscellaneous'],['positive']
+11548230#560890#2,hamane hamezA amazing service pAyA hai aura hameM food pasaMda hai|,"['service', 'food']","['positive', 'positive']"
+35700989#574718#1,"Waitstaff solicitous aura friendly aura hamezA hameM dekhane meM acchA lagatA hai, aura food zAnadAra, lekina stunningly creative nahIM hai|","['service', 'food']","['positive', 'positive']"
+35700989#574718#2,mujhe lobster ravioli bahuta pasaMda hai|,['food'],['positive']
+33070600#670328#1,merA order mere table para hai jabaki eka busy friday night para 10 minutes phone para vyasta dikhA|,['service'],['positive']
+11639814#570590#0,hameM isa restaurant ke bAre meM accident se patA calA jabaki eka DUMBO art festival meM hamAre meal ko thoroughly enjoy kiyA|,['food'],['positive']
+11359618#788741#2,"Service zAnadAra hai, wait nahIM, aura Apako price jyAdA milatA hai| ","['service', 'price', 'food']","['positive', 'positive', 'positive']"
+12036269#580745#3,maiMne socA ki food Chinatown kI tulanA meM bilkul cheap nahIM hai|,['price'],['negative']
+32896473#439063#1,aura Apako kabhI aisA feeling nahIM AegA ki Apako chor3ane kA jarUrata hai|,['anecdotes/miscellaneous'],['positive']
+33070601#438491#0,Overpriced Cosi sandwiches se coffee jyAdA acchA deal hai|,['price'],['conflict']
+11661949#1709112#3,hameM nahIM patA ki hameM drink order karanA cAhie yA jAnA cAhie|,['anecdotes/miscellaneous'],['neutral']
+32894791#1611374#2,Neighbhorhood kA spot zAnadAra hai|,['anecdotes/miscellaneous'],['positive']
+34109476#402765#0,Bobb V's apane Friends aura Family ko le jAne ke lie eka zAnadAra place hai|,['anecdotes/miscellaneous'],['positive']
+35693081#540596#3,"East Village meM yaha best Japanese restaurant nahIM hai, lekina yaha apane modest prices ke lie kAphI soild hai, aura repeat visit ke lie worth hai| ","['price', 'anecdotes/miscellaneous']","['positive', 'conflict']"
+32944714#1559783#1,Food bahuta acchA aura bahuta papular hai jahAM waiting really eka nightmare ho sakatA hai|,"['food', 'service']","['positive', 'negative']"
+14336883#1094817#5,"yahIM vo cIz2a hai, jisake lie Apa restaurants ke lie world ke sabase acche city meM haiM|",['anecdotes/miscellaneous'],['positive']
+14336883#1094817#6,jAie aura apanA money kahIM aura bhI spend kIjiye jo vAstava meM Apako wows detA ho|,['anecdotes/miscellaneous'],['neutral']
+33059678#631861#2,"Crowd purAnA thA aura restaurant bahuta cramped hai, lekina isakA charm old school jaisA hai|",['ambience'],['conflict']
+32894966#1727613#1,yaha isa place kA asalI gem hai|,['anecdotes/miscellaneous'],['positive']
+32894966#1727613#9,mere hisAba se yaha wonderful place hai|,['anecdotes/miscellaneous'],['positive']
+11558693#1436895#1,Place para first walking karate hue ambience zAnadAra lagatA hai|,['ambience'],['positive']
+35700731#1595671#0,maiM isa weekend Kitchenette brunch ke lie gayA|,['anecdotes/miscellaneous'],['neutral']
+32894963#1707639#0,"isa place kA publicity nahIM kiyA jAtA hai jaise ki Sylvias Soul Food restaurant karatA hai, lekina karanA cAhie|",['anecdotes/miscellaneous'],['positive']
+14336883#1094817#7,kyoMki P Diddy ne Butter meM party kiyA thA isakA ye matalaba nahIM hai ki hameM automatically impressed ho jAnA cAhie|,['anecdotes/miscellaneous'],['negative']
+35819603#1613701#3,"jabaki do ke lie vahA~ bahuta hungry people the, bahuta se food home le jAne ko bace hue the (jise bahuta acchA reheats kiyA gayA hai)|",['food'],['positive']
+11350539#680470#8,"jaisA ki maiMne kahA, Nick aura Joe's sabake favorite nahIM ho sakate haiM, lekina yaha mere haiM|",['anecdotes/miscellaneous'],['positive']
+35393632#1591698#6,Help bahuta hI acchA thA aura hameM rush nahIM karAyA|,['service'],['positive']
+35714274#1076679#4,taba unhone kisI taraha cAroM ora raw aura cold meM dry aura brunt crust banAyA|,['food'],['negative']
+11351664#1238806#4,"yaha basa acchA food hai, kucha jyAdA nahIM aura vahI hameM cAhie|",['food'],['positive']
+33070286#1133164#7,nahIM jAnatA ki dUsare usa BLOCK jaise haiM lekina hama apane CHOICE se PLEASED haiM|,['anecdotes/miscellaneous'],['positive']
+32936760#1397861#9,ausata cake jo bahuta se hype se court kiyA gayA hai|,['food'],['negative']
+11349654#424016#1,yaha cute aura simple aura maiMne ise pasaMda kiyA thA|,['anecdotes/miscellaneous'],['positive']
+33068517#482841#0,merI wife aura maiM hAla hI meM bistro meM dinner ke lie visit kiyA aura eka zAnadAra experience huA|,['anecdotes/miscellaneous'],['positive']
+11351400#495795#1,SERVICE bhI bahuta PERFECT hai isa ITALIAN/FRENCH RESTAURANT meM kucha galata nahIM hai|,"['service', 'anecdotes/miscellaneous']","['positive', 'positive']"
+11313431#524365#0,mere fiance aura maiM hAla meM city dekhanA cAhate the aura aura eka dinner cruise bhI decide kie the|,['anecdotes/miscellaneous'],['neutral']
+11546184#1465600#1,$72 Delmonico steak vApasa bhejanA thA kyoMki yaha order ke lie nahIM pakAyA gayA thA|,"['food', 'price']","['negative', 'negative']"
+11482070#503858#1,"hara bAra maiM vahA~ gayA, maiM khAne ke lie kucha nahIM uThA sakatA thA kyoMki menu bahuta se great things se bharA huA hai|",['food'],['negative']
+11349922#547169#3,Rice ke mountain ke sAtha half chicken aura $6.25 meM beans.,,['positive']
+32894483#1088884#0,"Service vAkaI fast aura friendly, aura value zAnadAra hai|","['service', 'price']","['positive', 'positive']"
+32944674#542988#0,hama food aura value se bahuta impressed the|,"['food', 'price']","['positive', 'positive']"
+32944674#542988#2,Apako garlic soup avazya try karanA cAhie|,['food'],['positive']
+32896492#738746#0,"Casablanca servces svAdiSTa falafel, tabouleh, humus aura anya Mediterranean delights, jo sabhI bahuta inexpensive hai|","['food', 'price']","['positive', 'positive']"
+11313290#1139539#0,"Bardolino ke kucha bad evenings ke bAda, maiM vApasa AtA rahA|",['anecdotes/miscellaneous'],['conflict']
+33069847#1306433#1,"Pizza's fresh, crispy, aura serve ke lie taiyAra banAe gae haiM|",['food'],['positive']
+32893609#708406#3,"Midtown area meM bahuta se french bistros haiM, aura maiM ise wholheartedly recommend karatA hU~|",['anecdotes/miscellaneous'],['positive']
+35709451#1061726#1,Staff accomodating hai taya kareM ki Apa satisfied haiM|,['service'],['positive']
+11359727#487554#4,Chef Waldy's hamezA measures up kie gae haiM|,['food'],['positive']
+35709337#1579632#5,yaha diamond ruff meM 10 minute ke lie 6 train ke walk ke lie bilakula worth hai|,['anecdotes/miscellaneous'],['positive']
+11350660#564640#0,"eka khuda ke vegan hokara, maiMne Manhattan ke sabhI vegan restaurants ko try karane kA point banA diyA hai-- aura Zen Palate AsAnI se merA favorite banA hai|",['anecdotes/miscellaneous'],['positive']
+35819603#1613701#0,Don Pedro's mere pasaMdIdA restaurants meM se eka hai|,['anecdotes/miscellaneous'],['positive']
+33059931#926509#2,bahuta fresh sushi ucita priced ke sAtha|,"['price', 'food']","['positive', 'positive']"
+35819603#1613701#2,Seafood Paella for two ke lie jAo|,['food'],['positive']
+35819603#1613701#4,sabhI apetizers acche haiM aura Sangria bahuta acchA hai|,['food'],['positive']
+13383936#420974#0,Cantinetta dekhane meM eka mediocre Italian restaurants asalI treasure hai|,['anecdotes/miscellaneous'],['positive']
+11558693#1436895#7,"eka positive thing maiM kaha sakatA hU~ ki service prompt thI, hama turaMta baiThe aura server bahuta friendly thA|",['service'],['positive']
+33009300#626261#3,Staff ne hameM door para warmly greet kiyA aura maiMne promptly baiTha gayA aura food zAnadAra thA|,"['service', 'food']","['positive', 'positive']"
+11350539#680470#0,jabaki eka pizza place dUsare se acchA hai jo aksara subjective rahA hai|,['anecdotes/miscellaneous'],['neutral']
+35819603#1613701#5,Group aura date ke sAtha jAne ke lie vAkaI acchA restaurant hai|,['anecdotes/miscellaneous'],['positive']
+35819603#1613701#6,Service vAkaI thor3A acchA hai|,['service'],['positive']
+35708055#673129#4,Host aura Hostess bahuta rude the|,['service'],['negative']
+35708055#673129#7,Apa kucha bhI miss nahIM kara rahe hoMge|,['anecdotes/miscellaneous'],['negative']
+32878835#503761#0,maiMne Applebees ko khojA jaba maiM VA ke collage meM calA gayA|,['anecdotes/miscellaneous'],['neutral']
+11351453#683961#0,"Wait staff bahuta friendly haiM, yadi Apa rude yA picky nahIM haiM.......Leon meM last weekend para hamArA meal zAnadAra thA|","['service', 'food']","['positive', 'positive']"
+11351453#683961#1,maiMne unake kisI bhI salmon dishes ko recommend kiyA|,['food'],['positive']
+11351451#805713#1,Foie gras mIThA aura cipacipA thA|,['food'],['positive']
+11351324#0#2,"Menu, jo seasonally badalatA hai,  regional aura international donoM prabhAva dikhAtA hai|",['food'],['neutral']
+11624981#549489#5,lekina unakA mac cheese YUMMY thA|,['food'],['positive']
+11624981#549489#6,unake brunch menu sabake lie kucha haiM|,['food'],['positive']
+11624981#549489#7,Jazz singer kA voice acchA hai + usane hama sabako dance karAne ke lie kucha cals ko hilAne ke lie kucha aura khilAyA|,['ambience'],['positive']
+15069510#648179#0,"maiM hamezA apane ko Time Square ke time para mArane ke lie DhU~DhatA hU~, jo eka shame hai maiM isa area ko pasaMda nahIM karatA|",['anecdotes/miscellaneous'],['negative']
+15069510#648179#2,unake pAsa bahuta quick service hai jo great hai jaba Apake pAsa bahuta time nahIM hai|,['service'],['positive']
+15069510#648179#3,"Food average hai: breakfast food, soups, salads, sandwiches, Adi|",['food'],['neutral']
+11519527#1541586#1,maiM FOOD se bahuta hI adhika DISAPPOINTED thA|,['food'],['negative']
+11519527#1541586#3,"jo BANANA PUDDING vo SERVE karate haiM vo kabhI bhI OVEN nahIM hotA hai, CRABCAKES jarUrata se jyAdA SALTED hotA hai aura mujhe GREASY MAC AND CHEESE para zurU karavAyA| ",['food'],['negative']
+35759841#1360876#1,"Staff arrogant hai, Brooklyn ke lie prices bahuta hI jyAdA high hai|","['service', 'price']","['negative', 'negative']"
+35759841#1360876#0,Place average...sabase acchA hai|,['anecdotes/miscellaneous'],['negative']
+11639667#1085238#2,Service turaMta friendly hai|,['service'],['positive']
+11639667#1085238#6,"jo bhI reason ho, definitely yaha place hone ko hai|",['anecdotes/miscellaneous'],['positive']
+32464595#574909#0,jaba food kI bAta hotI hai to yaha literally eka hot spot hai|,['food'],['positive']
+32892297#645108#0,Downstairs bar scene bahuta ThaMDA aura maz2edAra hai|,['ambience'],['positive']
+32892297#645108#1,"Food bilakula zAnadAra thA, lekina jaba sabhI ho gayA, maiM bilakula ise price ke lie justify nahIM kara sakA (2 drinks ko milAkara $100/person)","['food', 'price']","['positive', 'negative']"
+32950061#1264345#0,maiM yahA~ friend's ke birthday meM casual lunches ke lie AyA hU~ aura maiM hamezA khuda enjoy karatA hU~|,['anecdotes/miscellaneous'],['positive']
+35393630#1095759#2,yadi Apa Tequila ke fan haiM to Apa disappoint nahIM hoMge|,['food'],['positive']
+11660930#655010#5,"zAnadAra beer selection bhI hai, kucha 50 beers kI taraha|",['food'],['positive']
+35695422#1464305#0,"acche reviews paढ़ne ke bAda, maiMne apane eka die-hard downtown friend ko TASTE meM mujhe join karane ke lie invite kiyA|",['anecdotes/miscellaneous'],['neutral']
+11359613#884374#3,Negative sound ke lie bhI nahIM lekina delivery ke lie taiyAra|,['service'],['negative']
+35390182#756337#7,"Family kI taraha feel karatA hU~, jaba maiM vahA~ jAtA hU~|",['anecdotes/miscellaneous'],['positive']
+13383936#420974#1,"mujhe food basa isake owner, Da Silvano jitanA acchA, kama expensive lagA|","['food', 'price', 'service']","['positive', 'positive', 'positive']"
+11484031#1129679#3,unake pAsa sabhI taraha ke homemade pastas haiM -- maiM gnocchi ko recommend karatA hU~ -- yum!,['food'],['positive']
+14336883#1094817#3,"merA vegetable risotto jala gayA thA, aura pUrI taraha brunt flavor meM infused ho gayA|",['food'],['negative']
+35695422#1464305#1,kyA zAnadAra surprise hai!,['anecdotes/miscellaneous'],['positive']
+32935729#785247#8,isa place kA mukhya draw price hai|,['price'],['positive']
+35390148#588852#4,isa taraha kI service ke hope ke sAtha business meM kaise raheMge|,['service'],['negative']
+32405935#675215#1,"lekina yahA~ kA dinner kabhI disappointing nahIM rahA, jabaki prices thor3A jyAdA hai|","['food', 'price']","['positive', 'negative']"
+32895093#418997#1,"nA kevala unake pAsa amazing, sandwiches, soup, pizza Adi hai, lekina unake homemade sorbets isa world se alaga haiM|",['food'],['positive']
+35393630#1095759#1,"Homemade Guacamole, avizvAsI entree, aura sabase amazing deserts hai|",['food'],['positive']
+11461396#699654#0,Sushi ucita rUpa se priced aura fresh hai|,"['food', 'price']","['positive', 'positive']"
+32485393#1022496#1,"yaha fuss nahIM, balki fast aura delicious hai|","['food', 'service', 'ambience']","['positive', 'positive', 'positive']"
+35869867#649564#3,Deserts ke lie room save kareM - ve marane ko haiM|,['food'],['positive']
+32408649#945413#2,Grill se sabase acchI cIz2a order karane ke lie (Churrasco aura Ribs) hai|,['food'],['positive']
+35196520#758440#0,Traditional Italian items zAnadAra haiM - saste aura ArAmadAyaka setting meM served kiye gaye haiM|,"['food', 'price', 'ambience']","['positive', 'positive', 'positive']"
+33085669#409731#7,jahAM Apa iced blended mocha yA hot white mocha lete hai Apa bahuta hI khuza hote haiM|,['food'],['positive']
+33068909#1189415#1,pichale Tuesday eka friend ke sAtha late lunch ke lie|,['anecdotes/miscellaneous'],['neutral']
+32891589#573560#3,yaha delish thA aura maiM ise khAkara bad feel nahIM kiyA|,['food'],['positive']
+32894416#1193614#4,dUsare friend ko parmesan cheese ke lie 3 times pUchanA par3A thA|,['service'],['negative']
+35177381#521555#1,"hamArI waitress ne kabhI kisI food ke lie koI apparently koziza nahIM kI, aura koI bhI kisI prakAra kA wine recommend karane vAlA nahIM thA|",['service'],['negative']
+15094232#1295193#3,"Service thor3A slow thA aura portions thor3A choTA thA isalie yadi tuma hungry aura rush meM ho, yaha place tumhAre lie nahIM hai|","['service', 'food', 'anecdotes/miscellaneous']","['negative', 'negative', 'negative']"
+11313431#524365#4,"agale time koI doubt nahIM hai hama special occasion ke lie yA town ke bAhara eka entertaining guest kI taraha bAhara jAnA cAhate haiM, Spirit aura Bateaux hamArA destination hogA|",['anecdotes/miscellaneous'],['positive']
+11538980#453602#2,maiM Jewel Bako ko recommend karUMgI yadi Apako lagatA hai ki ApakI groin meM ThakA gayA aura Apako pay bhI karanA par3A|,['anecdotes/miscellaneous'],['negative']
+11302357#835238#2,"Ambiance kAphI cool thA, lekina hassle ke lAyaka nahIM thA|",,"['conflict', 'negative']"
+33071731#1007204#4,hamAre bagala meM eka unfortunate lady ne socA ki usane eka salad order kiyA (jisameM salad dressing ko jor3akara) aura use usake badale quesedilla diyA gayA|,['service'],['negative']
+33069847#1306433#0,"El Nidos New York meM eka sabase acchA restaurants thA, jisameM maiM kabhI gayA thA, eka tasty kI eka great variety, mouth watering pizza's thA|","['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+11302357#835238#1,"kula milAkara service bahuta hI poor thA, food cost ke badale below average thA, aura bAhara eka crazy bum thA jo usa place ko chor3ane vAle sabhI customer ko harasses karatA thA|","['service', 'food', 'price', 'anecdotes/miscellaneous']","['negative', 'negative', 'negative', 'negative']"
+35709451#1061726#4,jabaki maiMne uptown moved kiyA maiM rukanA cAhA jabaki zAnadAra cheap food hone ke lie saMbhava hai aura eka friendly staff ke visit ko pay karanA hai|,"['food', 'price', 'service']","['positive', 'positive', 'positive']"
+35701425#1155856#4,mujhe bar meM kucha minutes mere friend ke lie wait karanA hai|,['anecdotes/miscellaneous'],['neutral']
+35816071#637243#1,"Chef Vincenzo, yadi Apako vaha cAhie to vahA~ hamezA haiM, eka real talent hai aura eka real Roman hai|",['food'],['positive']
+33069536#707145#4,"yadi Apa kucha great Indian food ko taste karane kA soca rahe haiM aura acchI service cAhate haiM, to Curry Leaf pakkA visit kareM|",,"['positive', 'positive']"
+32935583#854234#1,Apako Odessa stew yA Rabbit stew avazya Az2amAnA cAhie; salads-saba acchA hai; aura kompot hot summer day ke daurAna bahuta refreshing (ve aise karatI haiM jaisA merI mom kiyA karatI haiM) hai|,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+36220672#1714981#2,merI daughter aura maiM satisfied hoke calI gayIM (nA ki stuffed) aura yaha jAna kara acchA lagA hamane eka healthy lunch kiyA|,['food'],['positive']
+11447227#436718#0,maiMne pahale se isa place ko bad review dene ke lie tempted thA isalie maiMne crowds ko dUra rakhA...aba years se hamezA vahA~ jAte hue aura yaha vAkaI city meM merA fave hang out thA|,['anecdotes/miscellaneous'],['positive']
+33071731#1007204#5,"jaba usane complained kiyA, to waitress ne sorry kaha diyA|",['service'],['neutral']
+35158451#1089920#4,Quality of the meat Apake local grocery store ke lagabhaga barAbara thI|,['food'],['negative']
+32894966#1727613#2,ve smoothies aura fresh juices meM specialize thI|,['food'],['positive']
+35714274#1076679#3,"yaha sabase pahale well done AyA, aura maiMne ise politely vApasa bhejA|",['food'],['negative']
+11351587#1488758#7,"maiMne black roasted codfish ko recommend kiyA, yaha evening kA sabase acchA dish thA|",['food'],['positive']
+11359790#823900#3,taba manager ne hame batAyA ki hameM jo menu cAhie thA hama order kara sakate the lekina usa time taka hama waiter ko lekara bahuta annoyed the aura usa restaurant ko chor3akara hama kahIM aura cale gae|,"['service', 'anecdotes/miscellaneous']","['negative', 'negative']"
+33068664#1164940#0,"Mi burrito meM, yahA~ kucha nahIM lekina dark chicken jo last week pakAyA gayA thA aura microwave taste meM warm kiyA gayA thA|",['food'],['negative']
+11624981#549489#10,"vyasta hours ke daurAna, maiM Apake reservation karAne ke lie recommend karatA hU~|",['anecdotes/miscellaneous'],['neutral']
+35759841#1360876#3,apanA time aura money barbAda mata karo|,['anecdotes/miscellaneous'],['negative']
+32894267#698671#3,"yaha acchA hai lekina, lekina movie book jitanA acchA nahIM hai, yaha eka same analogy hai|",['anecdotes/miscellaneous'],['conflict']
+11624981#549489#9,yaha bahuta warm experiance thA|,['anecdotes/miscellaneous'],['positive']
+35084984#412657#0,maiM brunch ke lie Common Stock meM gayA aura maiM bahuta impressed huA thA|,['anecdotes/miscellaneous'],['positive']
+33069925#747092#0,"aba nikki suchi bulAyI gayI, sushi ThIka hai|",['food'],['neutral']
+33069536#707145#2,Food bhI bahuta outstanding hai aura aura bahuta tejI se served kiyA gayA hai|,"['food', 'service']","['positive', 'positive']"
+11351561#744321#1,mere pAsa isa place ke bAre meM kahane ko kucha nahIM hai jo ki negative hai bajAe isake ki yaha eka cheap night out hai...lekina yaha bahuta worth hai|,"['price', 'anecdotes/miscellaneous']","['conflict', 'positive']"
+35709337#1579632#1,"Erbazzone emiliana taka mostarda on the cheese plate, isa restaurant kI sabhI dishes ko bahuta hI komala rakha-rakhAva ke sAtha handled kiyA jAtA hai|",['food'],['positive']
+33066089#490193#3,Food svAdiSTa aura bar kA vibe kamAla kA hai|,"['food', 'ambience']","['positive', 'positive']"
+32894267#698671#1,expectations were real hi reading the '10's'.,['anecdotes/miscellaneous'],['neutral']
+32892130#435512#2,Candlelight aura music hai|,['ambience'],['neutral']
+32938828#1194079#0,eka place jo ki yaha 24 hours (adhikatara yaha downtown Brooklyn meM) find karanA acchA hai|,['anecdotes/miscellaneous'],['positive']
+32935729#785247#11,sAdhAraNa svasthavaradhaka unglamorous food sastA hai|,"['food', 'price']","['positive', 'positive']"
+35869867#649564#0,"yaha eka bahuta hI fantastic dining experience, jo maiMne usI week meM vApasa kiyA|",['anecdotes/miscellaneous'],['positive']
+11359613#884374#6,"ucita hone ke sAtha, food phira bhI acchA hai aura service quick hai aura attentive hai jabaki yaha usually bahuta busy hai|","['food', 'service']","['positive', 'positive']"
+35700731#1595671#1,Place bahuta hI adorable aura food svAdiSTa hai|,"['ambience', 'food']","['positive', 'positive']"
+11558693#1436895#5,maiMne Chicken Teriyaki aura mere husband ne Garlic Shrimp kI pezakaza kI|,['food'],['neutral']
+11558693#1436895#0,maiMne eka mall food court meM behatara Japanese food khAyA|,['food'],['negative']
+32894966#1727613#10,Staff members bahuta adhika friendly aura jabaki merA eka drink replaced kara diyA jaba maiMne ise bAhara girA diyA|,['service'],['positive']
+11359717#1138929#0,Cool atmosphere lekina eka kitanA let down thA|,"['ambience', 'anecdotes/miscellaneous']","['positive', 'negative']"
+32938222#1552119#3,"Sashimi portion adhikatara logoM ke lie kAphI bar3A thA, lekina mujhe aise fact pasaMda nahIM jo ve artifical lobster meat kA upayoga karate haiM|",['food'],['conflict']
+32891589#573560#1,unake pAsa wheat crusted pizza vAkaI fresh aura svAdiSTa ingredients se banA huA hai|,['food'],['positive']
+33070309#423221#0,"isa dedicated seafood joint meM eka zAnadAra dinner kiyA, food acche se prepared aura -presented aura service pleasent aura prompt thA|","['food', 'service']","['positive', 'positive']"
+32936760#1397861#7,"Icing se yaha cake banA hai, yaha fluffy, jyAdA sweet nahIM, creamy aura light hai|",['food'],['positive']
+32936760#1397861#5,aMta meM 5 baje store meM time se harried staff ke lie expensive slices kharIdane ke lie Ane do|,"['price', 'service', 'anecdotes/miscellaneous']","['negative', 'negative', 'negative']"
+33085939#758010#1,hamane chor3ane ke lie khatma kiyA kyoMki hameM pahale essentially wait staff svarA ignored kiyA gayA--jabaki bA~kI kA restaurant bahuta bar3A empty thA|,"['service', 'anecdotes/miscellaneous']","['negative', 'negative']"
+11351664#1238806#5,"Wine list kamAla kA hai, acche se priced hai jo bahuta se regions ko cover karatA hai|","['food', 'price']","['positive', 'positive']"
+33068890#423889#0,agara Apa kisI prakAra se imaging karake fresh aura tasty salads lenA cAhate haiM to yahA~ jAe~|,['food'],['positive']
+36244423#1058258#4,yahA~ kA sabakucha adorable hai yahA~ taka ki bathroom bhI|,"['anecdotes/miscellaneous', 'ambience']","['positive', 'positive']"
+32893040#1716582#1,"teja delivers, zAnadAra food, ucita prices, aura maitrIpUrNa service ko milAkara AnaMdamayI repast ko sunizcita karatI haiM|","['service', 'food', 'price']","['positive', 'positive', 'positive']"
+33070286#1133164#3,unake pAsa SIDEWALK para WAITERS Apako isa SUSPICIOUS sthiti meM khIcanA cAhate haiM|,['anecdotes/miscellaneous'],['negative']
+33070286#1133164#1,yahI kevala hamArI VISIT karane ke lie eka mAtra OPPORTUNITY thI aura aura eka AUTHENTIC ITALIAN MEAL cAhatI thIM|,['anecdotes/miscellaneous'],['neutral']
+32897564#894393#0,Parisi ko pizza banAne meM lagabhaga 100 years lage haiM (mujhe nahIM lagatA vo isa year isase pahale banAe hoMge)...lekina wait karane yogya thA|,"['food', 'anecdotes/miscellaneous']","['positive', 'conflict']"
+35714274#1076679#2,maiMne basa kevala sAdhAraNa medium rare steak mAMgA|,['food'],['neutral']
+35509422#0#3,"udAratA se garnished kiyA huA, organic grilled burgers sabase jyAdA popular dish hai, lekina Jerusalem market-style falafel wraps aura Mediterranean salads--layered with beets, goat cheese and walnuts barAbara scrumptious hai|",['food'],['positive']
+11302357#835238#3,"zAyada merA sabase kharAba dining experience new york meM huA hai, aura maiM eka former waiter hU~ isalie maiM janatA hU~ kI maiM kyA bAta kara rahA hU~|",['anecdotes/miscellaneous'],['negative']
+32936760#1397861#6,"Result (red velvet): Great texture, soft and velvety, nice hint of cocoa.",['food'],['positive']
+11359762#927332#4,Round corner table next to the large window ke lie pUchiye|,['anecdotes/miscellaneous'],['positive']
+32891589#573560#4,"unakA twist on pizza healthy, lekina flavor se bharA huA hai|",['food'],['positive']
+11350033#1264371#1,AC kI kamI se fact yaha hai ki million swarming bodies (jabaki hara koI polite hai aura koI push nahIM kara rahA hai) jo eka choTA turn off hai|,"['ambience', 'anecdotes/miscellaneous']","['negative', 'conflict']"
+11351328#1638529#0,"mujhe Little Pie Company bahuta pasaMda hai aura sabhI jinahone reviews likhA hai, lekina two sales people ke lie kisI ko Grand Central location meM unake RUDE service ke kAraNa visit karane se avazya discourage karanA cAhie|","['anecdotes/miscellaneous', 'service']","['conflict', 'negative']"
+33009300#626261#1,"durbhAgyavaza, jabataka Apa neighbourhood meM rahate haiM, yaha convenient location meM nahIM hai lekina eka chupA huA treasure jaisA hai|",['anecdotes/miscellaneous'],['conflict']
+35708055#673129#1,lagatA nahIM hai ki kisI taraha kA koI effort display and quality of the food zAnadAra thA|,['food'],['negative']
+11351628#404492#1,Food jabaki mostly deep fried--simple aura satisfying hai|,['food'],['positive']
+11548230#560890#1,hama neighbourhood meM rahate haiM aura jabase opened huA hai week meM do bAra vahA~ jAte rahe haiM|,['anecdotes/miscellaneous'],['neutral']
+32935583#854234#0,"Glechik Russian standards ke anusAra restaurant ke bahuta tiny hone kA eka way ho sakatA hai, lekina yaha cozy aura food simply GREAT hai|","['ambience', 'food']","['conflict', 'positive']"
+11639814#570590#1,Food zAnadAra thA-authentic Italian cuisine bilakula fresh banA hai|,['food'],['positive']
+11313359#650269#4,rAta meM atmosphere chupe hue jewel meM badala rahA hai joki discovered karane ke lie wait kara rahA hai|,['ambience'],['positive']
+11351814#1650882#5,"dUsarI bAra maiM romantic date heaven meM gayA, Apa walk-in kara ke booth by the windows pA sakate haiM, not-crowded place meM apane ko VIP kI taraha great food aura service ko VIP kI taraha treat karavAIe|","['ambience', 'food', 'service']","['positive', 'positive', 'positive']"
+33070601#438491#1,maiM kevala coffee ke lie jAUMgA joki Starbucks ke jaisA yA usase bahuta acchA hai|,['food'],['positive']
+11359797#469087#0,maiM jaba taka door ke bagala meM dosa hut taba taka maiM pongal kA regular costumer huA karatA thA|,['anecdotes/miscellaneous'],['neutral']
+11651065#413029#2,kucha nirAza karane vAle wine list (kevala new vintages ke sAtha)|,['food'],['negative']
+33059678#631861#4,"donoM bahuta acche the, lekina Apa similar restaurant meM kucha nahIM pAeMge|",['anecdotes/miscellaneous'],['conflict']
+11639261#426600#0,yadi Apa nasty high priced food kI bAta karate haiM to ghetto scenery cheap BX A$$ meM bel ke lie yahI eka place hai|,"['food', 'price', 'ambience']","['negative', 'negative', 'negative']"
+33069925#747092#1,New hamburger with special sauce ThIka hai - kama se kama big mac se bar3A hai|,['food'],['conflict']
+35196520#758440#1,"bilakula al dente pasta, binA sauce meM DUbA huA -- generous portions hai|",['food'],['positive']
+12036269#580745#6,"maiM prices ko mAna sakatA hU~ yadi yaha acche food, like midtown meM kucha Chinese restaurants  ko served karatA hai|","['price', 'food']","['negative', 'negative']"
+15087705#871249#2,Service awful thI - adhikatara staff Saturday night ko ghabarAe hue the|,"['service', 'anecdotes/miscellaneous']","['negative', 'negative']"
+35693216#1233439#3,"Owners ko; bahuta acchA job guys, yaha place eka keeper hai!",,['positive']
+35692932#1064131#2,aura owner samAnyatayA lovely aura friendly hai|,['service'],['positive']
+11484031#1129679#0,yaha choTA place kamAla kA warm hai|,['ambience'],['positive']
+33106326#864352#4,eka quick meal ke lie zAnadAra hai|,['anecdotes/miscellaneous'],['positive']
+35709451#1061726#0,Local family ko warmth karane ke lie sporting events ke lie zAnadAra place hai|,['ambience'],['positive']
+11351762#644011#3,"Service zAnadAra thA, aura usake pAsa birthday ke lie pUrI eka acchI deal hai|","['service', 'price']","['positive', 'positive']"
+36244423#1058258#1,Staff 100% hai Italian aura food utanA hI authentic hai jitanA kI milatA hai|,"['service', 'food']","['positive', 'positive']"
+11350496#1560668#4,merA complaint kevala fortune cookies ho sakatA hai - maiMne kabhI bhI cookie nahIM liyA jo batAtA hai ki Kar visit karane ke pahale lenA merA bad luck thA|,['anecdotes/miscellaneous'],['negative']
+11461396#699654#3,eka sushi lunch ke lie acchA hai|,,['positive']
+11464789#378665#2,Mojito khAo aura back patio meM baiTho|,,"['positive', 'positive']"
+11351513#832512#2,Service dreadfully slow thA (Place kevala AdhA full thA) aura eka smile acchA ho sakatA thA|,['service'],['negative']
+11408372#630381#0,maiM isa pichale Saturday ko gayA aura braised lamb shank with mashed potatoes kA eka zAnadAra meal khAyA,['food'],['positive']
+32894669#1075584#2,Waitress ne AkAra apanA soy sauce ko uThA liyA jabaki hama apanA lunch abhI kara hI rahe the|,['service'],['negative']
+11661949#1709112#2,"isalie hama bar meM baiTha gae, bartender ko dekhakara aisA lagA ki vo vahA~ rahanA cAhatA thA|",['service'],['negative']
+32933228#1700177#1,"maiM fried pork dumplings, orange chicken/beef, fried rice ko reccomend karatA hU~| ",['food'],['positive']
+11359762#927332#0,Apa menu meM kisI bhI choices se disappointed nahIM hoMge|,['food'],['positive']
+35709275#573688#1,French fries -- with the kalmata dip zAnadAra thA!,['food'],['positive']
+11349845#1188496#0,"kyA Apa kabhI believe karoge ki jaba Apa eka hour wait karane ke bAda complain karate ho, jaba ve tumheM batAte haiM ki 20-30 minutes hogA, manager batAtA hai ki bartender drinks ko spill karatA hai jise Apane just pay kiyA hai|",['service'],['negative']
+11313359#650269#5,Boutique selection of wines ko binA impos kie hue wide variety ko cover karatA hai|,['food'],['neutral']
+35693136#561234#4,"yadi Apa lucky aura koI private party vahA~ vApasa nahIM jA rahI hai, Apako vAkaI chill-out karane kA chance milegA|",['ambience'],['conflict']
+32896492#738746#2,unake pAsa eka kamAla kA assortment of wraps hai yadi Apa traditional Mediterranean fare ke mood meM haiM|,['food'],['positive']
+11351816#1162694#1,"Fresh veggies, sabhI taraha ke middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, eka rice medley, kucha spinach thing, lamb kebabs, cheese baclava... bahuta sArA food, aura ye sabhI svAdiSTa haiM|",['food'],['positive']
+32405935#675215#2,"nirAzAjanakarUpa se, unake zAnadAra Saketini bar menu se nikAla lie gae haiM|",['food'],['conflict']
+35668286#0#0,"Short meM Black Sheep Midtown pub ke herd se alaga look hai, jo ki sports-bar butch aura ornate kitsch kA mix hai|",['ambience'],['negative']
+11350031#590790#3,maiM pakkA vApasa jAUMgA -- yadi kevala blackboard para kucha aise exotic martinis haiM|,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+32469157#1273114#2,ve Thoke hue path se bilakula bahuta hI alaga trip ke lie worth hai|,['anecdotes/miscellaneous'],['conflict']
+33060905#1138585#2,taba usane table ke sAtha 1 yA 2 chairs add nA karane ke lie apane end se additional people ke lie eka fuss banAyA|,"['service', 'anecdotes/miscellaneous']","['negative', 'positive']"
+35693216#1233439#1,"Happy hour bahuta cheap hai, lekina vaha service yA atmosphere ko reflect nahIM karatA hai|","['price', 'service', 'ambience']","['positive', 'positive', 'positive']"
+33068909#1189415#2,"lagabhaga eka hour waiting ke bAda, waiter brusquely ne hame batAyA ki usane kitchen meM hamArA order denA bhUla gayA|",['service'],['negative']
+33070383#592089#0,8th avenue para sabhI mundane yA mediocre places ke sAtha eka rakhanA acchA hogA ki quaility aura atmosphere meM eka step Upara hai|,"['ambience', 'anecdotes/miscellaneous']","['positive', 'positive']"
+32889544#0#0,"Students kA eka mix aura isa narrow area residents kA crowd, kevala vahA~ ke isa jaldI space meM, eka dirt-cheap prices meM eka svAdiSTa treats hai|","['ambience', 'food', 'price']","['negative', 'positive', 'positive']"
+35698240#574381#4,"eka koziza karo, menu typical French vAlA lekina bhinna hai|","['food', 'anecdotes/miscellaneous']","['neutral', 'positive']"
+33064238#563983#1,yaha crowded hotA jAegA lekina yahA~ back meM bahuta sI seats hai aura hara koI jo yahA~ work karatA hai bahuta acchA hai|,"['ambience', 'service']","['conflict', 'positive']"
+11651065#413029#3,"lekina value ke lie, yaha eka choTe group ke sAtha fun night out ko enjoy karane ke lie eka zAnadAra affordable spot hai|","['price', 'ambience']","['positive', 'positive']"
+36216551#1233442#1,City meM negative reviews zAyada jelous competing restaurants jo realize karatA hai ki ve Temple's ke ko lekara sAre positive attitude ke sahI way se customers ko treat karanA aura top quality kA food denA hotA hai|,"['service', 'food']","['positive', 'positive']"
+11351725#582163#4,hamane eka glass of wine ordered kiyA aura wine ke Ane se pahale eating aura paying donoM kara diyA|,"['service', 'food']","['negative', 'neutral']"
+35720486#684689#0,"yaha acchA thA, lekina koI bhI flavors WOW nahIM thA|",['food'],['conflict']
+32938222#1552119#4,kula milAkara yaha kucha friends ke lie hang out aura service ke lie place zAnadAra aura acchA hai|,"['service', 'ambience']","['positive', 'positive']"
+32408649#945413#3,Food kI eka zAnadAra quality aura eka acche restaurant price meM hai|,"['food', 'price']","['positive', 'positive']"
+11661949#1709112#4,"asala meM, hara koI jo vahA~ work karatA hai annoyed lagatA hai|",['anecdotes/miscellaneous'],['negative']
+33106326#864352#1,"lagabhaga eleven bucks Apako eka gigantic burrito (yA tacos), margarita, aura dessert milatA hai|","['price', 'food']","['positive', 'positive']"
+11351622#0#1,Space feel ke lie pAraMparika hai|,['ambience'],['neutral']
+33060905#1138585#1,"Restaurant pUrA kA pUrA empty thA, lekina usane mujhe eka dirty look diyA aura koI reservations nahIM pUchA|",['service'],['negative']
+11538980#453602#1,"Food kind hone ke lie mediocre thA - interior small aura average thA - owners unpleasantries ke tag-team ke lie - isalie rude aura snotty the, maiM vAstava meM eka hearty guffaw whilst dining thA|","['food', 'ambience', 'service']","['negative', 'negative', 'negative']"
+35196527#481646#3,"acchI service, zAnadAra food, acchI value, aura kabhI line meM wait nA karanA par3e|",,"['positive', 'positive', 'positive']"
+35743460#0#3,Hot cakes aura Egg McMuffin sandwich breakfast ke lie available hai|,['food'],['neutral']
+36072604#1106889#0,"maiM isa restaurants meM years se jAtA rahA hU~, past meM service average thI aura food inconsistant thA|","['service', 'food']","['neutral', 'negative']"
+11567247#1415594#2,"Music fascinating thA, lekina conversation ke lie room bacA huA thA, aura bartender ne kamAla ke drinks banAye the| ","['ambience', 'food']","['positive', 'positive']"
+33070605#1232775#3,Rice dishes aura noodle dishes vAkaI $5 baढ़ gaI haiM aura eka refreshing ice drink kA $2 add karake Apa night ke lie set the|,"['food', 'price']","['positive', 'positive']"
+32899414#512291#3,Cuisine eka asian fusion billed kiyA gayA - bill ko nahIM milatA hai|,"['price', 'food']","['negative', 'negative']"
+11351622#0#3,Creative dishes jaise passion fruit ke sAtha king crab salad with passion fruit vinaigrette aura fettuccine with grilled seafood in a rosemary-orange sauce meM grilled seafood unexpected elements anyathA batAyA huA bistro menu hai|,['food'],['positive']
+35170181#0#3,"Dishes batAtA hai ki jaise Roy's Classics (asterisks ke sAtha menu ko mark kiyA gayA) eka koziza ki jo aura true recipes thA, jaise ki macadamia-crusted mahi mahi, yA  AsAnI se sweet honey-mustard beef short ribs hoM|",['food'],['positive']
+32893040#1716582#4,"Cold sesame noodles, joki freebie hai jaba Apa order $10+ kA order karate haiM to delectable ho jAtA hai|","['food', 'price']","['positive', 'positive']"
+35177381#521555#0,"maiM fresh eka zAnadAra meal expect karate hue AyA hU~, aura kula milAkara mujhe restaurant meM marginally so-so food served kiyA gayA hai joki bahuta hI freezing thA jisase ki hama eating enjoy nahIM kara sake|","['ambience', 'food']","['negative', 'negative']"
+35886114#1249751#0,eka $8.95 meM laMbA argentine chorizo appetizer meM eka bhArI fennel flavored Italian sausage jaisA ki store meM $2.99/lb kA thA|,"['price', 'food']","['negative', 'negative']"
+33059678#631861#0,"maiM family ke kucha friends ke sAtha Swiftys gayA aura hamane bahuta acchA dinner kiyA, lekina kucha amazing nahIM thA|",['anecdotes/miscellaneous'],['conflict']
+32867472#663531#2,"Upper East meM sabase acchI Chinese, turaMta delivery, acchI value.","['service', 'price', 'anecdotes/miscellaneous']","['positive', 'positive', 'positive']"
+32894966#1727613#8,adhikatara sandwiches soy mayonaise se bane hue haiM joki asala meM bahuta acchA hai|,,['positive']
+33060905#1138585#0,maiM one day eka group ke lie table pUchane ke lie gayA aura hostess dvArA bahuta hI rude greet kiyA gayA|,['service'],['negative']
+35196527#481646#4,mere Chelsea meM eka awesome dinner ke lie eka cab lenA worthwhile hai|,['anecdotes/miscellaneous'],['positive']
+35709337#1579632#2,"nA kevala food authentic hai, lekina yahA~ ke staff practically off-the-boat haiM, ve young aura hip aura jaba yaha food aura wine para AtI hai to ve kyA kara rahe haiM|","['food', 'service']","['positive', 'positive']"
+35938288#666236#1,"isakA music acchA hai, acchA tapas, eka zAnadAra selection of wines (primarily Spanish) aura eka lowkey hip neighbourhood clientele hai|","['ambience', 'food']","['positive', 'positive']"
+32867472#663531#1,"Food zAnadAra hai, maiMne apane dumplings ko pasaMda kiyA, eka cold sesame noodles, chicken aura shrimp dishs hai|",['food'],['positive']
+11484031#1129679#2,"aura food, jabaki food Apako vApasa bulAte raheMge|",['food'],['positive']
+11351819#985076#2,Three hours ke Waiting ke bAda hamArI entrees eka treat bhI thI|,['service'],['negative']
+15069510#648179#4,yahI conversations hai jo ise eka fun place bhI banAtA hai|,['ambience'],['positive']
+11351451#805713#2,"jabaki merI gf's duck confitte bahuta solid thI, jabaki mere pAsa thor3A base of reference thA|",['food'],['positive']
+35695422#1464305#2,"Wine list supurb thA, hamAre tapas zAnadAra, aura quiet atmosphere acche conversations ke lie bilakula perfect the|","['food', 'ambience']","['positive', 'positive']"
+11313316#1234433#3,Apa fast food price para gourmet food pA sakate haiM|,"['food', 'price']","['positive', 'positive']"
+11417054#1062693#1,"maiMne tInoM hI locations para khAyA hai aura maiM food hamezA pasaMda karatA hU~, service hamezA wonderful aura prices vAkaI reasonable hai| ","['food', 'service', 'price']","['positive', 'positive', 'positive']"
+35693083#822138#0,"isalie nahIM kI maiM pregnant thA, lekina yahA~ kA food hamezA delicious thA|",['food'],['positive']
+11351625#909535#0,isa weekend movies jAne se pahale bahuta zAnadAra meal khAyA!,['food'],['positive']
+15094232#1295193#0,hAla hI meM hamane yahA~ eka birthday party kiyA thA aura food aura service bahuta hI amazing thA|,"['food', 'service']","['positive', 'positive']"
+35171678#484493#1,"Dinner menu bahuta se zAnadAra entrees, fresh seafood aura huge steaks kI variety detA hai, bahuta se non-meat alternatives bhI haiM|",['food'],['positive']
+11482070#503858#0,isa place kA menu ajIba aura restaurants fancy food banAne kI koziza karane ke lie hard hai|,['food'],['negative']
+32443281#959917#3,"Appetizers ThIka thA, lekina service dhImA thA| ","['food', 'service']","['neutral', 'negative']"
+11359717#1138929#5,Food - price ke lie lAyaka nahIM thA|,"['price', 'food']","['negative', 'negative']"
+11302357#835238#0,"Apa place ke bAre meM kyA kaha sakate haiM jahAM waitress wrong entree lAte haiM, taba verbally 80 years kI grandmother aura ise vApasa bhejane ke lie unhe lip detI haiM (jo unhone politely kiyA, berahAla)|",['service'],['negative']
+11351762#644011#2,Prices bhayAnaka nahIM haiM|,['price'],['positive']
+33071731#1007204#6,15% gratuity Apake bill meM apane se hI jur3a gayI|,['price'],['negative']
+35177381#521555#3,"Halibut cheek appetizer eka udAra portion of foie gras, lekina yaha kevala positive cIjeM jo maiM meal ke bAre meM kaha sakatA hU~'|",['food'],['conflict']
+33061445#591371#3,Food excellent aura unake pAsa empenadas aura plaintains jo afternoon snack ke lie acchA hai|,['food'],['positive']
+13383936#420974#3,donoM eka appetizer ke number aura pasta specials zAnadAra the|,['food'],['positive']
+35743460#0#2,"hamezA pasaMdIdA Big Mac ko jor3atA hai, Chicken McNuggets, Filet-O-Fish sandwich aura McDonald's famous french fries isase halkA options jaise entree-sized salads bhI upalabdha hai|",['food'],['positive']
+11351451#805713#4,"bhale hI kucha loud hai, noise kama-se-kama dakhala dene ke lie hai|",['ambience'],['conflict']
+11350539#680470#2,"yaha eka basic pizza joint hai, bahuta nahIM dekhanA hai, lekina pizza hai jisake lie jAnA hai|","['ambience', 'food']","['neutral', 'positive']"
+35393632#1591698#3,"Tables baMda hai, isalie Apa dUsare patrons ke sAtha elbows se bump karake ArAmadAyaka banAte haiM|",['ambience'],['negative']
+32894522#1633452#0,Lunch ke lie usakA Monday thA - usa area meM film para working kara rahA thA - aura yaha rare jewel pAyA|,['anecdotes/miscellaneous'],['positive']
+11359767#969393#1,"bahuta adhika nahIM, lekina enough hai yaha scene zAnadAra hai|",['ambience'],['positive']
+32864873#471207#0,Apako lagatA hai ki Apane ise New York banA diyA hai|,['anecdotes/miscellaneous'],['positive']
+11432316#715219#1,hama isake bagala se dozens times gae haiM aura eka Monday night ko aMta meM settled ho gae|,['anecdotes/miscellaneous'],['neutral']
+32894267#698671#6,"ise jor3eM : 10's reviews ko nA paढ़eM, ise khuda ko judge karane ke lie Az2amAe~ ki ApakI expectations hi nahIM hai, taba Apa ise enjoy karane ke lie sure rahaMge|",['anecdotes/miscellaneous'],['positive']
+11661949#1709112#1,"hama vahA~ gae the, kisI ne hameM greet nahIM kiyA|",['service'],['negative']
+35668126#536759#4,Blue bar area ko bhI khodeM|,['ambience'],['positive']
+35391416#500259#3,hama bahuta time elbow para jhuke hue hamane wait karake cale gae|,['ambience'],['negative']
+35390148#588852#0,"Apake establishment meM dine kI opportunity milI, maiM Apake upstrairs dining area meM thA|",['anecdotes/miscellaneous'],['neutral']
+35509422#0#4,"Meat-phobes extraordinary veggie burger ke sAtha luck meM hai, jo alaga chickpeas ke blend se banA hai, carrots aura anya vegetables aura spices haiM| ",,['positive']
+11351521#768768#1,"Peak time meM, restaurant overcrowded aura tables binA ArAma ke baMda thA|",['ambience'],['negative']
+35158410#1207085#3,Service point para thA - Apa Ritz se aura kyA expect kara sakate haiM|,['service'],['positive']
+11351399#0#7,"Menus features seasonal picks, jaise sweet corn-foie gras brulee hai|",['food'],['neutral']
+11351399#0#6,"Innovations ko basa sunizcita kiyA gayA hai, eka sAdhAraNa caviar-topped sturgeon para Carinthia cheese ravioli with wild mushrooms, eka camakatA hue green spinach-vodka sauce ke sAtha acche se match ho gayA|",['food'],['positive']
+32894522#1633452#3,"aura ye choTe nahIM hai, kamajora fast food jaise burgers - ye real haiM, full sized ke patties haiM|",['food'],['positive']
+32896492#738746#1,"vahA~ restaurant bahuta casual hai, lekina lunch ke lie perfect hai, aura unakI delivery service hamezA bahuta tez2a hai|","['ambience', 'service']","['positive', 'positive']"
+12036269#580745#4,Chinatown kI quality vAkaI bahata better ke sAtha prices sastI hai|,"['food', 'price']","['positive', 'positive']"
+11351328#1638529#4,mujhe eka fork ke lie eka third staff person ko flag down karanA par3A... isalie aba yaha goodbye thor3A RUDE Pie Company hai|,['service'],['negative']
+11651063#1217842#1,maiMne 10 years se NYC meM raha rahA hU~ aura yaha delicacy Hudson ke east meM nahIM ho sakatI hai|,['anecdotes/miscellaneous'],['positive']
+33068734#650934#1,"Specials ke sAtha jAe~, aura salmon se dUra raheM|",['food'],['conflict']
+33068734#650934#2,Pastas bahuta acche the|,['food'],['positive']
+33068734#650934#3,Atmosphere bakavAsa ho jAtA hai|,['ambience'],['negative']
+33070532#604874#0,Decor hai jo zuruvAta se mujhe door meM rakhA hai|,['ambience'],['positive']
+11351745#499992#0,Wait staff bahuta jAgarUka aura vinamra the|,['service'],['positive']
+35717889#579150#0,"Great restaurant, aura jabaki food zAnadAra hai!","['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35717889#579150#1,Dishes remarkably svAdiSTa aura kucha ArAmadAyaka aura intimate place hai|,"['food', 'ambience']","['positive', 'positive']"
+35717889#579150#2,Desserts ke lie room bacAo! ;-),['food'],['positive']
+11351682#1496136#0,"maiM simplicity pasaMda karatA hU~ aura respect ke sAtha jo food ko diyA gayA hai, sAtha hI staff maitrIpUrNa aura knowledgable haiM|","['food', 'service']","['positive', 'positive']"
+11504679#821993#0,Service acchA thA aura vaisA hI atmosphere bhI thA|,"['service', 'ambience']","['positive', 'positive']"
+11504679#821993#1,merA date aura maiM donoM ne eka Branzini kI pezakaza kI thI aura donoM ko lagA kI fish bahuta average thA|,['food'],['negative']
+11349760#848056#0,hama March 7 ko vahA~ the aura Maison bahuta acchA lagA|,['anecdotes/miscellaneous'],['positive']
+11349760#848056#1,"Food acchA thA, service prompt, aura price bahuta reasonable hai|","['food', 'service', 'price']","['positive', 'positive', 'positive']"
+35704115#614067#0,"zAnadAra menu, garmajozI se bharA huA inviting ambiance, zAnadAra service FOOD mujhe vApasa bulAtI rahatI hai|","['food', 'ambience', 'service']","['positive', 'positive', 'positive']"
+33061498#586991#0,"zAnadAra food, acchA wine aura eka zAnadAra host.","['food', 'service']","['positive', 'positive']"
+35870558#793384#0,Last night mere coworker ke sAtha vahA~ gayA|,['anecdotes/miscellaneous'],['neutral']
+11313392#560011#1,Pizzas appetizers aura main courses ke sAtha zAnadAra thA|,['food'],['positive']
+11313392#560011#2,"bilakula calamari ko Az2amAe~, koI pasta, yA jabaki Sliced steak entree hai|",['food'],['positive']
+11513049#499488#4,Caeser salad zAnadAra thA|,['food'],['positive']
+11513049#499488#5,Fried calamari jabaki acchA thA|,['food'],['positive']
+11513049#499488#8,Atmosphere acchA thA lekina yaha thor3A bahuta dark thA|,['ambience'],['conflict']
+11513049#499488#0,Food overall acchA thA|,['food'],['positive']
+11660480#640405#1,Food zAnadAra thA aura service sabase tops kI thI|,"['food', 'service']","['positive', 'positive']"
+35682567#1590699#1,Portions bahuta large aura service joradAra hai!!,"['food', 'service']","['positive', 'positive']"
+35682567#1590699#2,maiM chicken milanese kI pezakaza karatA hU~|,['food'],['positive']
+35698333#556353#0,"eka zAnadAra prices para excellent tapas, romantic, choTe lekina jyAdA crowded, maz2edAra haiM|","['food', 'price', 'ambience']","['positive', 'positive', 'positive']"
+33072753#1351349#2,"Service bilakula dhImA, lekina friendly hai|",['service'],['conflict']
+33072753#1351349#0,"Chocolate raspberry cake heavenly - bahuta sweet, lekina flavor pUrA hai|",['food'],['positive']
+11651310#581605#1,"hamArA waiter helpful aura charming thA, food perfect thA, aura wine bhI acchA thA|","['service', 'food']","['positive', 'positive']"
+11651310#581605#0,Alias garama aura cozy hai aura tumheM 71 Clinton jaisA squished kiyA huA feeling nahI milatI hai|,['ambience'],['positive']
+11610050#517598#0,mujhe PIGALLE meM kabhI BAD MEAL (yA BAD SERVICE) nahIM milA hai|,"['food', 'service']","['positive', 'positive']"
+35739302#844266#0,Tri-state area meM sabase acchA hot dogs hai|,['food'],['positive']
+11654405#719617#0,Establishment meM eka typical example hai jisameM isakA owners restaurant business ke bAre meM kucha nahIM jAnatA hai|,['anecdotes/miscellaneous'],['negative']
+11654405#719617#5,"maiM MEET ko bilakula bhI recommend nahIM karUMgA, yaha time se step-in karane ke lie rip off kiyA gayA hai|",['anecdotes/miscellaneous'],['negative']
+11563005#745685#0,Special celebration ke lie vahA~ gayA|,['anecdotes/miscellaneous'],['neutral']
+11563005#745685#1,Restaurant zAMta aura intimate thA|,['ambience'],['positive']
+11563005#745685#2,Service bahuta attentive aura bahuta udAra thA|,['service'],['positive']
+11563005#745685#3,"hamane DheroM acche food khAye, wine, aura desserts bhI|",['food'],['positive']
+11563005#745685#4,vAkaI buzzing midtown area ke bIca meM bahuta pyArA dining experience thA|,['anecdotes/miscellaneous'],['positive']
+11570675#1355721#0,"ThIka hai, maiM kucha times ke lie Dumont gayA hU~|",['anecdotes/miscellaneous'],['neutral']
+11570675#1355721#1,Food vAkaI meM bahuta acchA nahIM hai aura service terrible hai|,"['food', 'service']","['negative', 'negative']"
+11570675#1355721#2,"ho sakatA hai, yaha adhikatara Dumont's patrons choTe aura kama expectations ke haiM, lekina maiM Dumont ko recommend nahIM kara sakatA|",['anecdotes/miscellaneous'],['negative']
+11463275#424927#1,"nA kevala unhe town meM sabase acche escargot haiM, ve hamezA toddler ko accomodate karake Az2amAe~ haiM|","['food', 'service']","['positive', 'positive']"
+11408946#789662#0,"maiMne Sotto Voce bahuta time jA cukA hU~, aura mujhe yaha kahanA hai ki kisI bhI time nail ko head para Thoko|",['anecdotes/miscellaneous'],['positive']
+11408946#789662#1,"mere guest aura mere bIca meM, hamane menu meM kama se kama 80% ko sampled kiyA, aura ve sabhI hits the|",['food'],['positive']
+11408946#789662#3,Deco aura ambiance vAkaI pyArA thA|,['ambience'],['positive']
+32444534#501179#1,yaha New York ke Asa-pAsa sabase acchA unknown restaurant hai|,['anecdotes/miscellaneous'],['positive']
+32444534#501179#2,basa jAe~ aura sabase greatest french food meM Daniel kA west hai|,['food'],['positive']
+33068425#562449#1,"unake lie jo Indian food se hate karate the, Baluchi's ne mere mid ko badala diyA hai|",['food'],['positive']
+33068425#562449#3,"aMta meM eka curry jo maiM khA sakatI hU~, enjoy aura gastritis se 3 hours dera kara suffer nahIM karanA hai|",['food'],['positive']
+33068425#562449#5,"sabhI GREAT haiM - poori, naan, paratha sabhI tAz2e haiM|",['food'],['positive']
+33068425#562449#4,Homemade breads ko Az2amAe~|,['food'],['positive']
+35703223#626682#0,"isa place para beautiful sushi hai, aura yaha svAdiSTa aura CHEAP hai|","['food', 'price']","['positive', 'positive']"
+35703223#626682#1,isake pAsa bahuta se Korean dishes haiM joki affordable aura basa yummy hai|,"['food', 'price']","['positive', 'positive']"
+11351741#1733901#0,maiM restaurant ke lie gayA aura prix fixe menu kI pezakaza kI|,['food'],['neutral']
+32857960#1320058#5,"Waiter nA kevala efficient aura courteous thA, balki bahuta hI helpful hai|",['service'],['positive']
+11351633#565247#3,isane taba appetite meM eka wallet se bigger bite liyA - maiM ise kisI ko reccomend nahIM karUMgA ki maiM khudase phira se bAta karUMgA|,"['price', 'food', 'anecdotes/miscellaneous']","['negative', 'negative', 'negative']"
+35701421#583735#2,"yaha place classy hai, chic, service warm aura hospitable hai, aura food zAnadAra hai|","['ambience', 'service', 'food']","['positive', 'positive', 'positive']"
+35393743#526051#0,maiM isa place ke bAre meM Time Out magazine meM paढ़A hai|,['anecdotes/miscellaneous'],['neutral']
+35393743#526051#2,Astoria meM eka zAnadAra find hai|,['anecdotes/miscellaneous'],['positive']
+32864873#582572#0,"zAnadAra burgers, grilled cheeses aura french fries hai|",['food'],['positive']
+11351354#812637#0,Yellowfin Tuna aura Calf's liver merA pasaMdIdA hai|,['food'],['positive']
+11538980#1053497#1,Sushi bahuta fresh hai ki yaha Apake mouth meM kurakuratA hai|,['food'],['positive']
+11538980#1053497#4,lekina pakkA karo ki Apake pAsa credit card para enough room hai jo bill se Apake wallet para eka bar3A dent karatA hai|,['price'],['negative']
+11349654#424016#2,5th ave address ke bAvajUda koI frills whick nahIM jise maiM love karatA hU~|,['ambience'],['positive']
+35158410#1207085#2,ve Apake table taka sauce cart lAte haiM aura Apako 7 se 8 choices of sauces Apake steak ke lie (maiMne sabhI ko Az2amAyA thA) lAte haiM|,['food'],['positive']
+15094232#1295193#2,"nA kevala sushi fresh thA, unhone dUsare entrees ko bhI kisI nA kisI guest ko choose karake khuza karane (duck Az2amAyeM) se alaga serve kiyA thA|",['food'],['positive']
+32894267#698671#5,acchI variety lekina kucha bhI surprising nahIM hai|,['food'],['conflict']
+11351328#1638529#2,"mere kharIda ko paid karane ke bAda, maiMne noticed kiyA ki unhone mujhe utensils nahIM diyA isalie maiM apanA pie khA sakA hU~| ",['service'],['negative']
+11350539#680470#6,usI prakAra yadi Apa vAkaI thin crust yA vAkaI bar3e slices pasaMda karate haiM to Nick aura Joe's ApakA favorite nahIM ho sakatA hai|,['food'],['negative']
+11359764#1373169#2,yaha hamezA quite hai kyoMki yaha awful hai|,['anecdotes/miscellaneous'],['negative']
+33071731#1007204#2,"nA green beans, nA egg, nA anchovy dressing, nA nicoise olives, nA red onion.",['food'],['negative']
+32938896#0#2,"Side orders ke sAtha eka Amazin Greens salads meal, Buffalo Chicken Kickers aura Cinna Stix banAe~|",['food'],['neutral']
+33070588#0#2,"jyAdA fries, meaty chili aura stuffed baked potatoes menu ko ghUmAtA hai jo cool ko jor3atA hai, ultra-thick chocolate Frosty hai|",['food'],['positive']
+11482070#503858#2,maiMne hamezA khuda ko waiter ko pUchate hue menu se bland aura different hai|,['food'],['neutral']
+32936760#1397861#8,"acchA cake lekina: yaha jo aba taka khAyA usameM best cake nahIM thA, aura sidewalk para bAhara indifferent aura overworked employees cattle jaise khar3e hokara carate hue bilakula worth nahIM lagatA thA|","['food', 'service']","['conflict', 'negative']"
+35720486#684689#1,"jitane pAsa mujhe Cherry Marscapone mile, lekina usa day isase bAhara the|",['food'],['neutral']
+35719198#0#3,"India kA homage roti canai appetizer meM bahuta suhAvanA evident hai, eka fried pancake served with pungent curry dipping sauce, jabaki mango chicken eka surprisingly sophisticated, sweet-and-sour para fresh offer karatA hai|",['food'],['positive']
+33507331#1177339#1,"yaha outside jaisA kucha nahIM dikhatA hai, lekina jaise Apa aMdara kI tarapha walk karate haiM, yaha pUrA dUsarA atmosphere hai|",['ambience'],['conflict']
+35693214#539116#0,mujhe kahanA hogA ki place awesome hai|,['anecdotes/miscellaneous'],['positive']
+32935729#785247#3,Ground chickpea soup ko hamane starter sample kI taraha taste kiyA thA jo thor3A thin hai|,['food'],['negative']
+35709141#1107179#3,"hama sushi ko re-slice karane kI request karate haiM, aura yaha hameM small cheese-like cubes jaise vApasa karate the|",['food'],['negative']
+11351354#412616#1,"Service, jabaki quality of food ke below eka yA do peg (horrible bartenders) hai, aura clientele, adhikatara part ke lie, rowdy hai, loud-mouthed commuters (yaha staff ke bure attitudes ko batAtA hai|) jo concert yA eka Knicks game ke lie AC/DC meM loaded ho rahA hai|","['service', 'food', 'ambience']","['negative', 'positive', 'negative']"
+11349840#433070#8,"yadi Apa neighborhood meM haiM, eka great meal ke lie definitely rukeM|",['food'],['positive']
+11349840#433070#7,"Unfortunately, apane show ticket ke sAtha, hamAre pAsa desserts sample karane kA time nahIM hai|",['food'],['neutral']
+11313439#692431#1,"Restaurant thor3A paint use kara sakatI thI, lekina kula milAkara eka acchA sushi place hai| ","['ambience', 'anecdotes/miscellaneous']","['conflict', 'positive']"
+35391416#500259#5,jyAdA tables banAiye - zAyada eka rooftop bar.,['ambience'],['negative']
+32944704#492723#1,"Decoration se aisA laga rahA thA ki hama Cairo meM hai, ye asala meM street adventure kA part hai|","['ambience', 'anecdotes/miscellaneous']","['positive', 'positive']"
+32950007#1320096#2,"jabaki choTA hai, isakA ambience suMdara, zAnadAra food (catfish svAdiSTa hai - yadi Apa mind na kareM to thor3A salty hai) aura jAgarUka service hai| ","['ambience', 'food', 'service']","['positive', 'positive', 'positive']"
+11350033#1264371#3,maiM vahA~ food ke lie nahIM jAtA isalie comment nahIM kara sakatA|,['anecdotes/miscellaneous'],['neutral']
+11660930#655010#2,"mere friends aura maiM week meM (minimum, hama area meM rahate haiM) eka bAra jAtA hU~ aura hara time bAhara nikala ke brush ke lie resist nahIM kara sakatA hU~|",['anecdotes/miscellaneous'],['positive']
+11660930#655010#4,"Items se stick hokara place acchA brisket, ribs, wings cajun shrimp acchA nahIM, lekina great hai|",['food'],['positive']
+35509422#0#0,"Hip boutiques aura Ludlow meM bars ko artsy se jor3atA hai, isa para Israeli-style meM laid-back atmosphere ke joint meM burger khAte hai|",['ambience'],['positive']
+35509422#0#1,"Young neighbourhood trendies counter para day meM carate haiM, jabaki chic, art-house drinkers late night meM munchies pile ke heavy doses ke sAtha ghUmate haiM|",['ambience'],['neutral']
+35393632#1591698#0,apanA date aura eka bottle of wine lAo!,['anecdotes/miscellaneous'],['neutral']
+33009300#626261#6,"yaha nA kevala best Thai restaurant hai jahAM maiM gayA hU~, balki yaha mere dine ke lie eka favorite places meM eka hai|",['anecdotes/miscellaneous'],['positive']
+11350539#680470#7,kisI dUsare reviewers ke bilakula negative review se put off hone kI jarUrata nahIM hai|,['anecdotes/miscellaneous'],['positive']
+35196527#481646#0,"mere Chelsea ke impressive aura creative menu mordern ko jor3atA hai, jo Westernized Japanese dishes jaise Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, aura rack of lamb in black truffle sauce, jaise kucha name hai|",['food'],['positive']
+35816071#637243#2,"usakA food zAnadAra hai (aura NYC standards ke expensive hai - binA $30 ke entrees nahIM), adhikatara appetizers $12 se 14 taka kA hai)|","['food', 'price']","['positive', 'positive']"
+11359613#884374#0,Food consistant aura acchA hai lekina yaha kaise mere Upara se Manhattan meM Best Diner banA hai|,"['food', 'anecdotes/miscellaneous']","['positive', 'conflict']"
+11349840#433070#6,"Pasta primavera bhI zAnadAra thA, bahuta se fresh veggies hai|",['food'],['positive']
+32894267#698671#4,"mujhe galata mata samajho - sushi acchI thI, basa fantastic nahIM thI|",['food'],['positive']
+35693083#822138#1,Puerto Rican hokara maiM flan ke bAre meM eka yA do cIz2eM jAnatI hU~ aura yaha place isameM se best serve karatA hai (mujhe AzA hai ki Mom yaha nahIM paढ़tA hai!),['food'],['positive']
+32927541#579582#0,"Brooklyn meM hokara eka 25 years se jyAdA, mujhe acche pizza ke lie bridge para nahIM jAnA hotA hai|",['food'],['positive']
+11349536#778388#0,Friday ko yahA~ dinner kiyA aura food zAnadAra thA|,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35700989#574718#3,"hamane abhI isa restaurants meM New Year's Eve bitAyA hai, aura wine se dessert menu taka great experiance kiyA hai|","['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35709275#573688#2,"atyadhika recommend kiyA huA... jaisA ki kahA gayA, maiMne restaurant meM dined *in* nahIM kiyA lekina yaha bar acchA dikhatA hai aura takeout bahuta relaxing place lagatA hai|",,"['positive', 'positive']"
+11351587#1488758#1,"Ambiance zAnadAra hai, eka thor3A jyAdA loud lekina phira bhI nice aura romantic haiM|",['ambience'],['positive']
+33069925#747092#3,"lekina, filet mignon cocktail hour meM bahuta acchA nahIM thA jo free appetizers ke acche non-sushi selection meM thA|","['food', 'price']","['conflict', 'positive']"
+11351725#582163#3,yaha hamAre 2 courses ko served karane ke lie 1/2 hours letA hai|,['service'],['negative']
+11359764#1373169#1,kisane kahA ki vahA~ jAo jaba day meM place quite rahatA hai?,['ambience'],['neutral']
+35698351#821341#1,Size ke kAraNa peak times meM thor3A busy ho sakate haiM|,['ambience'],['negative']
+11351360#1704700#0,"maiM jury duty para thA, maiMne lunch break para bike ko Centre Street ke road para bhagAyA aura isa great place para awesome chicken tacos aura Hibiscus lemonade ke sAtha AyA|","['food', 'ambience', 'anecdotes/miscellaneous']","['positive', 'positive', 'neutral']"
+32894791#1611374#1,Day ke daurAna shopping ke bAda hang out ke lie acchA place yA simple soup pIne ke lie yA eka glass of wine ke sAtha khAne ke lie classic french dish ThIka hai|,"['food', 'anecdotes/miscellaneous']","['neutral', 'positive']"
+36072604#1106889#4,bahuta acchA touch jo place ko leke bahuta fit hotA hai|,['ambience'],['positive']
+11350033#1264371#2,"jabaki, basa kucha outdoors hone kI vajaha se kAphI great landscaping, casual drink ko enjoy karanA jo isa place ko worthwhile banAtA hai|",['ambience'],['positive']
+11567247#1415594#1,hama dance floor para close proximity meM turaMta baiThe the|,['anecdotes/miscellaneous'],['neutral']
+11351521#768768#2,"yadi Apa yahA~ aise pre-show meal meM haiM, cab meM alaga se 10 minutes leke uptown location jAie|",['anecdotes/miscellaneous'],['neutral']
+11350033#1264371#5,acche mix of people meM twenties kI baढ़ta thI jo bazarte eka bar3e eye ke baढ़ta ke lie eye-candy mere pAsa eka zAnadAra thA|,['ambience'],['positive']
+11651065#413029#1,"Fried foods ke bAre meM comments sahI hai (below) lekina anya dishes, lamb entree aura kaI salads (avocado shrimp) bilakula acchA thA|",['food'],['conflict']
+11349445#757796#4,Cold night meM close friend ke sAtha yA eka acche book ke sAtha honA acchA hai|,['anecdotes/miscellaneous'],['neutral']
+11351816#1162694#2,"dhImI service, lekina jaba Apa Asa-pAsa 10 yA 20 ke groups ke sAtha hanging kara rahe haiM jo vAkaI notice karatA hai|","['service', 'anecdotes/miscellaneous']","['negative', 'conflict']"
+32897564#894393#1,Sauce zAnadAra (bahuta tAz2A) hone ke sAtha dabs of real mozzarella hai|,['food'],['positive']
+11349845#1188496#2,"kabhI parezAna nA hoM - Drinks bekAra the, lekina jo people vahA~ kAma karate the unhone vAkaI yaha dining experience bekAra kara diyA thA|","['food', 'service']","['negative', 'negative']"
+33070305#1312437#5,"Room thor3A sAdA hai, lekina yaha kucha aisA exciting place banAne meM difficult hai aura maiM ise eka reasion kI taraha dekhane ke lie suggest nahIM karUMgA|",['ambience'],['negative']
+11432842#416795#4,jabaki restaurant week ke bAhara kA prices zAnadAra thA|,['price'],['positive']
+35509422#0#2,"eka choTI outdoor eating area private ke lie banAtA hai, akele study karane ke lie yA friends se milane ke lie comfortable space hai| ",,['positive']
+32408649#945413#0,Place ke sAmane merA attention call nahIM kiyA|,['anecdotes/miscellaneous'],['neutral']
+35670845#1650649#3,aura sabhI female servers cute bhI the jo hamezA acchA hai|,['service'],['positive']
+35170181#0#5,"sabase acchA dessert, eka chocolate and peanut butter tart mukhyata: Hawaiian nahIM haiM lekina yaha eka small world ke lie sweets hotA hai|",['food'],['positive']
+11359619#487952#7,"Appetizer ke lie eka, unake calamari eka winner hai|",['food'],['positive']
+32464595#574909#1,Satay Washington ke una favorite haunts meM se eka hai jahAM service aura food hamezA money ke sAtha hotA hai|,"['service', 'food']","['positive', 'positive']"
+11349536#778388#2,Dinner ke bAda maiMne music playing sunA aura jAnA ki nIce eka lounge hai|,['ambience'],['neutral']
+32408649#945413#1,"lekina aba vaha eka nae ownership ke aMdara aura renovated kiyA gayA hai, yaha great dikhatA hai|",['ambience'],['positive']
+35816071#637243#3,"Room AkarSaka,  bi-level space aura drink ke lie bahuta acche long bar hai| ",['ambience'],['positive']
+35390182#756337#2,aba hama state se bAhara A gae haiM aura NYC kA hara visit ke stop ko jor3atA hai|,['anecdotes/miscellaneous'],['positive']
+11350142#1253117#2,"do complaints- unake appetizer selection stinks karatA hai, menu se kucha mozzarella sticks pAnA acchA rahegA|","['food', 'anecdotes/miscellaneous']","['negative', 'conflict']"
+11464511#471981#2,mujhe yAda nahIM ki mere pAsa kyA thA; kucha bhI memorable nahIM thA|,['anecdotes/miscellaneous'],['negative']
+11351587#1488758#3,yaha bland aura extraodinary kucha nahIM hai|,['food'],['negative']
+32950061#1264345#3,"maiM mukhya rUpa se baby party ke daurAna impressed huA jaba waitstaff Upara gae aura help karane ke lie sajAne aura baby cakes lAne se jyAdA bhI offering hai, 15 person party ke lie prompt aura friendly service hai| ",['service'],['positive']
+32935729#785247#4,Fresh leaf salad ke sAtha chicken and falafel platters binA likhe hue combinations the|,['food'],['neutral']
+11359618#788741#0,"hara time maiM NYC jAtA hU~, maiM yahA~ AtA hU~|",['anecdotes/miscellaneous'],['neutral']
+35160930#774531#0,maiM yahA~ taba se rojAnA AtA rahA hU~ jaba se 2 years pahale se khulA hai|,['anecdotes/miscellaneous'],['neutral']
+33085669#409731#2,"Atmosphere Apako usa place para le jAtA hai, jisa place kA dream dekhate haiM|",['ambience'],['positive']
+11351628#404492#8,"bahuta times aura waiters ke sAtha burA manners, yaha jAnakAra job AsAna nahIM hai|",['service'],['negative']
+32896473#439063#0,"Service zAnadAra hai (jabaki borderline nagging lekina Apako kama se kama attention), desserts zAnadAra hai aura coffee bahuta hI acchA hai...","['service', 'food']","['conflict', 'positive']"
+11464511#471981#1,hama eka couple ke bagala meM baiThe the jinake kitchen renovate kie gae the aura hama taba se sabhI foodies ke lie sahamata hue jo bahuta khAte haiM - yaha vaha vApasa Ane ke lie vaha place nahIM thA|,['anecdotes/miscellaneous'],['negative']
+32899282#556036#1,use Focacchia bread meM served kiyA gayA aura usapara maratA hai|,['food'],['positive']
+32894966#1727613#3,"jabaki smoothies mere lie thor3A bar3A hai, fresh juices sabase acchA maiMne aba taka khAyA hai|",['food'],['conflict']
+32464601#418474#0,"Food basa OKAY hai, aura yaha almost jAnA worth nahIM hai jabataka Apa pialla nahIM pAte, joki kevala eka dish nahIM, jo acchA hai|",['food'],['conflict']
+11432442#650772#2,"Guac tAz2A hai, phira bhI flavor kI kamI hai, hama apanA isameM fresh salsa jor3anA cAhate haiM|",['food'],['conflict']
+11313290#1139539#1,"New menu meM kucha creative items haiM, ve kucha old favorites ko rakhane ke lie paryApta hai (lekina unhone prices baढ़AyA hai), adhikatara time staff friendly hai, lekina mujhe usa person se agree honA hogA jisane apane favourite words ko lekara likhA hai: nahIM, nahIM kara sakatA, mAphI..., boy, kisI ke lie rules nahIM badalegA|","['food', 'service', 'price', 'anecdotes/miscellaneous']","['positive', 'conflict', 'negative', 'conflict']"
+33061445#591371#0,yaha kevala lunch ke lie khulA hai lekina food bahuta acchA hai|,"['food', 'anecdotes/miscellaneous']","['positive', 'neutral']"
+33070383#592089#1,yadi Apa seafood pasaMda karate haiM aura/yA Greek food Apa isa place ko love kareMge jabaki yaha kevala ina cIjoM taka sImita nahIM hai|,['food'],['positive']
+35668286#0#2,"Menu pub fare jor3atA hai--burgers, steaks aura shepherds pie--aura jabaki una black sheep jaise vegetarians ke lie eka portabella lasagna hai|",['food'],['neutral']
+35714274#1076679#1,vo eka exorbitant prices meM mediocre food ke sAtha kaise survive kara sakate haiM|,"['food', 'price']","['neutral', 'negative']"
+11351725#582163#2,Food mediocre aura service bahuta hI dhImI hai|,"['food', 'service']","['neutral', 'negative']"
+33060905#1138585#4,maiMne yahA alaga-alaga occasion para khAyA hai - food ke lie prices mediocre hai|,"['food', 'price']","['neutral', 'negative']"
+35695422#1464305#5,maiM jaldI vApasa jAne ke lie dekha rahA hU~ aura eventually menu meM sabakucha lene ke lie koziza kara rahA hU~|,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+36220672#1714981#0,maiMne isa place para apanA first visit kiyA aura vApasa jAne ke lie wait nahIM kiyA aura dhIre se menu ke lie work kiyA|,['anecdotes/miscellaneous'],['positive']
+33068909#1189415#4,maiMne bAra-bAra pUchA ki meal kA status kyA thA aura waiter thor3A grunted aura unbelievably rude thA|,"['service', 'anecdotes/miscellaneous']","['negative', 'negative']"
+33067279#1612676#0,mujhe Aja brunch ke lie rokA gayA thA aura vegan cranberry pancakes aura thor3A rice milk khAyA thA|,['food'],['neutral']
+33059931#926509#3,"Weekends crowded nahIM ho sakatA, lekina phira bhI recommended kiyA gayA|",['ambience'],['conflict']
+33061445#591371#2,yaha bahuta crowded hotA hai isalie maiM suggest karatA hU~ ki Apa jaldI pAte haiM|,['ambience'],['conflict']
+35709451#1061726#3,Sweet Irish bartender hamezA khuza aura mere friends ke face para eka smile lAne ke lAyaka hai|,['service'],['positive']
+15069510#648179#5,maiM hamezA apane ko theater industry meM kisI ke bagala meM baiThA pAtA hU~- sunane meM interesting ideas lagatA hai jabaki khAne meM quick bite lagatA hai|,['anecdotes/miscellaneous'],['positive']
+32443281#959917#4,vahA~ drinks ke lie jAnA acchA hai yadi Apa drunk nahIM honA cAhate haiM kyoMki Apa lucky hoMge yadi Apako eka hour meM eka drink mila jAe service bahuta burI hai|,['service'],['negative']
+11661949#1709112#8,"khaira, owner fake thA|",['service'],['negative']
+35698240#574381#2,Owner suhAvanA aura entertaining thA|,['service'],['positive']
+11350390#802808#3,"maiM apanI life meM food ko sAmane se kabhI vApasa nahIM bhejA, lekina maiM simply bhejanA par3A, aura waiter ne mujhase isa para argue kiyA|","['food', 'service']","['negative', 'negative']"
+11482070#503858#3,"bhale hI restaurants khuda meM acchA hai, maiM food ke lie jAnA prefer nahIM karatA hU~|","['ambience', 'food']","['positive', 'negative']"
+11351628#404492#3,,['food'],['positive']

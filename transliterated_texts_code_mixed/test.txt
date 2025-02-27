@@ -1,0 +1,801 @@
+id,text,aspect_category_now,ac_polarity
+32897564#894393#2,Bread bhii top notch kaa hai।,['food'],['positive']
+33070600#670328#0,mujhe khnaa hai ki unke paas city mem ek sbse fastest delivery times hai।,['service'],['positive']
+33070600#670328#2,Food hmeshaa fresh aur hot - khaane ke lie taiyaar hai।,['food'],['positive']
+36244464#949326#5,kyaa maimne mention kiyaa ki coffee OUTSTANDING hai ?,['food'],['positive']
+32894246#870052#0,"bilkul New York kaa best sushi nhiim haim, jbki yh hmeshaa se fresh hai, aur place bhut clean, sterile hai।","['food', 'ambience']","['conflict', 'positive']"
+32894246#870052#1,"maim Go Sushi ke people pr trust krtaa hoom~, yh kbhii disappoint nhiim krtaa।",['anecdotes/miscellaneous'],['positive']
+32894246#870052#2,"Straight-forward, koii surprises nhiim, bhut hii decent Japanese food hai।",['food'],['positive']
+35390182#756337#4,"sbse achchhaa spicy tuna roll, shaandaar asian salad hai।",['food'],['positive']
+35390182#756337#5,Rose roll ko aaज़maaem~ (menu mem nhiim hai)।,['food'],['positive']
+11447227#436718#3,"mujhe drinks psmd hai, visheshkr lychee martini, aur food bhii bhut achchhaa hai।",['food'],['positive']
+33071731#1007204#3,"jbki, yh ek Nicoise salad aur barely eatable nhiim hai।",['food'],['negative']
+33085939#758010#0,"jbki ek decent menu hai, ise aapko drinks dene mem ten minutes aur 45 minutes dessert pizza ke lie nhiim lenaa chaahie।","['food', 'service']","['positive', 'negative']"
+11313431#524365#3,"jb ek baar hm chl pड़e, to top-notch food aur live entertainment ko hm ek unforgettable evening kii trh bech diyaa।","['food', 'ambience']","['positive', 'positive']"
+11359717#1138929#1,hmaaraa waiter horrible thaa; bhut rude aur disinterested thaa।,['service'],['negative']
+11359717#1138929#3,The sangria's - watered down.,['food'],['negative']
+11359717#1138929#4,"Menu - uneventful, small.",['food'],['negative']
+11313439#692431#0,kisii bhii time yaa hr time maim apne aapko neighborhood mem paataa hoom~ maim Sushi Rose mem taaज़e sushi ke lie jaaoomgaa aur reasonable price pr great portions loom~gaa।,"['food', 'price']","['positive', 'positive']"
+11351513#832512#0,shaandaar food lekin service bhyaank thaa।,"['food', 'service']","['positive', 'negative']"
+35390148#588852#2,Portions of the food jo baahr aayaa vo mediocre thaa।,['food'],['neutral']
+11351513#832512#1,Two waitress's aise dikhaaii pड़tii thii ki lemons jaisii sucked hom।,['service'],['negative']
+11313431#524365#2,"shuruvaat se, hm friendly staff members se mile, aur Chelsea Piers ke lie convienent parking milaa jisse hmaare lie boat ko paanaa easy ho gyaa।","['service', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35196520#758440#4,hm khud ko thoroughly enjoy kie aur desserts ke lie vaaps jaa rhe haim।,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35196527#481646#2,Desserts hmeshaa incredible hotaa hai: meraa khud kaa psmdiidaa vhm~ kaa Tart of the Day hai।,['food'],['positive']
+35668126#536759#0,hm lower reviews se khush haim kyomki yh bilkul doosre place se achchhaa hai jo hmem higher ratings ke saath milaa hai।,['anecdotes/miscellaneous'],['positive']
+35668126#536759#1,shaayd yh secret ho ki hm sunday night ge aur sb great thaa।,['anecdotes/miscellaneous'],['positive']
+35668126#536759#2,"Food bhut hii tasty thaa, creatively present kiyaa gyaa thaa aur wine shaandaar thaa।",['food'],['positive']
+33070286#1133164#0,hmne thoड़aa LATE AFTERNOON mem khtm kiyaa।,['anecdotes/miscellaneous'],['neutral']
+33070286#1133164#4,hm apne CHOICE ke saath PLEASANTLY SURPRISED the।,['anecdotes/miscellaneous'],['positive']
+33070286#1133164#6,LASAGNA jo PROBABLY hmne TASTE kiyaa thaa bhut hii achchhaa thaa।,['food'],['positive']
+32894336#662479#0,Harumi Sushi sbse taaज़aa aur sushi kaa NYC mem sbse svaadisht array of sushi rhaa hai।,['food'],['positive']
+32894336#662479#1,maim bs naa kevl iske superb cuisine ko highly recommend krtaa hoom~ blki iske friendly owners aur staff ko bhii krtaa hoom~।,"['food', 'service']","['positive', 'positive']"
+32892130#435512#0,"ydi aap serious indian food ke lie trs rhem haim aur ek cozy ambiance kii ichchhaa krte haim, yh bhut hii exquisite choice hai।","['food', 'ambience']","['positive', 'positive']"
+32892130#435512#4,maimne food ko bhii definitely enjoy kiyaa hai।,['food'],['positive']
+32894791#1611374#0,hmeshaa yhm~ great time bitaayaa hai।,['anecdotes/miscellaneous'],['positive']
+11432316#715219#2,"yh pleasantly uncrowded thaa, service delightful thaa, garden adorable thaa, food (entrees se appetizers tk) delectable thaa।","['ambience', 'service', 'food']","['positive', 'positive', 'positive']"
+33085669#409731#13,aap experience krke bhut khush homge।,['anecdotes/miscellaneous'],['positive']
+11351354#412616#0,"Food surprisingly achchhaa hai, aur decor achchhaa hai।","['food', 'ambience']","['positive', 'positive']"
+35714274#1076679#0,yh MJ Grill ke lie claim krnaa kitnaa pretentious aur inappropriate hai ki yh power lunch aur dinners detaa hai!,['food'],['negative']
+35714274#1076679#5,Two wasted steaks -- kitnaa bड़aa crime hai!,['food'],['negative']
+35720486#684689#4,Staff ko thoड़aa aur friendly honaa chaahie thaa।,['service'],['negative']
+33507331#1177339#2,maim bilkul yh place suggest krtaa hoom~।,['anecdotes/miscellaneous'],['positive']
+33064346#1483297#0,mere hisaab se meatball parm achchhaa hai।,['food'],['positive']
+11417054#1062693#2,"ydi tum achchhaa tasting, Cabana mem well seasoned latin food khaanaa chaahte ho, to aap wrong nhiim kr skte।",['food'],['positive']
+13383936#420974#4,bilkul taglierini with truffles ko aaज़maaem~ - yh shaandaar thaa।,['food'],['positive']
+13383936#420974#5,jbki staff bhut attentive aur really personable hai।,['service'],['positive']
+13383936#420974#6,"kulmilaakr, yh ek great new restaurant hai jo hr time bhut achchhaa rhaa hai।",['anecdotes/miscellaneous'],['positive']
+36244423#1058258#2,Gnocchi bilkul tumhaare mouth mem gl gyaa।,['food'],['positive']
+11559272#409013#0,Trio mem ek shaandaar experiance huaa hai ... staff shaandaar thaa; food tasty aur portion size mem large thaa - maim portobello/gorgonzola/sausage appetizer aur lobster risotto kii bhut jyaadaa peshksh krtaa hoom~।,"['service', 'food']","['positive', 'positive']"
+36244784#0#3,"Entrees classics jaisaa lasagna, fettuccine Alfredo aur chicken parmigiana juड़aa huaa hai।",['food'],['neutral']
+32938222#1552119#2,"Food achchhaa hai, aur teriyaki ko maim recommend krtaa hoom~।",['food'],['positive']
+11546184#1465600#0,Meal jo aapko milaa bhut expensive thaa।,"['food', 'price']","['negative', 'negative']"
+32895093#418997#3,Peanut Butter Sorbet aur pizza with soy cheese ko bhii aaज़maaem~!,['food'],['positive']
+32406302#615620#2,"shii price pr good food, aapko aur kyaa chaahie।","['food', 'price']","['positive', 'positive']"
+35390182#756337#1,"hme yh psmd hai, aur vhm~ jaane ke lie buses aur cabs miltaa hai।",['anecdotes/miscellaneous'],['positive']
+11302356#1455624#2,"ydi aap New York mem haim, aapko yh place miss nhiim krnaa chaahie।",['anecdotes/miscellaneous'],['positive']
+11302356#1455624#1,"Food shaandaar hai, service attentive, aur atmosphere kmaal kaa hai।","['food', 'service', 'ambience']","['positive', 'positive', 'positive']"
+11302356#1455624#0,"maim yhm~ pichhle five years se kbhii-kbhii aataa rhaa hoom~, aur mujhe khnaa hai ki La Lanterna ne mujhe kbhii bhii dissapoint nhiim kiyaa hai।",['anecdotes/miscellaneous'],['positive']
+11302355#533813#0,"shaandaar food, shaandaar waitstaff, shaandaar atmosphere, aur sbhii GREAT beer mem se ek hai।","['food', 'service', 'ambience']","['positive', 'positive', 'positive']"
+35698351#821341#0,yh abhii bhii us area mem meraa most favorite restaurants hai food expensive hai lekin bhut achchhaa hai (kimono shrimp special shaandaar thaa) aur ek great atmosphere rhaa hai।,"['food', 'price', 'ambience']","['positive', 'positive', 'positive']"
+11351664#1238806#0,"mere husband aur maim 6 years phle Nolita ge aur jb se hm yhm~ rh rhe haim, Peasant hmaaraa favorite hai!",['anecdotes/miscellaneous'],['positive']
+33070305#1312437#6,sbhii experience satisfy krne vaale the,['anecdotes/miscellaneous'],['positive']
+33070305#1312437#1,"jbki, yh visit ke lie worth thaa।",['anecdotes/miscellaneous'],['positive']
+33070305#1312437#2,Menu mज़edaar aur bilkul shii se priced haim।,"['food', 'price']","['positive', 'positive']"
+33070305#1312437#3,Food delicious aur clearly fresh ingredients pryog kie ge the।,,['positive']
+11610073#973003#3,yh ise obvious bnaayaa hai ki food achchhe se cooked nhiim thaa; yh spsht roop se phle hand se bnaayaa gyaa thaa aur reheat kiyaa gyaa thaa।,['food'],['negative']
+11464789#378665#0,Appetizer yhm~ shaandaar hai; aap ismem se use meal out krke great (aur inexpensive) bnaa skte haim।,,"['positive', 'positive']"
+11464789#378665#1,Spicy mussels ek highlight hai।,,['positive']
+32899282#556036#2,Onion Rings miltaa hai -- hmne jo best khaayaa hai।,,['positive']
+11351587#1488758#8,hmne jo amount paid kiyaa hai vo return nhiim hogaa।,['price'],['negative']
+11351587#1488758#2,"jbki, foodies hokr bhii, hm food ko lekr utterly disappointed the।",['food'],['negative']
+11359656#1716239#1,"bhut bड़aa portions, shaandaar aur attentive service, aur bhut achchhaa prices hai।","['food', 'service', 'price']","['positive', 'positive', 'positive']"
+11359797#469087#7,maim unke service aur food se bhut adhik disappointed thaa।,"['service', 'food']","['negative', 'negative']"
+11359797#469087#6,"maimne phle waiter aur phir manager ko complain kiyaa, lekin unkii or se rudeness kii intensity bढ़tii chlii gyii।",['service'],['negative']
+32938828#1194079#1,Food shaandaar thaa aur milkshakes jbki better hai!,['food'],['positive']
+11349445#757796#5,"door rhem, agr aap claustrophobic haim।",['ambience'],['negative']
+11349445#757796#0,"ydi aap hood mem haim, to bilkul mdr rhem।",['anecdotes/miscellaneous'],['positive']
+11349445#757796#1,Mushroom barley soup shaandaar hai।,['food'],['positive']
+11602699#875811#0,"ek friend ke recommendation pr, maim apnii wife ke saath Arezzo mem gyaa।",['anecdotes/miscellaneous'],['neutral']
+11602699#875811#1,"mujhe khushii hai ki maimne aisaa dikhaayaa ki food achchhaa thaa aur staff friendly, courteous aur efficient the।","['food', 'service']","['positive', 'positive']"
+11313316#1234433#2,unke duck yhm~ bilkul delicious hai।,['food'],['positive']
+11313316#1234433#0,yh place bilkul unmem se ek hai jhm mem kii years mem lgaataar vaaps aayaa hoom~।,['anecdotes/miscellaneous'],['positive']
+11351762#644011#1,"jbki yh bड़aa aur thoड़aa noisy thaa, drinks shaandaar the, aur food kmaal kaa thaa।","['ambience', 'food']","['negative', 'positive']"
+35719198#0#5,ek caveat: kuchh curried casseroles kaaphii kthor ho skte haim।,['food'],['negative']
+35158451#1089920#3,maim impressed nhiim thaa aur yh SPICEY nhiim thaa।,['food'],['negative']
+33070461#1496736#1,Food lgbhg hmeshaa EXCELLENT thaa।,['food'],['positive']
+32882616#562969#4,maim taste ke lie pleasently surprised thaa।,['food'],['positive']
+33070309#423221#1,"ek achchhaa space, jb tk ki yh bhut crowded nhiim ho jaataa hai aur ek singleminded devotion is chune hue cuisine ko seafood lovers ke lie ek great choice nhiim bnaa detaa hai।","['ambience', 'food']","['conflict', 'positive']"
+32882616#562969#3,maimne phle kbhii bhii orange donut nhiim khaayaa thaa islie ek shot diyaa।,,['neutral']
+35171678#484493#3,"unhone vaakii ek relaxing, laid-back atmosphere prdaan kiyaa। ",['ambience'],['positive']
+32945645#1528063#2,yh particular location bilkul substandars meats kaa upyog krtaa hai।,['food'],['negative']
+32895093#418997#0,maim subway se home ke way mem is resteraunt ke paas thokr khaayaa।,['anecdotes/miscellaneous'],['neutral']
+11546184#1465600#4,Management accommodating ke lie bhut km thaa।,['service'],['negative']
+13383936#420974#2,Ambience bhii bhut adhik laid-back aur relaxed thaa।,['ambience'],['positive']
+35692932#1064131#3,Teas shaandaar hai aur sbhii sweets homemade haim।,['food'],['positive']
+11488685#420977#1,Mojitos aur service vhm~ kaa sbse achchhaa part hai।,"['food', 'service']","['positive', 'positive']"
+35397104#0#3,"Sandwiches, burgers aur salads, lemon-dressed cobb kii trh, classic successes hai।",['food'],['positive']
+35820984#608922#0,yh restaurant bilkul beautiful hai।,['anecdotes/miscellaneous'],['positive']
+35820984#608922#1,Design bhut hii intimate aur romantic hai।,['ambience'],['positive']
+35820984#608922#2,Food shaandaar aur imaginative hai।,['food'],['positive']
+35820984#608922#3,Staff bhut sharp aur ve achchhe bhii dikhte haim।,['service'],['positive']
+36245348#821441#2,sbse worst haalmki taste thaa।,['food'],['negative']
+36245348#821441#3,"ve dry, stale aur thoड़aa flavorless thaa।",['food'],['negative']
+11432442#650772#5,jo fajita hmne aaज़maayaa thaa tasteless aur burned thaa aur mole sauce bhut miithii thii ।,['food'],['negative']
+11432442#650772#6,Roasted chickens ke saath rhie aur aap fine rhemge।,['food'],['positive']
+32944693#1193404#4,"Atmosphere grm hai, aaraamdaayk, artsy aur sexy hai।",['ambience'],['positive']
+32944693#1193404#1,"Food shaandaar (bड़e selection, shii prices) aur drinks vaakii achchhe haim।","['food', 'price']","['positive', 'positive']"
+35693214#539116#1,Steak mere mouth mem melt ho gyaa।,['food'],['positive']
+32950007#1320096#3,"Food aane mem kuchh aur extra minutes haim, lekin waiters' ke cute jokes aur friendliness ne ise make up diyaa।",['service'],['conflict']
+35938288#666236#2,"sbse important, yh reasonably priced thaa।",['price'],['positive']
+11350660#564640#1,Selection of food kmaal kaa hai (hmaare paas restaurants mem jyaadaa choice nhiim hotii hai) aur atmosphere shaandaar hai।,"['food', 'ambience']","['positive', 'positive']"
+35393632#1591698#7,"kevl suggestion yh hai ki aap dessert ko skip krem, yh overpriced aur taste ke lie km thaa।","['food', 'price']","['negative', 'negative']"
+15087705#871249#1,"Food decent, lekin shaandaar nhiim thaa।",['food'],['positive']
+11349871#518230#0,mujhe nhiim ptaa hai ki yh restaurant itnaa overlooked kyom hai।,['anecdotes/miscellaneous'],['positive']
+11349871#518230#1,"jis moment aap walk in krte haim, aapko lgtaa hai ki aap ek perfect place pr haim।",['anecdotes/miscellaneous'],['positive']
+11651062#1264882#1,"mujhe nhiim ptaa ki kuchh people jo is hot dog ke lie rave kr rhe haim, baat krte haim।",['food'],['negative']
+11359619#487952#3,yh ek pooraa chhupe hue shaandaar quaint bar aur achchhe food ke saath hai।,"['food', 'ambience']","['positive', 'positive']"
+32893510#483382#2,"maimne dekhaa ki adhiktr Kosher restaurants aust se achchhe haim, lekin yh maimne jo abtk kaa khaayaa vo best thaa।",['anecdotes/miscellaneous'],['positive']
+11351628#404492#6,Waiters hmeshaa angry dikhaaii pड़te haim aur yhm tk ki apne high-tipping regulards ko bhii ignore kr dete haim।,['service'],['negative']
+35709141#1107179#0,"Atmosphere bhut achchhaa hai, aur ek welcome escape bm~kii sb SI mall se alg hai।",['ambience'],['positive']
+32935211#1468239#1,"hm~, ve typical se thoड़aa jyaadaa expensive haim, lekin phir bhii, unkaa food vaisaa hai।","['price', 'food']","['negative', 'positive']"
+11351725#582163#11,"Terrible nhiim, lekin restaurant 2002 ke reviews mem nhiim।",['anecdotes/miscellaneous'],['negative']
+33069901#1437116#3,"maim kh sktaa hoom~ ki wraps, burgers aur salads sbhii fresh, tasty the saath hii $9 mem mango margareta bhii money ke lie worth thaa।","['food', 'price']","['positive', 'positive']"
+33069901#1437116#4,yh delicious aur large thaa!,['food'],['positive']
+35709337#1579632#6,"aur khiim bhii, prices 3x se jyaadaa high hogaa।",['price'],['positive']
+33069901#1437116#1,jo service hmne experience kiyaa thaa vo friendly aur achchhaa thaa।,['service'],['positive']
+11351725#582163#9,hmaare waiters friendly the aur yh shame kii baat hai ki unke saath work ke lie supportive staff nhiim hai।,['service'],['conflict']
+11351725#582163#7,Folding chair jispr maim baithaa thaa uncomfortable thaa।,['ambience'],['negative']
+11351725#582163#5,jaisaa ki hmne wait kiyaa hmne diners ke 3 separate groups ko dekhaa ki vo bhii kitne disappointed the।,['anecdotes/miscellaneous'],['negative']
+11432842#416795#5,Midtown mem shaandaar choice hai।,['anecdotes/miscellaneous'],['positive']
+11432842#416795#1,ab tk jo Service maimne NYC mem paayaa usmem yh best thii।,['service'],['positive']
+11432842#416795#2,Fettucino alfredo shaandaar thaa।,['food'],['positive']
+33067279#1612676#1,Food bhut hii achchhaa thaa aur maim itne saare vegan options dekhkr pleasantly surprised thaa।,['food'],['positive']
+32930165#1643018#3,maim real Indian food jntaa hoom~ aur yh itnaa hii nhiim hai।,['food'],['negative']
+11359727#487554#5,"Smoked Trout ko aaज़maane ke lie taiyaar rho... Lamb Chops, Veal Chops, Rabbit, potato gratin, chaaloo aur chaaloo hai।",,['positive']
+11359727#487554#2,"jbki chef house mem nhiim haim, food aur service phle se target krte haim।","['food', 'service']","['positive', 'positive']"
+32893609#708406#2,Eggs benedict se mussels tk sbkuchh aur jbki hamburger bhut achchhe se bnaa aur svaadisht thaa।,['food'],['positive']
+32926987#668438#1,"Waiters bhut professional, corteous aur attentive the।",['service'],['positive']
+32926987#668438#0,meraa boyfriend aur maim yhm~ last night gii thii aur ye psmd aayaa।,['anecdotes/miscellaneous'],['positive']
+32935729#785247#5,Falafal shaayd over cooked aur dried thaa lekin chicken achchhaa thaa।,['food'],['conflict']
+32935211#1468239#3,"maim grand marnier shrimp ko bhut jyaadaa reccomend krtaa hoom~, yh bhut achchhaa hai।",['food'],['positive']
+32944704#492723#0,"hm vhm~ ge aur food ko vaakii enjoy kiyaa, bhut shaandaar food thaa, aur service vaakii mem achchhaa thaa।","['food', 'service']","['positive', 'positive']"
+33061325#0#3,Desserts mem flan aur sopaipillas shaamil hai।,['food'],['neutral']
+32894513#498296#0,maim bhookhe mr rhaa thaa aur small portions mujhe crazy kr rhaa thaa!,['food'],['negative']
+35709141#1107179#4,Wait staff teज़ aur inconsiderate thaa।,['service'],['negative']
+35709141#1107179#1,"jbki, food aur service dramatically lack ho rhaa thaa।","['food', 'service']","['negative', 'negative']"
+35709141#1107179#2,Sushi ko blocks mem kaataa gyaa jo mere cell phone se bड़aa thaa।,['food'],['negative']
+11350496#1560668#3,"Service shaandaar hai, meraa soup hmeshaa achchhaa aur hot aataa hai। ","['service', 'food']","['positive', 'positive']"
+11351625#909535#1,yh jbki ab tk rhii hai aur maim bhool gyaa ki crepes kitnaa delicious ho sktaa hai।,['food'],['positive']
+11351622#0#5,Montparnasse's desserts-- mukhy roop se silken creme brulee aur paper-thin apple tart-- apne restaurant ke trip ko worth bnaane ke lie pryaapt achchhaa hai।,['food'],['positive']
+35701425#1155856#1,mere friend ne mujhe is restaurant ke baare mem ek year phle btaayaa thaa vo finally hmem is weekend pr le ge।,['anecdotes/miscellaneous'],['neutral']
+11351620#1180095#0,maimne ek svaadisht shrimp creole khaayaa thaa।,['food'],['positive']
+11351620#1180095#1,Chicken dinner sch mem achchhaa thaa।,['food'],['positive']
+32464595#574909#4,Chili signed food items se tb tk saavdhaan naa rhem jb tk ki aap fire department apne mouth ke flame ko bujhaane ke lie naa bulaa lem।,['food'],['negative']
+32938222#1552119#1,Restaurant kaa decor contemporary Japanese style mem sjaa huaa hai।,['ambience'],['neutral']
+11351620#1180095#3,lekin food svaadisht thaa।,['food'],['positive']
+32464595#574909#2,"Ribs ko, sizzling beef aur bhut se coconut rice ke saath couple krke aaज़maaem~।",['food'],['positive']
+32893510#483382#3,yh kevl aisaa drawback hai jo thoड़aa pricey hai।,['price'],['negative']
+32893510#483382#0,is place ke baare mem sbkuchh wonderful hai।,['anecdotes/miscellaneous'],['positive']
+32893040#1716582#5,Avocado salad ek personal fave hai।,['food'],['positive']
+32893040#1716582#6,"aur, honey BBQ rib tips svaadisht haim।",['food'],['positive']
+32893040#1716582#0,sbse achchhaa Chinese food Uptown hai।,['food'],['positive']
+35170181#0#2,Service backwards ko bending over krke sbko happy krne ke lie hai।,['service'],['positive']
+32464601#418474#1,"Atmosphere attractive, lekin little uncomfortable hai।",['ambience'],['conflict']
+32464601#418474#2,yh staff bhut friendly hai।,['service'],['positive']
+11359618#788741#3,Waiters bahut friendly aur pasta is world ke baahr hai।,"['service', 'food']","['positive', 'positive']"
+33068517#482841#2,kmaal kaa wine list aur shaandaar cocktail menu hai।,['food'],['positive']
+33068517#482841#1,Crab cakes svaadisht hai aur BBQ rib bilkul shii thaa।,['food'],['positive']
+35869867#649564#1,"Food achchhaa hai, artfully kiyaa huaa aur simply delicious hai। ",['food'],['positive']
+32864873#471207#1,bhut fast service ke saath chhotaa restaurant hai।,"['service', 'ambience']","['positive', 'neutral']"
+11350539#680470#4,"Sauce sbke lie nhiim ho sktaa hai, jbtk ki yh distintive naa ho।",['food'],['conflict']
+33069536#707145#3,mere husband aur maim kriib 6 times yhm~ aa chuke haim aur hmem hmeshaa yhm~ highest service aur free desserts milaa hai।,"['service', 'price']","['positive', 'positive']"
+32899414#512291#0,"ek sumdr atmosphere, drinks aur/yaa appetizers ke lie bhut shii hai।",['ambience'],['positive']
+32469157#1273114#0,yhm~ Curioni's Pizza lgbhg 1920 se chlaa aa rhaa hai।,['anecdotes/miscellaneous'],['neutral']
+32469157#1273114#1,ve New Jersey mem best pizza bnaate haim।,['food'],['positive']
+36072604#1106889#1,maim haal ke pichhle summer ke baad ek year ke lie gyaa thaa।,['anecdotes/miscellaneous'],['neutral']
+36072604#1106889#2,"kyaa difference hai, service bhut comforting aur food average se jyaadaa better hai, lekin sbse jyaadaa jo standed out krtaa hai vo ek dynamic aur extensive beer list hai।","['service', 'food']","['positive', 'positive']"
+12036269#580745#1,"vaakii, yhm~ kaa chinese food kuchh aisaa hai ki isse better maim home mem bnaa sktii hoom~।",['food'],['negative']
+12036269#580745#2,oopr ke poore restaurant mem kevl ek waiter hai।,['service'],['negative']
+35695422#1464305#3,hmne scallops aur asparagus aur soft shell crab ke saath-saath cheese plate se shuruvaat kii।,['food'],['neutral']
+36220672#1714981#3,"overlooked ke lie nhiim hai, service shaandaar hai।",['service'],['positive']
+11651062#1264882#2,yh question ke binaa hmne ab tk kaa ek worst hotdogs khaayaa hai।,['food'],['negative']
+32971013#1044651#2,"Staff unbelievably friendly hai, aur maim Saag gosht ko dream krte haim...bhut achchhaa। ","['service', 'food']","['positive', 'positive']"
+33064238#563983#2,maim garlic knots ko bhii recommend krtaa hoom~।,['food'],['positive']
+32971013#1044651#0,ab tk kaa best Indian food jo maimne khaayaa hai।,['food'],['positive']
+11351521#768768#3,aap dissapointed nhiim homge।,['anecdotes/miscellaneous'],['positive']
+33064238#563983#0,is place kaa pizza sbse achchhaa hai।,['food'],['positive']
+35816071#637243#0,Culinaria Garment district kaa welcome addition hai- area mem kisii bhii restaurant se bhut achchhaa hai।,['anecdotes/miscellaneous'],['positive']
+32896473#439063#3,Music jo sometime mere taste ke lie bhii thoड़aa heavy hai।,['ambience'],['negative']
+11350010#590580#1,Service shaandaar hai aur binaa air ke informative bhii hai।,['service'],['positive']
+11359762#927332#1,Owner aur staff ek bड़e lengths ke lie aapko comfortable feel kraane jaate haim।,['service'],['positive']
+11359764#1373169#0,maim is dungeon mem nhiim sktaa।,['ambience'],['negative']
+32950061#1264345#1,Sushi hmeshaa fresh aur yummy aur menu bhut vary krtaa hai।,['food'],['positive']
+11359767#969393#2,"Food shaandaar thaa - sushi achchhaa thaa, lekin cooked food ne hmem aashchrychkit kiyaa।",['food'],['positive']
+33106326#864352#0,unke dinner specials shaandaar hote haim।,['food'],['positive']
+32894522#1633452#4,Delish aur apnii liking ke anusaar bnaayaa!,['food'],['positive']
+32405935#675215#0,"shaandaar food, shaandaar drinks, achchhaa dining atmosphere.","['food', 'ambience']","['positive', 'positive']"
+32894669#1075584#0,"jb aap yhm~ food ke lie price pay krte haim, aap expect kremge ki yhm~ doosre Japanese restaurants ke braabr kuchh bnemge।","['price', 'food']","['negative', 'negative']"
+32894669#1075584#1,Food portion chhotaa thaa aur average se niiche thaa।,['food'],['negative']
+32894669#1075584#8,apne aapko favor kro aur is place ko ALL COST pr avoid kro।,['anecdotes/miscellaneous'],['negative']
+33070605#1232775#0,tb se ab tk phlii baar maim aayaa aur hooked kiyaa gyaa।,['anecdotes/miscellaneous'],['positive']
+33085669#409731#11,piichhe un comfortable chairs mem se ek mem baithie।,['ambience'],['positive']
+11351360#1704700#2,neighborhood mem people ise bhii psmd krte haim।,['anecdotes/miscellaneous'],['positive']
+32894416#1193614#6,Conclusion mem yh PLACE sड़ gyaa hai!!!,['anecdotes/miscellaneous'],['negative']
+33070461#1496736#6,meraa yhm~ kaa favs Tacos Pastor aur  Tostada de Tinga hai।,['food'],['positive']
+11351814#1650882#6,"is area mem jaane ke lie Nick Stef's hii ekmaatr worthy place hai, to ydi aap Madison Square Garden yaa Herald's Square haim to ise chek kr lem!",['anecdotes/miscellaneous'],['positive']
+32936760#1397861#1,aapko btaanaa hai: bilkul bhii impressed nhiim huaa।,['anecdotes/miscellaneous'],['negative']
+11447227#436718#2,Bartenders aur managers vaakii achchhe haim aur decor bhii trendy hone ke dauraan comfy aur aaraam se letne ke lie hai।,"['service', 'ambience']","['positive', 'positive']"
+32889544#0#4,"Savory ke lie soup and sandwich meal lo, hot and sour soup aaज़maao।",['food'],['positive']
+35693136#561234#0,"is bar mem bs yhii hai - great drinks, cool atmosphere, shaandaar service aur delicious food.","['food', 'ambience', 'service']","['positive', 'positive', 'positive']"
+11484031#1129679#4,"aur, chick peas with shrimp (appetizer) kmaal kaa hai।",,['positive']
+11351628#404492#9,"mt mem, maim is bkvaas service, obnoxious smirks, aur snotty back talk se oob gyaa hoom~।",['service'],['negative']
+35701425#1155856#0,maim isse phle kbhii bhii Agave nhiim gyaa thaa।,['anecdotes/miscellaneous'],['positive']
+11349536#778388#1,"aap kuchh coin drop kr rhe haim, lekin yh poorii trh se worth hai, ज़yaadaatr ydi aap kisii ko impress krne kii soch rhe haim।",['price'],['conflict']
+32893510#483382#1,hmne lamb order kiyaa jo poorii trh cooked aur awesome tasted thaa।,['food'],['positive']
+11359619#487952#6,mujhe vaakii unkaa soft shell crab sandwich with fries psmd aayaa।,['food'],['positive']
+33070605#1232775#2,"ydi aap authentic hong kong-style food ko dhoomdh rhem haim, to aage naa dekhem।",['food'],['positive']
+35390182#756337#0,merii wife aur maim west side mem rhte haim aur yh UES mem friends ko visit krne ke dauraan paayaa।,['anecdotes/miscellaneous'],['neutral']
+11351664#1238806#6,achchhaa food achchhaa wine bs itnaa hii।,['food'],['positive']
+33070305#1312437#7,Neighborhood mem ek achchhaa find hai।,['anecdotes/miscellaneous'],['positive']
+33070305#1312437#4,Staff bhut hii friendly aur khushnumaa thaa।,['service'],['positive']
+32894669#1075584#3,"aur jaise hii ek person kaa ho jaataa hai, unse plate turmt uthaane ko khaa jaataa hai।",['service'],['negative']
+11349840#433070#0,"yh place Italian hai, French nhiim।",['anecdotes/miscellaneous'],['neutral']
+11351587#1488758#0,"yhm~ diye bhut se great reviews ko dekhkr, last night mere bf aur maim meraa birthday celebrate krne Esca chle ge।",['anecdotes/miscellaneous'],['neutral']
+11478791#397331#1,"jbki unkaa kitchen food delicious hai, unkaa Sushi is smsaar mem alg hai।",['food'],['positive']
+35177381#521555#2,"Boot ke saath heat problem thii, islie yh restaurant mem 40 degrees kaa thaa -- hmne apne coats ko uncheck krne kaa request kiyaa!",['ambience'],['negative']
+35171678#484493#2,"sbkuchh, ek cute waitresses ke excellent service ke saath, bilkul lush atmosphere mem scrumptious  hai।","['service', 'ambience']","['positive', 'positive']"
+11351664#1238806#1,"yh traditional, saadhaarण italian food hai।",['food'],['positive']
+11432316#715219#0,merii girlfriend aur maim anniversary ke 10 month Lou Lou mem bitaae haim।,['anecdotes/miscellaneous'],['neutral']
+35693081#540596#1,"Food kul milaakr, rolls ke saath usually shaandaar aur sushi/sashimi blki us level kaa bilkul nhiim, achchhaa hai।   ",['food'],['positive']
+35693081#540596#2,Sashimi  thoड़aa ptlaa ktaa hai।,['food'],['negative']
+32944714#1559783#2,"Bay Terrace mall iske binaa (ok, bilkul kuchh nhiim) kuchh nhiim hai।",['anecdotes/miscellaneous'],['positive']
+35708055#673129#2,Chinatown mem 1/3 ke price mem better khaa skaa thaa।,['price'],['negative']
+11567247#1415594#0,mere husband aur maimne blast kr diyaa thaa।,['anecdotes/miscellaneous'],['positive']
+11651062#1264882#6,maim personally khtaa hoom~ apnaa money save kiijiye।,['anecdotes/miscellaneous'],['negative']
+11651063#1217842#0,"Great hot dogs ke saath hii, DOTP mem shaandaar breakfast sandwiches hai jo kii bड़e features ko joड़te hue jaise tator tots aur English muffins ko joड़te hue, ek delicious NJ-based pork product hmem Jersey girls aur boys ko Taylor ham jaisaa btaataa hai।",['food'],['positive']
+11651063#1217842#8,"meraa believe kro, ve name pr rhte haim।",['anecdotes/miscellaneous'],['positive']
+"blki, yh huaa hai kyomki ek graceless manager aur ek rude bartender jo drinks ke lie 20 minutes waiting kraayaa, aur phir hmem chill out krne ko khaa।","blki, yh huaa hai kyomki ek graceless manager aur ek rude bartender jo drinks ke lie 20 minutes wait kraayaa, aur phir hmem chill out krne ko khaa।",['service'],['negative']
+32892130#435512#1,"kevl service hii great nhiim hai, blki tables ke chaaro or conversation bnaanaa bhut easy hai kyomki atmosphere donom trph romantic aur comfortable ho sktaa hai।","['service', 'ambience']","['positive', 'positive']"
+11359797#469087#5,"jb dish aayaa yh green chillis ke saath jl rhaa thaa, jo bilkul human ke lie edible nhiim thaa।",['food'],['negative']
+11351819#985076#1,ab tk kaa worst service jo maimne anubhv kiyaa hai aur food average (jbki people ko vaakii mem order kiyaa huaa meals unhe diyaa gyaa thaa) se km thaa।,"['service', 'food']","['negative', 'negative']"
+33061445#591371#1,yh lunch ke lie $7 hai aur unhone take-out yaa dine-in kiyaa hai।,"['price', 'service']","['neutral', 'neutral']"
+11359762#927332#2,kul milaakr yh New York kaa BEST past hai।,['anecdotes/miscellaneous'],['positive']
+35698240#574381#0,hm yhm~ afternoon kaa performance dekhte hue phle bhii several times khaa chuke haim,['anecdotes/miscellaneous'],['neutral']
+32934709#796678#1,sbkuchh bhut cheap hai।,['price'],['positive']
+32934709#796678#2,lekin apne food ko ek fresh juice concoctions ke saath nishchit krem।,['food'],['positive']
+32894963#1707639#1,Food shaandaar hai aur prices reasonable hai।,,"['positive', 'positive']"
+32894963#1707639#3,"Place saaph hai, aur ydi aapko soul food psmd hai, to yhii vh place hai।","['ambience', 'food']","['positive', 'positive']"
+32894963#1707639#4,aap church ke baahr bhut se people ko khaate hue dekhemge।,['anecdotes/miscellaneous'],['neutral']
+33059678#631861#3,maimne roast chicken aur ek salad khaayaa।,,['neutral']
+32894966#1727613#0,maim Juice Generation kaa pichhle 3 months se customer rhaa hoom~ - meraa office Film Center ke Ninth Avenue aur ve agle block mem haim।,['anecdotes/miscellaneous'],['neutral']
+32894966#1727613#7,unke paas bhut achchhe chicken with avocado aur achchhaa tuna bhii hai।,['food'],['positive']
+32894966#1727613#11,yh ek trh kaa place hai jise maim support krtaa hoom~!,,['positive']
+11558693#1436895#4,lekin meals bhyaank thaa।,['food'],['negative']
+11558693#1436895#6,meraa chicken purii trh se dried out ho gyaa thaa aur cold side mem sauce bhut hii flavorful thaa।,['food'],['negative']
+12037822#470071#0,Malted Milk Ball Gelato - kyaa aapne apne life mem kbhii bhii kuchh ridiculously wonderful sunaa hai?,['food'],['positive']
+36216551#1233442#0,bs maimne window kii aur se walk kiyaa aur sbhii unbiased positive reviews ko achchhe major publications mem dekhtaa hoom~।,['anecdotes/miscellaneous'],['positive']
+11558693#1436895#9,is terrible meal ke lie money ज़yaadaa hai।,"['price', 'food']","['negative', 'negative']"
+35708055#673129#6,kisii ko jaane ke lie recommend nhiim krtaa hoom~।,['anecdotes/miscellaneous'],['negative']
+35700731#1595671#2,jbki service bhut hii horrible hai।,['service'],['negative']
+11350033#1264371#4,dhiimii bar service ek dhokaa thaa।,['service'],['negative']
+35158410#1207085#5,Dessert bhii kmaal kaa thaa।,['food'],['positive']
+11660930#655010#6,"BTW, service bhut achchhaa hai।",['service'],['positive']
+11567247#1415594#4,We loved it and will go back!,['anecdotes/miscellaneous'],['positive']
+35695422#1464305#4,maim phir ek weeks ke baad mere boyfriend ke saath aayaa aur aur phir se bhut achchhaa experience huaa।,['anecdotes/miscellaneous'],['positive']
+12036269#580745#8,yh black vinegar aur shredded ginger ke saath khaayaa jaataa hai।,['food'],['neutral']
+11350390#802808#2,"The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.","['ambience', 'price', 'food']","['negative', 'negative', 'negative']"
+33068517#482841#4,maim definitly vaaps aaoom~gaa!,['anecdotes/miscellaneous'],['positive']
+11359618#788741#1,yh city mem sbse achchhaa Italian restaurant hai।,['anecdotes/miscellaneous'],['positive']
+11359619#487952#4,yh kuchh friends ke saath jaane ke lie cozy place hai।,['ambience'],['positive']
+11565268#560107#1,"Service hmeshaa se great hai, aur owner sbhii or ghoomte haim ki aap enjoy kr skem। ",['service'],['positive']
+11351628#404492#5,kyomki waiters ko SEVERE ATTITUE ADJUSTMENTS kii jroort hai।,['service'],['negative']
+35160930#774531#2,LA mem bhut se numerous shavue restaurants haim lekin kuchh hii baahr haim।,['anecdotes/miscellaneous'],['neutral']
+33068909#1189415#6,bhyaank experience - door rho!,['anecdotes/miscellaneous'],['negative']
+32926987#668438#3,"ydi yh restaurant Manhattan mem hotaa, to maim bilkul aksr jaataa।",['anecdotes/miscellaneous'],['positive']
+11359791#791967#1,Food delicious aur highly recommended hai।,['food'],['positive']
+11359790#823900#2,"jb order lene kaa time aayaa to waiter ne hme thoड़aa hard time diyaa, gyaa aur phir vaaps aayaa aur pen down kiyaa kii hme kyaa chaahie thaa... kyaa vh iskaa job nhiim hai?",['service'],['negative']
+11350269#481079#1,yh city mem meraa Fav sports hai।,['anecdotes/miscellaneous'],['positive']
+11351819#985076#4,"Over priced, overrated.... door rho!","['price', 'anecdotes/miscellaneous']","['negative', 'negative']"
+11351819#985076#0,aap is restaurant mem mt jaao।,['anecdotes/miscellaneous'],['negative']
+32894267#698671#2,"jb se hm neighborhood mem the, hmne ise sure aaज़maane kaa try kiyaa thaa।",,['neutral']
+11565268#560107#2,kul milkr kh sktaa hoom~ ki ve fantastic haim।,['anecdotes/miscellaneous'],['positive']
+11351628#404492#2,Dieters salads se chipke hue haim aur  vegetarian platters mem indulge haim।,['food'],['positive']
+32935729#785247#10,ab tk kaa filling aur healthy meal hai ise jaane do।,['food'],['positive']
+33068909#1189415#7,maim imagine kr sktaa hoom~ ki yh kitnaa buraa ho chukaa hogaa ki ydi hm prime time mem ge homge।,['anecdotes/miscellaneous'],['negative']
+33066089#490193#0,maim dine mem kii times Mammino khaa chukaa hooomgaa aur hr baar yh better hotaa jaayegaa।,['anecdotes/miscellaneous'],['positive']
+33066089#490193#4,Definitely kuchh check out krne ko hai।,['anecdotes/miscellaneous'],['positive']
+11359727#487554#3,"jb tk maim jiine ke lie pkaataa hoom~, maim bhut food ko lekr bhut fussy hoom~ maim restaurants mem khaataa hoom~।",['anecdotes/miscellaneous'],['neutral']
+11639814#570590#2,Service shaandaar thaa।,['service'],['positive']
+11432842#416795#0,maim restaurant week ke lie gyaa।,['anecdotes/miscellaneous'],['neutral']
+11350141#1745557#0,meraa friend aur maim Kips Bay movie theater jaane se phle yhm~ pizza ke lie ruke।,['anecdotes/miscellaneous'],['neutral']
+11350141#1745557#1,hm hmeshaa pizza enjoy krte haim।,['food'],['positive']
+11350141#1745557#4,Service thoड़aa achchhaa hai।,['service'],['positive']
+35693216#1233439#0,maim vhm~ kuchh friends ke saath gyaa aur vaaps aa jaaoomgaa।,['anecdotes/miscellaneous'],['positive']
+32944693#1193404#0,yh place kuchh years ke lie hai।,['anecdotes/miscellaneous'],['neutral']
+11432442#650772#0,"Yum, chicken yhm~ shaandaar hai।",['food'],['positive']
+36244423#1058258#3,maim is restaurant ko highly recommend krtaa hoom~!!,['anecdotes/miscellaneous'],['positive']
+11559272#409013#1,aap apne Trio ke baare mem sbkuchh psmd kremge।,['anecdotes/miscellaneous'],['positive']
+11538980#453602#0,yh place bhut worst thaa।,['anecdotes/miscellaneous'],['negative']
+32891589#573560#0,maimne yhm~ se last week order kiyaa thaa।,['anecdotes/miscellaneous'],['neutral']
+32938222#1552119#0,yh Brooklyn mem ek achchhaa sushi restaurant hai jo 86 street pr train station ke thiik niiche located hai।,['anecdotes/miscellaneous'],['positive']
+32406302#615620#1,"yhm~ food bhut shaandaar thaa, ek treat beginning se end tk thaa।",['food'],['positive']
+11484031#1129679#1,Host (owner) aur servers apno jaisaa aur dhyaan rkhne vaalaa hai।,['service'],['positive']
+32882616#562969#0,maim bhut se magazines mem iske baare mem sunne ke baad try out krne kaa decide kiyaa।,['anecdotes/miscellaneous'],['neutral']
+11351561#744321#0,"yh sbkuchh bilkul hai... food, atmosphere...kmaal kii kind aur gracious hostess hai।","['food', 'ambience', 'service']","['positive', 'positive', 'positive']"
+33070461#1496736#7,Moved krke maimne sch mem place ko bhut miss kiyaa।,['anecdotes/miscellaneous'],['positive']
+33068635#1533725#2,Food bhut achchhaa aur service shaandaar hai।,"['food', 'service']","['positive', 'positive']"
+11313316#1234433#1,maim hmeshaa ek Vietnamese Beef Noodle Soup letaa hoom~।,['food'],['neutral']
+33069925#747092#5,"ise joड़em : local investment bankers ise psmd krte haim, apne lie km se km ek baar try krem।",['anecdotes/miscellaneous'],['positive']
+11359797#469087#1,maim uske baad dosa hut aur adhik jaane lgaa।,['anecdotes/miscellaneous'],['positive']
+11661949#1709112#5,hm wonder kr rhe haim ki ve vhm~ kyom hmaaraa dining experience miserable kr rhe the।,['anecdotes/miscellaneous'],['negative']
+11351354#412616#2,"bhut buraa, bhut potential hai।",['anecdotes/miscellaneous'],['conflict']
+33069536#707145#0,"New York ke is place pr sbse achchhaa Indian food miltaa hai, hands down.",['food'],['positive']
+33069536#707145#1,Waiters bhut hii friendly aur helpful hai aur ydi aap frequent aate haim ve aapko yaad kremge।,['service'],['positive']
+35693081#540596#0,Intimate lekin bilkul friendly service ke saath attentive service aur charming interior hai।,"['ambience', 'service']","['positive', 'positive']"
+35393632#1591698#4,Food utnaa hii creative thaa jitnaa ki decor aur donom kaam krtaa thaa।,"['food', 'ambience']","['positive', 'positive']"
+33009300#626261#0,Siam Square neighborhood mem bhut nyaa hai aur maujhe lgtaa hai ki time mem ise vo recognition mil jaaegaa jo deserve krtaa hai।,['anecdotes/miscellaneous'],['positive']
+33009300#626261#2,meraa phlaa experiance Siam Square jo bhut pleasent thaa।,['anecdotes/miscellaneous'],['positive']
+33009300#626261#4,maim Siam Square bhut times jaa chukaa hoom~ aur hr time maim kaaphii satisfied bhii rhaa hoom~।,['anecdotes/miscellaneous'],['positive']
+33009300#626261#5,"Menu ek achchhe selection ke lie, aur sbhiikuchh jo maimne koshish kii jo absolutely delicious hai।",['food'],['positive']
+35393630#1095759#0,hmne apnaa Christmas party Dos pr kiyaa thaa aur yh shaandaar thaa।,['anecdotes/miscellaneous'],['positive']
+11350539#680470#1,meraa khud kaa favorite Nick aur Joe's hai।,['anecdotes/miscellaneous'],['positive']
+11350539#680470#3,Sauce zesty aur flavorful aur crust achchhaa aur crispy hai।,['food'],['positive']
+33059931#926509#0,is place mem is city kaa best sushi hai।,['food'],['positive']
+33059931#926509#1,unkaa selection kmaal kaa hai (rolls with crab vaakii shaandaar hai),['food'],['positive']
+11349871#518230#2,"hr koii jo vhm~ kaam krtaa hai (host, bartender, servers) bhut helpful hai।",['service'],['positive']
+11349871#518230#3,aur food fantastic hai।,['food'],['positive']
+11349871#518230#4,Favourites include: potato spinach gnocchi and the lamb.,['food'],['positive']
+32935583#854234#2,Glechik ke baare mem doosrii achchhii chiij- sbkuchh cheap hai!,['price'],['positive']
+33071731#1007204#0,"durbhaagyvsh, hmne yh spot lunch ke lie aise chunaa hai ki lge hmne bhut walking kr lii aur yh South St Seaport pr jaa kr khtm ho।",['anecdotes/miscellaneous'],['negative']
+32889544#0#3,lekin regulars jaante haim ki sandwiches yhm~ kaa real star hai।,['food'],['positive']
+11351753#0#4,Portuguese cheese cart kaa skillfully chunaa gyaa quality ke port ke saath joड़naa ek shii lberian ending prdaan krtaa hai।,['food'],['positive']
+35084984#412657#1,mere friend ne burger khaayaa hai aur maimne ye shaandaar blueberry pancakes pancakes khaayaa hai।,['food'],['positive']
+35084984#412657#2,hm apne food se bhut khush the aur jbki jyaadaa thrilled tb hue jb hmne bill dekhaa।,"['food', 'price']","['positive', 'positive']"
+35084984#412657#3,maim is restaurant mem definitely vaaps jaaoomgaa।,['anecdotes/miscellaneous'],['positive']
+15087705#871249#5,Place bilkul bhii prime time ke lie ready nhiim haim।,['anecdotes/miscellaneous'],['negative']
+33064221#427885#3,sbhii toppings bhut fresh haim ve sochemge ki unkaa apnaa vegetable garden thaa aur crust itnaa perfect hai ki shii mem sochtaa hai ki koii bhii shii mem sochtaa hai ki kaise bnaayaa gyaa thaa।,['food'],['positive']
+11548230#560890#0,NYC mem Quartino meraa psmdiidaa resturant hai।,['anecdotes/miscellaneous'],['positive']
+11548230#560890#2,hmne hmeshaa amazing service paayaa hai aur hmem food psmd hai।,"['service', 'food']","['positive', 'positive']"
+35700989#574718#1,"Waitstaff solicitous aur friendly aur hmeshaa hmem dekhne mem achchhaa lgtaa hai, aur food shaandaar, lekin stunningly creative nhiim hai।","['service', 'food']","['positive', 'positive']"
+35700989#574718#2,mujhe lobster ravioli bhut psmd hai।,['food'],['positive']
+33070600#670328#1,meraa order mere table pr hai jbki ek busy friday night pr 10 minutes phone pr vyst dikhaa।,['service'],['positive']
+11639814#570590#0,hmem is restaurant ke baare mem accident se ptaa chlaa jbki ek DUMBO art festival mem hmaare meal ko thoroughly enjoy kiyaa।,['food'],['positive']
+11359618#788741#2,"Service shaandaar hai, wait nhiim, aur aapko price jyaadaa miltaa hai। ","['service', 'price', 'food']","['positive', 'positive', 'positive']"
+12036269#580745#3,maimne sochaa ki food Chinatown kii tulnaa mem bilkul cheap nhiim hai।,['price'],['negative']
+32896473#439063#1,aur aapko kbhii aisaa feeling nhiim aaegaa ki aapko chhoड़ne kaa jroort hai।,['anecdotes/miscellaneous'],['positive']
+33070601#438491#0,Overpriced Cosi sandwiches se coffee jyaadaa achchhaa deal hai।,['price'],['conflict']
+11661949#1709112#3,hmem nhiim ptaa ki hmem drink order krnaa chaahie yaa jaanaa chaahie।,['anecdotes/miscellaneous'],['neutral']
+32894791#1611374#2,Neighbhorhood kaa spot shaandaar hai।,['anecdotes/miscellaneous'],['positive']
+34109476#402765#0,Bobb V's apne Friends aur Family ko le jaane ke lie ek shaandaar place hai।,['anecdotes/miscellaneous'],['positive']
+35693081#540596#3,"East Village mem yh best Japanese restaurant nhiim hai, lekin yh apne modest prices ke lie kaaphii soild hai, aur repeat visit ke lie worth hai। ","['price', 'anecdotes/miscellaneous']","['positive', 'conflict']"
+32944714#1559783#1,Food bhut achchhaa aur bhut papular hai jhm waiting really ek nightmare ho sktaa hai।,"['food', 'service']","['positive', 'negative']"
+14336883#1094817#5,"yhiim vo chiiज़ hai, jiske lie aap restaurants ke lie world ke sbse achchhe city mem haim।",['anecdotes/miscellaneous'],['positive']
+14336883#1094817#6,jaaie aur apnaa money khiim aur bhii spend kiijiye jo vaastv mem aapko wows detaa ho।,['anecdotes/miscellaneous'],['neutral']
+33059678#631861#2,"Crowd puraanaa thaa aur restaurant bhut cramped hai, lekin iskaa charm old school jaisaa hai।",['ambience'],['conflict']
+32894966#1727613#1,yh is place kaa aslii gem hai।,['anecdotes/miscellaneous'],['positive']
+32894966#1727613#9,mere hisaab se yh wonderful place hai।,['anecdotes/miscellaneous'],['positive']
+11558693#1436895#1,Place pr first walking krte hue ambience shaandaar lgtaa hai।,['ambience'],['positive']
+35700731#1595671#0,maim is weekend Kitchenette brunch ke lie gyaa।,['anecdotes/miscellaneous'],['neutral']
+32894963#1707639#0,"is place kaa publicity nhiim kiyaa jaataa hai jaise ki Sylvias Soul Food restaurant krtaa hai, lekin krnaa chaahie।",['anecdotes/miscellaneous'],['positive']
+14336883#1094817#7,kyomki P Diddy ne Butter mem party kiyaa thaa iskaa ye mtlb nhiim hai ki hmem automatically impressed ho jaanaa chaahie।,['anecdotes/miscellaneous'],['negative']
+35819603#1613701#3,"jbki do ke lie vhm~ bhut hungry people the, bhut se food home le jaane ko bche hue the (jise bhut achchhaa reheats kiyaa gyaa hai)।",['food'],['positive']
+11350539#680470#8,"jaisaa ki maimne khaa, Nick aur Joe's sbke favorite nhiim ho skte haim, lekin yh mere haim।",['anecdotes/miscellaneous'],['positive']
+35393632#1591698#6,Help bhut hii achchhaa thaa aur hmem rush nhiim kraayaa।,['service'],['positive']
+35714274#1076679#4,tb unhone kisii trh chaarom or raw aur cold mem dry aur brunt crust bnaayaa।,['food'],['negative']
+11351664#1238806#4,"yh bs achchhaa food hai, kuchh jyaadaa nhiim aur vhii hmem chaahie।",['food'],['positive']
+33070286#1133164#7,nhiim jaantaa ki doosre us BLOCK jaise haim lekin hm apne CHOICE se PLEASED haim।,['anecdotes/miscellaneous'],['positive']
+32936760#1397861#9,aust cake jo bhut se hype se court kiyaa gyaa hai।,['food'],['negative']
+11349654#424016#1,yh cute aur simple aur maimne ise psmd kiyaa thaa।,['anecdotes/miscellaneous'],['positive']
+33068517#482841#0,merii wife aur maim haal hii mem bistro mem dinner ke lie visit kiyaa aur ek shaandaar experience huaa।,['anecdotes/miscellaneous'],['positive']
+11351400#495795#1,SERVICE bhii bhut PERFECT hai is ITALIAN/FRENCH RESTAURANT mem kuchh glt nhiim hai।,"['service', 'anecdotes/miscellaneous']","['positive', 'positive']"
+11313431#524365#0,mere fiance aur maim haal mem city dekhnaa chaahte the aur aur ek dinner cruise bhii decide kie the।,['anecdotes/miscellaneous'],['neutral']
+11546184#1465600#1,$72 Delmonico steak vaaps bhejnaa thaa kyomki yh order ke lie nhiim pkaayaa gyaa thaa।,"['food', 'price']","['negative', 'negative']"
+11482070#503858#1,"hr baar maim vhm~ gyaa, maim khaane ke lie kuchh nhiim uthaa sktaa thaa kyomki menu bhut se great things se bhraa huaa hai।",['food'],['negative']
+11349922#547169#3,Rice ke mountain ke saath half chicken aur $6.25 mem beans.,,['positive']
+32894483#1088884#0,"Service vaakii fast aur friendly, aur value shaandaar hai।","['service', 'price']","['positive', 'positive']"
+32944674#542988#0,hm food aur value se bhut impressed the।,"['food', 'price']","['positive', 'positive']"
+32944674#542988#2,aapko garlic soup avshy try krnaa chaahie।,['food'],['positive']
+32896492#738746#0,"Casablanca servces svaadisht falafel, tabouleh, humus aur any Mediterranean delights, jo sbhii bhut inexpensive hai।","['food', 'price']","['positive', 'positive']"
+11313290#1139539#0,"Bardolino ke kuchh bad evenings ke baad, maim vaaps aataa rhaa।",['anecdotes/miscellaneous'],['conflict']
+33069847#1306433#1,"Pizza's fresh, crispy, aur serve ke lie taiyaar bnaae ge haim।",['food'],['positive']
+32893609#708406#3,"Midtown area mem bhut se french bistros haim, aur maim ise wholheartedly recommend krtaa hoom~।",['anecdotes/miscellaneous'],['positive']
+35709451#1061726#1,Staff accomodating hai ty krem ki aap satisfied haim।,['service'],['positive']
+11359727#487554#4,Chef Waldy's hmeshaa measures up kie ge haim।,['food'],['positive']
+35709337#1579632#5,yh diamond ruff mem 10 minute ke lie 6 train ke walk ke lie bilkul worth hai।,['anecdotes/miscellaneous'],['positive']
+11350660#564640#0,"ek khud ke vegan hokr, maimne Manhattan ke sbhii vegan restaurants ko try krne kaa point bnaa diyaa hai-- aur Zen Palate aasaanii se meraa favorite bnaa hai।",['anecdotes/miscellaneous'],['positive']
+35819603#1613701#0,Don Pedro's mere psmdiidaa restaurants mem se ek hai।,['anecdotes/miscellaneous'],['positive']
+33059931#926509#2,bhut fresh sushi uchit priced ke saath।,"['price', 'food']","['positive', 'positive']"
+35819603#1613701#2,Seafood Paella for two ke lie jaao।,['food'],['positive']
+35819603#1613701#4,sbhii apetizers achchhe haim aur Sangria bhut achchhaa hai।,['food'],['positive']
+13383936#420974#0,Cantinetta dekhne mem ek mediocre Italian restaurants aslii treasure hai।,['anecdotes/miscellaneous'],['positive']
+11558693#1436895#7,"ek positive thing maim kh sktaa hoom~ ki service prompt thii, hm turmt baithe aur server bhut friendly thaa।",['service'],['positive']
+33009300#626261#3,Staff ne hmem door pr warmly greet kiyaa aur maimne promptly baith gyaa aur food shaandaar thaa।,"['service', 'food']","['positive', 'positive']"
+11350539#680470#0,jbki ek pizza place doosre se achchhaa hai jo aksr subjective rhaa hai।,['anecdotes/miscellaneous'],['neutral']
+35819603#1613701#5,Group aur date ke saath jaane ke lie vaakii achchhaa restaurant hai।,['anecdotes/miscellaneous'],['positive']
+35819603#1613701#6,Service vaakii thoड़aa achchhaa hai।,['service'],['positive']
+35708055#673129#4,Host aur Hostess bhut rude the।,['service'],['negative']
+35708055#673129#7,aap kuchh bhii miss nhiim kr rhe homge।,['anecdotes/miscellaneous'],['negative']
+32878835#503761#0,maimne Applebees ko khojaa jb maim VA ke collage mem chlaa gyaa।,['anecdotes/miscellaneous'],['neutral']
+11351453#683961#0,"Wait staff bhut friendly haim, ydi aap rude yaa picky nhiim haim.......Leon mem last weekend pr hmaaraa meal shaandaar thaa।","['service', 'food']","['positive', 'positive']"
+11351453#683961#1,maimne unke kisii bhii salmon dishes ko recommend kiyaa।,['food'],['positive']
+11351451#805713#1,Foie gras miithaa aur chipchipaa thaa।,['food'],['positive']
+11351324#0#2,"Menu, jo seasonally bdltaa hai,  regional aur international donom prbhaav dikhaataa hai।",['food'],['neutral']
+11624981#549489#5,lekin unkaa mac cheese YUMMY thaa।,['food'],['positive']
+11624981#549489#6,unke brunch menu sbke lie kuchh haim।,['food'],['positive']
+11624981#549489#7,Jazz singer kaa voice achchhaa hai + usne hm sbko dance kraane ke lie kuchh cals ko hilaane ke lie kuchh aur khilaayaa।,['ambience'],['positive']
+15069510#648179#0,"maim hmeshaa apne ko Time Square ke time pr maarne ke lie dhoom~dhtaa hoom~, jo ek shame hai maim is area ko psmd nhiim krtaa।",['anecdotes/miscellaneous'],['negative']
+15069510#648179#2,unke paas bhut quick service hai jo great hai jb aapke paas bhut time nhiim hai।,['service'],['positive']
+15069510#648179#3,"Food average hai: breakfast food, soups, salads, sandwiches, aadi।",['food'],['neutral']
+11519527#1541586#1,maim FOOD se bhut hii adhik DISAPPOINTED thaa।,['food'],['negative']
+11519527#1541586#3,"jo BANANA PUDDING vo SERVE krte haim vo kbhii bhii OVEN nhiim hotaa hai, CRABCAKES jroort se jyaadaa SALTED hotaa hai aur mujhe GREASY MAC AND CHEESE pr shuroo krvaayaa। ",['food'],['negative']
+35759841#1360876#1,"Staff arrogant hai, Brooklyn ke lie prices bhut hii jyaadaa high hai।","['service', 'price']","['negative', 'negative']"
+35759841#1360876#0,Place average...sbse achchhaa hai।,['anecdotes/miscellaneous'],['negative']
+11639667#1085238#2,Service turmt friendly hai।,['service'],['positive']
+11639667#1085238#6,"jo bhii reason ho, definitely yh place hone ko hai।",['anecdotes/miscellaneous'],['positive']
+32464595#574909#0,jb food kii baat hotii hai to yh literally ek hot spot hai।,['food'],['positive']
+32892297#645108#0,Downstairs bar scene bhut thmdaa aur mज़edaar hai।,['ambience'],['positive']
+32892297#645108#1,"Food bilkul shaandaar thaa, lekin jb sbhii ho gyaa, maim bilkul ise price ke lie justify nhiim kr skaa (2 drinks ko milaakr $100/person)","['food', 'price']","['positive', 'negative']"
+32950061#1264345#0,maim yhm~ friend's ke birthday mem casual lunches ke lie aayaa hoom~ aur maim hmeshaa khud enjoy krtaa hoom~।,['anecdotes/miscellaneous'],['positive']
+35393630#1095759#2,ydi aap Tequila ke fan haim to aap disappoint nhiim homge।,['food'],['positive']
+11660930#655010#5,"shaandaar beer selection bhii hai, kuchh 50 beers kii trh।",['food'],['positive']
+35695422#1464305#0,"achchhe reviews pढ़ne ke baad, maimne apne ek die-hard downtown friend ko TASTE mem mujhe join krne ke lie invite kiyaa।",['anecdotes/miscellaneous'],['neutral']
+11359613#884374#3,Negative sound ke lie bhii nhiim lekin delivery ke lie taiyaar।,['service'],['negative']
+35390182#756337#7,"Family kii trh feel krtaa hoom~, jb maim vhm~ jaataa hoom~।",['anecdotes/miscellaneous'],['positive']
+13383936#420974#1,"mujhe food bs iske owner, Da Silvano jitnaa achchhaa, km expensive lgaa।","['food', 'price', 'service']","['positive', 'positive', 'positive']"
+11484031#1129679#3,unke paas sbhii trh ke homemade pastas haim -- maim gnocchi ko recommend krtaa hoom~ -- yum!,['food'],['positive']
+14336883#1094817#3,"meraa vegetable risotto jl gyaa thaa, aur poorii trh brunt flavor mem infused ho gyaa।",['food'],['negative']
+35695422#1464305#1,kyaa shaandaar surprise hai!,['anecdotes/miscellaneous'],['positive']
+32935729#785247#8,is place kaa mukhy draw price hai।,['price'],['positive']
+35390148#588852#4,is trh kii service ke hope ke saath business mem kaise rhemge।,['service'],['negative']
+32405935#675215#1,"lekin yhm~ kaa dinner kbhii disappointing nhiim rhaa, jbki prices thoड़aa jyaadaa hai।","['food', 'price']","['positive', 'negative']"
+32895093#418997#1,"naa kevl unke paas amazing, sandwiches, soup, pizza aadi hai, lekin unke homemade sorbets is world se alg haim।",['food'],['positive']
+35393630#1095759#1,"Homemade Guacamole, avishvaasii entree, aur sbse amazing deserts hai।",['food'],['positive']
+11461396#699654#0,Sushi uchit roop se priced aur fresh hai।,"['food', 'price']","['positive', 'positive']"
+32485393#1022496#1,"yh fuss nhiim, blki fast aur delicious hai।","['food', 'service', 'ambience']","['positive', 'positive', 'positive']"
+35869867#649564#3,Deserts ke lie room save krem - ve mrne ko haim।,['food'],['positive']
+32408649#945413#2,Grill se sbse achchhii chiiज़ order krne ke lie (Churrasco aur Ribs) hai।,['food'],['positive']
+35196520#758440#0,Traditional Italian items shaandaar haim - sste aur aaraamdaayk setting mem served kiye gye haim।,"['food', 'price', 'ambience']","['positive', 'positive', 'positive']"
+33085669#409731#7,jhm aap iced blended mocha yaa hot white mocha lete hai aap bhut hii khush hote haim।,['food'],['positive']
+33068909#1189415#1,pichhle Tuesday ek friend ke saath late lunch ke lie।,['anecdotes/miscellaneous'],['neutral']
+32891589#573560#3,yh delish thaa aur maim ise khaakr bad feel nhiim kiyaa।,['food'],['positive']
+32894416#1193614#4,doosre friend ko parmesan cheese ke lie 3 times poochhnaa pड़aa thaa।,['service'],['negative']
+35177381#521555#1,"hmaarii waitress ne kbhii kisii food ke lie koii apparently koshish nhiim kii, aur koii bhii kisii prkaar kaa wine recommend krne vaalaa nhiim thaa।",['service'],['negative']
+15094232#1295193#3,"Service thoड़aa slow thaa aur portions thoड़aa chhotaa thaa islie ydi tum hungry aur rush mem ho, yh place tumhaare lie nhiim hai।","['service', 'food', 'anecdotes/miscellaneous']","['negative', 'negative', 'negative']"
+11313431#524365#4,"agle time koii doubt nhiim hai hm special occasion ke lie yaa town ke baahr ek entertaining guest kii trh baahr jaanaa chaahte haim, Spirit aur Bateaux hmaaraa destination hogaa।",['anecdotes/miscellaneous'],['positive']
+11538980#453602#2,maim Jewel Bako ko recommend kroomgii ydi aapko lgtaa hai ki aapkii groin mem thkaa gyaa aur aapko pay bhii krnaa pड़aa।,['anecdotes/miscellaneous'],['negative']
+11302357#835238#2,"Ambiance kaaphii cool thaa, lekin hassle ke laayk nhiim thaa।",,"['conflict', 'negative']"
+33071731#1007204#4,hmaare bgl mem ek unfortunate lady ne sochaa ki usne ek salad order kiyaa (jismem salad dressing ko joड़kr) aur use uske bdle quesedilla diyaa gyaa।,['service'],['negative']
+33069847#1306433#0,"El Nidos New York mem ek sbse achchhaa restaurants thaa, jismem maim kbhii gyaa thaa, ek tasty kii ek great variety, mouth watering pizza's thaa।","['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+11302357#835238#1,"kul milaakr service bhut hii poor thaa, food cost ke bdle below average thaa, aur baahr ek crazy bum thaa jo us place ko chhoड़ne vaale sbhii customer ko harasses krtaa thaa।","['service', 'food', 'price', 'anecdotes/miscellaneous']","['negative', 'negative', 'negative', 'negative']"
+35709451#1061726#4,jbki maimne uptown moved kiyaa maim ruknaa chaahaa jbki shaandaar cheap food hone ke lie smbhv hai aur ek friendly staff ke visit ko pay krnaa hai।,"['food', 'price', 'service']","['positive', 'positive', 'positive']"
+35701425#1155856#4,mujhe bar mem kuchh minutes mere friend ke lie wait krnaa hai।,['anecdotes/miscellaneous'],['neutral']
+35816071#637243#1,"Chef Vincenzo, ydi aapko vh chaahie to vhm~ hmeshaa haim, ek real talent hai aur ek real Roman hai।",['food'],['positive']
+33069536#707145#4,"ydi aap kuchh great Indian food ko taste krne kaa soch rhe haim aur achchhii service chaahte haim, to Curry Leaf pkkaa visit krem।",,"['positive', 'positive']"
+32935583#854234#1,aapko Odessa stew yaa Rabbit stew avshy aaज़maanaa chaahie; salads-sb achchhaa hai; aur kompot hot summer day ke dauraan bhut refreshing (ve aise krtii haim jaisaa merii mom kiyaa krtii haim) hai।,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+36220672#1714981#2,merii daughter aur maim satisfied hoke chlii gyiim (naa ki stuffed) aur yh jaan kr achchhaa lgaa hmne ek healthy lunch kiyaa।,['food'],['positive']
+11447227#436718#0,maimne phle se is place ko bad review dene ke lie tempted thaa islie maimne crowds ko door rkhaa...ab years se hmeshaa vhm~ jaate hue aur yh vaakii city mem meraa fave hang out thaa।,['anecdotes/miscellaneous'],['positive']
+33071731#1007204#5,"jb usne complained kiyaa, to waitress ne sorry kh diyaa।",['service'],['neutral']
+35158451#1089920#4,Quality of the meat aapke local grocery store ke lgbhg braabr thii।,['food'],['negative']
+32894966#1727613#2,ve smoothies aur fresh juices mem specialize thii।,['food'],['positive']
+35714274#1076679#3,"yh sbse phle well done aayaa, aur maimne ise politely vaaps bhejaa।",['food'],['negative']
+11351587#1488758#7,"maimne black roasted codfish ko recommend kiyaa, yh evening kaa sbse achchhaa dish thaa।",['food'],['positive']
+11359790#823900#3,tb manager ne hme btaayaa ki hmem jo menu chaahie thaa hm order kr skte the lekin us time tk hm waiter ko lekr bhut annoyed the aur us restaurant ko chhoड़kr hm khiim aur chle ge।,"['service', 'anecdotes/miscellaneous']","['negative', 'negative']"
+33068664#1164940#0,"Mi burrito mem, yhm~ kuchh nhiim lekin dark chicken jo last week pkaayaa gyaa thaa aur microwave taste mem warm kiyaa gyaa thaa।",['food'],['negative']
+11624981#549489#10,"vyst hours ke dauraan, maim aapke reservation kraane ke lie recommend krtaa hoom~।",['anecdotes/miscellaneous'],['neutral']
+35759841#1360876#3,apnaa time aur money brbaad mt kro।,['anecdotes/miscellaneous'],['negative']
+32894267#698671#3,"yh achchhaa hai lekin, lekin movie book jitnaa achchhaa nhiim hai, yh ek same analogy hai।",['anecdotes/miscellaneous'],['conflict']
+11624981#549489#9,yh bhut warm experiance thaa।,['anecdotes/miscellaneous'],['positive']
+35084984#412657#0,maim brunch ke lie Common Stock mem gyaa aur maim bhut impressed huaa thaa।,['anecdotes/miscellaneous'],['positive']
+33069925#747092#0,"ab nikki suchi bulaayii gyii, sushi thiik hai।",['food'],['neutral']
+33069536#707145#2,Food bhii bhut outstanding hai aur aur bhut tejii se served kiyaa gyaa hai।,"['food', 'service']","['positive', 'positive']"
+11351561#744321#1,mere paas is place ke baare mem khne ko kuchh nhiim hai jo ki negative hai bjaae iske ki yh ek cheap night out hai...lekin yh bhut worth hai।,"['price', 'anecdotes/miscellaneous']","['conflict', 'positive']"
+35709337#1579632#1,"Erbazzone emiliana tk mostarda on the cheese plate, is restaurant kii sbhii dishes ko bhut hii koml rkh-rkhaav ke saath handled kiyaa jaataa hai।",['food'],['positive']
+33066089#490193#3,Food svaadisht aur bar kaa vibe kmaal kaa hai।,"['food', 'ambience']","['positive', 'positive']"
+32894267#698671#1,expectations were real hi reading the '10's'.,['anecdotes/miscellaneous'],['neutral']
+32892130#435512#2,Candlelight aur music hai।,['ambience'],['neutral']
+32938828#1194079#0,ek place jo ki yh 24 hours (adhiktr yh downtown Brooklyn mem) find krnaa achchhaa hai।,['anecdotes/miscellaneous'],['positive']
+32935729#785247#11,saadhaarण svsthvrdhk unglamorous food sstaa hai।,"['food', 'price']","['positive', 'positive']"
+35869867#649564#0,"yh ek bhut hii fantastic dining experience, jo maimne usii week mem vaaps kiyaa।",['anecdotes/miscellaneous'],['positive']
+11359613#884374#6,"uchit hone ke saath, food phir bhii achchhaa hai aur service quick hai aur attentive hai jbki yh usually bhut busy hai।","['food', 'service']","['positive', 'positive']"
+35700731#1595671#1,Place bhut hii adorable aur food svaadisht hai।,"['ambience', 'food']","['positive', 'positive']"
+11558693#1436895#5,maimne Chicken Teriyaki aur mere husband ne Garlic Shrimp kii peshksh kii।,['food'],['neutral']
+11558693#1436895#0,maimne ek mall food court mem behtr Japanese food khaayaa।,['food'],['negative']
+32894966#1727613#10,Staff members bhut adhik friendly aur jbki meraa ek drink replaced kr diyaa jb maimne ise baahr giraa diyaa।,['service'],['positive']
+11359717#1138929#0,Cool atmosphere lekin ek kitnaa let down thaa।,"['ambience', 'anecdotes/miscellaneous']","['positive', 'negative']"
+32938222#1552119#3,"Sashimi portion adhiktr logom ke lie kaaphii bड़aa thaa, lekin mujhe aise fact psmd nhiim jo ve artifical lobster meat kaa upyog krte haim।",['food'],['conflict']
+32891589#573560#1,unke paas wheat crusted pizza vaakii fresh aur svaadisht ingredients se bnaa huaa hai।,['food'],['positive']
+33070309#423221#0,"is dedicated seafood joint mem ek shaandaar dinner kiyaa, food achchhe se prepared aur -presented aur service pleasent aur prompt thaa।","['food', 'service']","['positive', 'positive']"
+32936760#1397861#7,"Icing se yh cake bnaa hai, yh fluffy, jyaadaa sweet nhiim, creamy aur light hai।",['food'],['positive']
+32936760#1397861#5,mt mem 5 bje store mem time se harried staff ke lie expensive slices khriidne ke lie aane do।,"['price', 'service', 'anecdotes/miscellaneous']","['negative', 'negative', 'negative']"
+33085939#758010#1,hmne chhoड़ne ke lie khtm kiyaa kyomki hmem phle essentially wait staff svraa ignored kiyaa gyaa--jbki bm~kii kaa restaurant bhut bड़aa empty thaa।,"['service', 'anecdotes/miscellaneous']","['negative', 'negative']"
+11351664#1238806#5,"Wine list kmaal kaa hai, achchhe se priced hai jo bhut se regions ko cover krtaa hai।","['food', 'price']","['positive', 'positive']"
+33068890#423889#0,agr aap kisii prkaar se imaging krke fresh aur tasty salads lenaa chaahte haim to yhm~ jaaem~।,['food'],['positive']
+36244423#1058258#4,yhm~ kaa sbkuchh adorable hai yhm~ tk ki bathroom bhii।,"['anecdotes/miscellaneous', 'ambience']","['positive', 'positive']"
+32893040#1716582#1,"tej delivers, shaandaar food, uchit prices, aur maitriipoorण service ko milaakr aanmdmyii repast ko sunishchit krtii haim।","['service', 'food', 'price']","['positive', 'positive', 'positive']"
+33070286#1133164#3,unke paas SIDEWALK pr WAITERS aapko is SUSPICIOUS sthiti mem khiichnaa chaahte haim।,['anecdotes/miscellaneous'],['negative']
+33070286#1133164#1,yhii kevl hmaarii VISIT krne ke lie ek maatr OPPORTUNITY thii aur aur ek AUTHENTIC ITALIAN MEAL chaahtii thiim।,['anecdotes/miscellaneous'],['neutral']
+32897564#894393#0,Parisi ko pizza bnaane mem lgbhg 100 years lge haim (mujhe nhiim lgtaa vo is year isse phle bnaae homge)...lekin wait krne yogy thaa।,"['food', 'anecdotes/miscellaneous']","['positive', 'conflict']"
+35714274#1076679#2,maimne bs kevl saadhaarण medium rare steak mmgaa।,['food'],['neutral']
+35509422#0#3,"udaartaa se garnished kiyaa huaa, organic grilled burgers sbse jyaadaa popular dish hai, lekin Jerusalem market-style falafel wraps aur Mediterranean salads--layered with beets, goat cheese and walnuts braabr scrumptious hai।",['food'],['positive']
+11302357#835238#3,"shaayd meraa sbse khraab dining experience new york mem huaa hai, aur maim ek former waiter hoom~ islie maim jntaa hoom~ kii maim kyaa baat kr rhaa hoom~।",['anecdotes/miscellaneous'],['negative']
+32936760#1397861#6,"Result (red velvet): Great texture, soft and velvety, nice hint of cocoa.",['food'],['positive']
+11359762#927332#4,Round corner table next to the large window ke lie poochhiye।,['anecdotes/miscellaneous'],['positive']
+32891589#573560#4,"unkaa twist on pizza healthy, lekin flavor se bhraa huaa hai।",['food'],['positive']
+11350033#1264371#1,AC kii kmii se fact yh hai ki million swarming bodies (jbki hr koii polite hai aur koii push nhiim kr rhaa hai) jo ek chhotaa turn off hai।,"['ambience', 'anecdotes/miscellaneous']","['negative', 'conflict']"
+11351328#1638529#0,"mujhe Little Pie Company bhut psmd hai aur sbhii jinhone reviews likhaa hai, lekin two sales people ke lie kisii ko Grand Central location mem unke RUDE service ke kaarण visit krne se avshy discourage krnaa chaahie।","['anecdotes/miscellaneous', 'service']","['conflict', 'negative']"
+33009300#626261#1,"durbhaagyvsh, jbtk aap neighbourhood mem rhte haim, yh convenient location mem nhiim hai lekin ek chhupaa huaa treasure jaisaa hai।",['anecdotes/miscellaneous'],['conflict']
+35708055#673129#1,lgtaa nhiim hai ki kisii trh kaa koii effort display and quality of the food shaandaar thaa।,['food'],['negative']
+11351628#404492#1,Food jbki mostly deep fried--simple aur satisfying hai।,['food'],['positive']
+11548230#560890#1,hm neighbourhood mem rhte haim aur jbse opened huaa hai week mem do baar vhm~ jaate rhe haim।,['anecdotes/miscellaneous'],['neutral']
+32935583#854234#0,"Glechik Russian standards ke anusaar restaurant ke bhut tiny hone kaa ek way ho sktaa hai, lekin yh cozy aur food simply GREAT hai।","['ambience', 'food']","['conflict', 'positive']"
+11639814#570590#1,Food shaandaar thaa-authentic Italian cuisine bilkul fresh bnaa hai।,['food'],['positive']
+11313359#650269#4,raat mem atmosphere chhupe hue jewel mem bdl rhaa hai joki discovered krne ke lie wait kr rhaa hai।,['ambience'],['positive']
+11351814#1650882#5,"doosrii baar maim romantic date heaven mem gyaa, aap walk-in kr ke booth by the windows paa skte haim, not-crowded place mem apne ko VIP kii trh great food aur service ko VIP kii trh treat krvaaiie।","['ambience', 'food', 'service']","['positive', 'positive', 'positive']"
+33070601#438491#1,maim kevl coffee ke lie jaaoomgaa joki Starbucks ke jaisaa yaa usse bhut achchhaa hai।,['food'],['positive']
+11359797#469087#0,maim jb tk door ke bgl mem dosa hut tb tk maim pongal kaa regular costumer huaa krtaa thaa।,['anecdotes/miscellaneous'],['neutral']
+11651065#413029#2,kuchh niraash krne vaale wine list (kevl new vintages ke saath)।,['food'],['negative']
+33059678#631861#4,"donom bhut achchhe the, lekin aap similar restaurant mem kuchh nhiim paaemge।",['anecdotes/miscellaneous'],['conflict']
+11639261#426600#0,ydi aap nasty high priced food kii baat krte haim to ghetto scenery cheap BX A$$ mem bel ke lie yhii ek place hai।,"['food', 'price', 'ambience']","['negative', 'negative', 'negative']"
+33069925#747092#1,New hamburger with special sauce thiik hai - km se km big mac se bड़aa hai।,['food'],['conflict']
+35196520#758440#1,"bilkul al dente pasta, binaa sauce mem doobaa huaa -- generous portions hai।",['food'],['positive']
+12036269#580745#6,"maim prices ko maan sktaa hoom~ ydi yh achchhe food, like midtown mem kuchh Chinese restaurants  ko served krtaa hai।","['price', 'food']","['negative', 'negative']"
+15087705#871249#2,Service awful thii - adhiktr staff Saturday night ko ghbraae hue the।,"['service', 'anecdotes/miscellaneous']","['negative', 'negative']"
+35693216#1233439#3,"Owners ko; bhut achchhaa job guys, yh place ek keeper hai!",,['positive']
+35692932#1064131#2,aur owner smaanytyaa lovely aur friendly hai।,['service'],['positive']
+11484031#1129679#0,yh chhotaa place kmaal kaa warm hai।,['ambience'],['positive']
+33106326#864352#4,ek quick meal ke lie shaandaar hai।,['anecdotes/miscellaneous'],['positive']
+35709451#1061726#0,Local family ko warmth krne ke lie sporting events ke lie shaandaar place hai।,['ambience'],['positive']
+11351762#644011#3,"Service shaandaar thaa, aur uske paas birthday ke lie poorii ek achchhii deal hai।","['service', 'price']","['positive', 'positive']"
+36244423#1058258#1,Staff 100% hai Italian aur food utnaa hii authentic hai jitnaa kii miltaa hai।,"['service', 'food']","['positive', 'positive']"
+11350496#1560668#4,meraa complaint kevl fortune cookies ho sktaa hai - maimne kbhii bhii cookie nhiim liyaa jo btaataa hai ki Kar visit krne ke phle lenaa meraa bad luck thaa।,['anecdotes/miscellaneous'],['negative']
+11461396#699654#3,ek sushi lunch ke lie achchhaa hai।,,['positive']
+11464789#378665#2,Mojito khaao aur back patio mem baitho।,,"['positive', 'positive']"
+11351513#832512#2,Service dreadfully slow thaa (Place kevl aadhaa full thaa) aur ek smile achchhaa ho sktaa thaa।,['service'],['negative']
+11408372#630381#0,maim is pichhle Saturday ko gyaa aur braised lamb shank with mashed potatoes kaa ek shaandaar meal khaayaa,['food'],['positive']
+32894669#1075584#2,Waitress ne aakaar apnaa soy sauce ko uthaa liyaa jbki hm apnaa lunch abhii kr hii rhe the।,['service'],['negative']
+11661949#1709112#2,"islie hm bar mem baith ge, bartender ko dekhkr aisaa lgaa ki vo vhm~ rhnaa chaahtaa thaa।",['service'],['negative']
+32933228#1700177#1,"maim fried pork dumplings, orange chicken/beef, fried rice ko reccomend krtaa hoom~। ",['food'],['positive']
+11359762#927332#0,aap menu mem kisii bhii choices se disappointed nhiim homge।,['food'],['positive']
+35709275#573688#1,French fries -- with the kalmata dip shaandaar thaa!,['food'],['positive']
+11349845#1188496#0,"kyaa aap kbhii believe kroge ki jb aap ek hour wait krne ke baad complain krte ho, jb ve tumhem btaate haim ki 20-30 minutes hogaa, manager btaataa hai ki bartender drinks ko spill krtaa hai jise aapne just pay kiyaa hai।",['service'],['negative']
+11313359#650269#5,Boutique selection of wines ko binaa impos kie hue wide variety ko cover krtaa hai।,['food'],['neutral']
+35693136#561234#4,"ydi aap lucky aur koii private party vhm~ vaaps nhiim jaa rhii hai, aapko vaakii chill-out krne kaa chance milegaa।",['ambience'],['conflict']
+32896492#738746#2,unke paas ek kmaal kaa assortment of wraps hai ydi aap traditional Mediterranean fare ke mood mem haim।,['food'],['positive']
+11351816#1162694#1,"Fresh veggies, sbhii trh ke middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, ek rice medley, kuchh spinach thing, lamb kebabs, cheese baclava... bhut saaraa food, aur ye sbhii svaadisht haim।",['food'],['positive']
+32405935#675215#2,"niraashaajnkroop se, unke shaandaar Saketini bar menu se nikaal lie ge haim।",['food'],['conflict']
+35668286#0#0,"Short mem Black Sheep Midtown pub ke herd se alg look hai, jo ki sports-bar butch aur ornate kitsch kaa mix hai।",['ambience'],['negative']
+11350031#590790#3,maim pkkaa vaaps jaaoomgaa -- ydi kevl blackboard pr kuchh aise exotic martinis haim।,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+32469157#1273114#2,ve thoke hue path se bilkul bhut hii alg trip ke lie worth hai।,['anecdotes/miscellaneous'],['conflict']
+33060905#1138585#2,tb usne table ke saath 1 yaa 2 chairs add naa krne ke lie apne end se additional people ke lie ek fuss bnaayaa।,"['service', 'anecdotes/miscellaneous']","['negative', 'positive']"
+35693216#1233439#1,"Happy hour bhut cheap hai, lekin vh service yaa atmosphere ko reflect nhiim krtaa hai।","['price', 'service', 'ambience']","['positive', 'positive', 'positive']"
+33068909#1189415#2,"lgbhg ek hour waiting ke baad, waiter brusquely ne hme btaayaa ki usne kitchen mem hmaaraa order denaa bhool gyaa।",['service'],['negative']
+33070383#592089#0,8th avenue pr sbhii mundane yaa mediocre places ke saath ek rkhnaa achchhaa hogaa ki quaility aur atmosphere mem ek step oopr hai।,"['ambience', 'anecdotes/miscellaneous']","['positive', 'positive']"
+32889544#0#0,"Students kaa ek mix aur is narrow area residents kaa crowd, kevl vhm~ ke is jldii space mem, ek dirt-cheap prices mem ek svaadisht treats hai।","['ambience', 'food', 'price']","['negative', 'positive', 'positive']"
+35698240#574381#4,"ek koshish kro, menu typical French vaalaa lekin bhinn hai।","['food', 'anecdotes/miscellaneous']","['neutral', 'positive']"
+33064238#563983#1,yh crowded hotaa jaaegaa lekin yhm~ back mem bhut sii seats hai aur hr koii jo yhm~ work krtaa hai bhut achchhaa hai।,"['ambience', 'service']","['conflict', 'positive']"
+11651065#413029#3,"lekin value ke lie, yh ek chhote group ke saath fun night out ko enjoy krne ke lie ek shaandaar affordable spot hai।","['price', 'ambience']","['positive', 'positive']"
+36216551#1233442#1,City mem negative reviews shaayd jelous competing restaurants jo realize krtaa hai ki ve Temple's ke ko lekr saare positive attitude ke shii way se customers ko treat krnaa aur top quality kaa food denaa hotaa hai।,"['service', 'food']","['positive', 'positive']"
+11351725#582163#4,hmne ek glass of wine ordered kiyaa aur wine ke aane se phle eating aur paying donom kr diyaa।,"['service', 'food']","['negative', 'neutral']"
+35720486#684689#0,"yh achchhaa thaa, lekin koii bhii flavors WOW nhiim thaa।",['food'],['conflict']
+32938222#1552119#4,kul milaakr yh kuchh friends ke lie hang out aur service ke lie place shaandaar aur achchhaa hai।,"['service', 'ambience']","['positive', 'positive']"
+32408649#945413#3,Food kii ek shaandaar quality aur ek achchhe restaurant price mem hai।,"['food', 'price']","['positive', 'positive']"
+11661949#1709112#4,"asl mem, hr koii jo vhm~ work krtaa hai annoyed lgtaa hai।",['anecdotes/miscellaneous'],['negative']
+33106326#864352#1,"lgbhg eleven bucks aapko ek gigantic burrito (yaa tacos), margarita, aur dessert miltaa hai।","['price', 'food']","['positive', 'positive']"
+11351622#0#1,Space feel ke lie paarmprik hai।,['ambience'],['neutral']
+33060905#1138585#1,"Restaurant pooraa kaa pooraa empty thaa, lekin usne mujhe ek dirty look diyaa aur koii reservations nhiim poochhaa।",['service'],['negative']
+11538980#453602#1,"Food kind hone ke lie mediocre thaa - interior small aur average thaa - owners unpleasantries ke tag-team ke lie - islie rude aur snotty the, maim vaastv mem ek hearty guffaw whilst dining thaa।","['food', 'ambience', 'service']","['negative', 'negative', 'negative']"
+35196527#481646#3,"achchhii service, shaandaar food, achchhii value, aur kbhii line mem wait naa krnaa pड़e।",,"['positive', 'positive', 'positive']"
+35743460#0#3,Hot cakes aur Egg McMuffin sandwich breakfast ke lie available hai।,['food'],['neutral']
+36072604#1106889#0,"maim is restaurants mem years se jaataa rhaa hoom~, past mem service average thii aur food inconsistant thaa।","['service', 'food']","['neutral', 'negative']"
+11567247#1415594#2,"Music fascinating thaa, lekin conversation ke lie room bchaa huaa thaa, aur bartender ne kmaal ke drinks bnaaye the। ","['ambience', 'food']","['positive', 'positive']"
+33070605#1232775#3,Rice dishes aur noodle dishes vaakii $5 bढ़ gii haim aur ek refreshing ice drink kaa $2 add krke aap night ke lie set the।,"['food', 'price']","['positive', 'positive']"
+32899414#512291#3,Cuisine ek asian fusion billed kiyaa gyaa - bill ko nhiim miltaa hai।,"['price', 'food']","['negative', 'negative']"
+11351622#0#3,Creative dishes jaise passion fruit ke saath king crab salad with passion fruit vinaigrette aur fettuccine with grilled seafood in a rosemary-orange sauce mem grilled seafood unexpected elements anythaa btaayaa huaa bistro menu hai।,['food'],['positive']
+35170181#0#3,"Dishes btaataa hai ki jaise Roy's Classics (asterisks ke saath menu ko mark kiyaa gyaa) ek koshish ki jo aur true recipes thaa, jaise ki macadamia-crusted mahi mahi, yaa  aasaanii se sweet honey-mustard beef short ribs hom।",['food'],['positive']
+32893040#1716582#4,"Cold sesame noodles, joki freebie hai jb aap order $10+ kaa order krte haim to delectable ho jaataa hai।","['food', 'price']","['positive', 'positive']"
+35177381#521555#0,"maim fresh ek shaandaar meal expect krte hue aayaa hoom~, aur kul milaakr mujhe restaurant mem marginally so-so food served kiyaa gyaa hai joki bhut hii freezing thaa jisse ki hm eating enjoy nhiim kr ske।","['ambience', 'food']","['negative', 'negative']"
+35886114#1249751#0,ek $8.95 mem lmbaa argentine chorizo appetizer mem ek bhaarii fennel flavored Italian sausage jaisaa ki store mem $2.99/lb kaa thaa।,"['price', 'food']","['negative', 'negative']"
+33059678#631861#0,"maim family ke kuchh friends ke saath Swiftys gyaa aur hmne bhut achchhaa dinner kiyaa, lekin kuchh amazing nhiim thaa।",['anecdotes/miscellaneous'],['conflict']
+32867472#663531#2,"Upper East mem sbse achchhii Chinese, turmt delivery, achchhii value.","['service', 'price', 'anecdotes/miscellaneous']","['positive', 'positive', 'positive']"
+32894966#1727613#8,adhiktr sandwiches soy mayonaise se bne hue haim joki asl mem bhut achchhaa hai।,,['positive']
+33060905#1138585#0,maim one day ek group ke lie table poochhne ke lie gyaa aur hostess dvaaraa bhut hii rude greet kiyaa gyaa।,['service'],['negative']
+35196527#481646#4,mere Chelsea mem ek awesome dinner ke lie ek cab lenaa worthwhile hai।,['anecdotes/miscellaneous'],['positive']
+35709337#1579632#2,"naa kevl food authentic hai, lekin yhm~ ke staff practically off-the-boat haim, ve young aur hip aur jb yh food aur wine pr aatii hai to ve kyaa kr rhe haim।","['food', 'service']","['positive', 'positive']"
+35938288#666236#1,"iskaa music achchhaa hai, achchhaa tapas, ek shaandaar selection of wines (primarily Spanish) aur ek lowkey hip neighbourhood clientele hai।","['ambience', 'food']","['positive', 'positive']"
+32867472#663531#1,"Food shaandaar hai, maimne apne dumplings ko psmd kiyaa, ek cold sesame noodles, chicken aur shrimp dishs hai।",['food'],['positive']
+11484031#1129679#2,"aur food, jbki food aapko vaaps bulaate rhemge।",['food'],['positive']
+11351819#985076#2,Three hours ke Waiting ke baad hmaarii entrees ek treat bhii thii।,['service'],['negative']
+15069510#648179#4,yhii conversations hai jo ise ek fun place bhii bnaataa hai।,['ambience'],['positive']
+11351451#805713#2,"jbki merii gf's duck confitte bhut solid thii, jbki mere paas thoड़aa base of reference thaa।",['food'],['positive']
+35695422#1464305#2,"Wine list supurb thaa, hmaare tapas shaandaar, aur quiet atmosphere achchhe conversations ke lie bilkul perfect the।","['food', 'ambience']","['positive', 'positive']"
+11313316#1234433#3,aap fast food price pr gourmet food paa skte haim।,"['food', 'price']","['positive', 'positive']"
+11417054#1062693#1,"maimne tiinom hii locations pr khaayaa hai aur maim food hmeshaa psmd krtaa hoom~, service hmeshaa wonderful aur prices vaakii reasonable hai। ","['food', 'service', 'price']","['positive', 'positive', 'positive']"
+35693083#822138#0,"islie nhiim kii maim pregnant thaa, lekin yhm~ kaa food hmeshaa delicious thaa।",['food'],['positive']
+11351625#909535#0,is weekend movies jaane se phle bhut shaandaar meal khaayaa!,['food'],['positive']
+15094232#1295193#0,haal hii mem hmne yhm~ ek birthday party kiyaa thaa aur food aur service bhut hii amazing thaa।,"['food', 'service']","['positive', 'positive']"
+35171678#484493#1,"Dinner menu bhut se shaandaar entrees, fresh seafood aur huge steaks kii variety detaa hai, bhut se non-meat alternatives bhii haim।",['food'],['positive']
+11482070#503858#0,is place kaa menu ajiib aur restaurants fancy food bnaane kii koshish krne ke lie hard hai।,['food'],['negative']
+32443281#959917#3,"Appetizers thiik thaa, lekin service dhiimaa thaa। ","['food', 'service']","['neutral', 'negative']"
+11359717#1138929#5,Food - price ke lie laayk nhiim thaa।,"['price', 'food']","['negative', 'negative']"
+11302357#835238#0,"aap place ke baare mem kyaa kh skte haim jhm waitress wrong entree laate haim, tb verbally 80 years kii grandmother aur ise vaaps bhejne ke lie unhe lip detii haim (jo unhone politely kiyaa, berhaal)।",['service'],['negative']
+11351762#644011#2,Prices bhyaank nhiim haim।,['price'],['positive']
+33071731#1007204#6,15% gratuity aapke bill mem apne se hii juड़ gyii।,['price'],['negative']
+35177381#521555#3,"Halibut cheek appetizer ek udaar portion of foie gras, lekin yh kevl positive chiijem jo maim meal ke baare mem kh sktaa hoom~'।",['food'],['conflict']
+33061445#591371#3,Food excellent aur unke paas empenadas aur plaintains jo afternoon snack ke lie achchhaa hai।,['food'],['positive']
+13383936#420974#3,donom ek appetizer ke number aur pasta specials shaandaar the।,['food'],['positive']
+35743460#0#2,"hmeshaa psmdiidaa Big Mac ko joड़taa hai, Chicken McNuggets, Filet-O-Fish sandwich aur McDonald's famous french fries isse hlkaa options jaise entree-sized salads bhii uplbdh hai।",['food'],['positive']
+11351451#805713#4,"bhle hii kuchh loud hai, noise km-se-km dkhl dene ke lie hai।",['ambience'],['conflict']
+11350539#680470#2,"yh ek basic pizza joint hai, bhut nhiim dekhnaa hai, lekin pizza hai jiske lie jaanaa hai।","['ambience', 'food']","['neutral', 'positive']"
+35393632#1591698#3,"Tables bmd hai, islie aap doosre patrons ke saath elbows se bump krke aaraamdaayk bnaate haim।",['ambience'],['negative']
+32894522#1633452#0,Lunch ke lie uskaa Monday thaa - us area mem film pr working kr rhaa thaa - aur yh rare jewel paayaa।,['anecdotes/miscellaneous'],['positive']
+11359767#969393#1,"bhut adhik nhiim, lekin enough hai yh scene shaandaar hai।",['ambience'],['positive']
+32864873#471207#0,aapko lgtaa hai ki aapne ise New York bnaa diyaa hai।,['anecdotes/miscellaneous'],['positive']
+11432316#715219#1,hm iske bgl se dozens times ge haim aur ek Monday night ko mt mem settled ho ge।,['anecdotes/miscellaneous'],['neutral']
+32894267#698671#6,"ise joड़em : 10's reviews ko naa pढ़em, ise khud ko judge krne ke lie aaज़maaem~ ki aapkii expectations hi nhiim hai, tb aap ise enjoy krne ke lie sure rhmge।",['anecdotes/miscellaneous'],['positive']
+11661949#1709112#1,"hm vhm~ ge the, kisii ne hmem greet nhiim kiyaa।",['service'],['negative']
+35668126#536759#4,Blue bar area ko bhii khodem।,['ambience'],['positive']
+35391416#500259#3,hm bhut time elbow pr jhuke hue hmne wait krke chle ge।,['ambience'],['negative']
+35390148#588852#0,"aapke establishment mem dine kii opportunity milii, maim aapke upstrairs dining area mem thaa।",['anecdotes/miscellaneous'],['neutral']
+35509422#0#4,"Meat-phobes extraordinary veggie burger ke saath luck mem hai, jo alg chickpeas ke blend se bnaa hai, carrots aur any vegetables aur spices haim। ",,['positive']
+11351521#768768#1,"Peak time mem, restaurant overcrowded aur tables binaa aaraam ke bmd thaa।",['ambience'],['negative']
+35158410#1207085#3,Service point pr thaa - aap Ritz se aur kyaa expect kr skte haim।,['service'],['positive']
+11351399#0#7,"Menus features seasonal picks, jaise sweet corn-foie gras brulee hai।",['food'],['neutral']
+11351399#0#6,"Innovations ko bs sunishchit kiyaa gyaa hai, ek saadhaarण caviar-topped sturgeon pr Carinthia cheese ravioli with wild mushrooms, ek chmktaa hue green spinach-vodka sauce ke saath achchhe se match ho gyaa।",['food'],['positive']
+32894522#1633452#3,"aur ye chhote nhiim hai, kmjor fast food jaise burgers - ye real haim, full sized ke patties haim।",['food'],['positive']
+32896492#738746#1,"vhm~ restaurant bhut casual hai, lekin lunch ke lie perfect hai, aur unkii delivery service hmeshaa bhut teज़ hai।","['ambience', 'service']","['positive', 'positive']"
+12036269#580745#4,Chinatown kii quality vaakii bht better ke saath prices sstii hai।,"['food', 'price']","['positive', 'positive']"
+11351328#1638529#4,mujhe ek fork ke lie ek third staff person ko flag down krnaa pड़aa... islie ab yh goodbye thoड़aa RUDE Pie Company hai।,['service'],['negative']
+11651063#1217842#1,maimne 10 years se NYC mem rh rhaa hoom~ aur yh delicacy Hudson ke east mem nhiim ho sktii hai।,['anecdotes/miscellaneous'],['positive']
+33068734#650934#1,"Specials ke saath jaaem~, aur salmon se door rhem।",['food'],['conflict']
+33068734#650934#2,Pastas bhut achchhe the।,['food'],['positive']
+33068734#650934#3,Atmosphere bkvaas ho jaataa hai।,['ambience'],['negative']
+33070532#604874#0,Decor hai jo shuruvaat se mujhe door mem rkhaa hai।,['ambience'],['positive']
+11351745#499992#0,Wait staff bhut jaagrook aur vinmr the।,['service'],['positive']
+35717889#579150#0,"Great restaurant, aur jbki food shaandaar hai!","['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35717889#579150#1,Dishes remarkably svaadisht aur kuchh aaraamdaayk aur intimate place hai।,"['food', 'ambience']","['positive', 'positive']"
+35717889#579150#2,Desserts ke lie room bchaao! ;-),['food'],['positive']
+11351682#1496136#0,"maim simplicity psmd krtaa hoom~ aur respect ke saath jo food ko diyaa gyaa hai, saath hii staff maitriipoorण aur knowledgable haim।","['food', 'service']","['positive', 'positive']"
+11504679#821993#0,Service achchhaa thaa aur vaisaa hii atmosphere bhii thaa।,"['service', 'ambience']","['positive', 'positive']"
+11504679#821993#1,meraa date aur maim donom ne ek Branzini kii peshksh kii thii aur donom ko lgaa kii fish bhut average thaa।,['food'],['negative']
+11349760#848056#0,hm March 7 ko vhm~ the aur Maison bhut achchhaa lgaa।,['anecdotes/miscellaneous'],['positive']
+11349760#848056#1,"Food achchhaa thaa, service prompt, aur price bhut reasonable hai।","['food', 'service', 'price']","['positive', 'positive', 'positive']"
+35704115#614067#0,"shaandaar menu, grmjoshii se bhraa huaa inviting ambiance, shaandaar service FOOD mujhe vaaps bulaatii rhtii hai।","['food', 'ambience', 'service']","['positive', 'positive', 'positive']"
+33061498#586991#0,"shaandaar food, achchhaa wine aur ek shaandaar host.","['food', 'service']","['positive', 'positive']"
+35870558#793384#0,Last night mere coworker ke saath vhm~ gyaa।,['anecdotes/miscellaneous'],['neutral']
+11313392#560011#1,Pizzas appetizers aur main courses ke saath shaandaar thaa।,['food'],['positive']
+11313392#560011#2,"bilkul calamari ko aaज़maaem~, koii pasta, yaa jbki Sliced steak entree hai।",['food'],['positive']
+11513049#499488#4,Caeser salad shaandaar thaa।,['food'],['positive']
+11513049#499488#5,Fried calamari jbki achchhaa thaa।,['food'],['positive']
+11513049#499488#8,Atmosphere achchhaa thaa lekin yh thoड़aa bhut dark thaa।,['ambience'],['conflict']
+11513049#499488#0,Food overall achchhaa thaa।,['food'],['positive']
+11660480#640405#1,Food shaandaar thaa aur service sbse tops kii thii।,"['food', 'service']","['positive', 'positive']"
+35682567#1590699#1,Portions bhut large aur service jordaar hai!!,"['food', 'service']","['positive', 'positive']"
+35682567#1590699#2,maim chicken milanese kii peshksh krtaa hoom~।,['food'],['positive']
+35698333#556353#0,"ek shaandaar prices pr excellent tapas, romantic, chhote lekin jyaadaa crowded, mज़edaar haim।","['food', 'price', 'ambience']","['positive', 'positive', 'positive']"
+33072753#1351349#2,"Service bilkul dhiimaa, lekin friendly hai।",['service'],['conflict']
+33072753#1351349#0,"Chocolate raspberry cake heavenly - bhut sweet, lekin flavor pooraa hai।",['food'],['positive']
+11651310#581605#1,"hmaaraa waiter helpful aur charming thaa, food perfect thaa, aur wine bhii achchhaa thaa।","['service', 'food']","['positive', 'positive']"
+11651310#581605#0,Alias grm aur cozy hai aur tumhem 71 Clinton jaisaa squished kiyaa huaa feeling nhii miltii hai।,['ambience'],['positive']
+11610050#517598#0,mujhe PIGALLE mem kbhii BAD MEAL (yaa BAD SERVICE) nhiim milaa hai।,"['food', 'service']","['positive', 'positive']"
+35739302#844266#0,Tri-state area mem sbse achchhaa hot dogs hai।,['food'],['positive']
+11654405#719617#0,Establishment mem ek typical example hai jismem iskaa owners restaurant business ke baare mem kuchh nhiim jaantaa hai।,['anecdotes/miscellaneous'],['negative']
+11654405#719617#5,"maim MEET ko bilkul bhii recommend nhiim kroomgaa, yh time se step-in krne ke lie rip off kiyaa gyaa hai।",['anecdotes/miscellaneous'],['negative']
+11563005#745685#0,Special celebration ke lie vhm~ gyaa।,['anecdotes/miscellaneous'],['neutral']
+11563005#745685#1,Restaurant shmt aur intimate thaa।,['ambience'],['positive']
+11563005#745685#2,Service bhut attentive aur bhut udaar thaa।,['service'],['positive']
+11563005#745685#3,"hmne dherom achchhe food khaaye, wine, aur desserts bhii।",['food'],['positive']
+11563005#745685#4,vaakii buzzing midtown area ke biich mem bhut pyaaraa dining experience thaa।,['anecdotes/miscellaneous'],['positive']
+11570675#1355721#0,"thiik hai, maim kuchh times ke lie Dumont gyaa hoom~।",['anecdotes/miscellaneous'],['neutral']
+11570675#1355721#1,Food vaakii mem bhut achchhaa nhiim hai aur service terrible hai।,"['food', 'service']","['negative', 'negative']"
+11570675#1355721#2,"ho sktaa hai, yh adhiktr Dumont's patrons chhote aur km expectations ke haim, lekin maim Dumont ko recommend nhiim kr sktaa।",['anecdotes/miscellaneous'],['negative']
+11463275#424927#1,"naa kevl unhe town mem sbse achchhe escargot haim, ve hmeshaa toddler ko accomodate krke aaज़maaem~ haim।","['food', 'service']","['positive', 'positive']"
+11408946#789662#0,"maimne Sotto Voce bhut time jaa chukaa hoom~, aur mujhe yh khnaa hai ki kisii bhii time nail ko head pr thoko।",['anecdotes/miscellaneous'],['positive']
+11408946#789662#1,"mere guest aur mere biich mem, hmne menu mem km se km 80% ko sampled kiyaa, aur ve sbhii hits the।",['food'],['positive']
+11408946#789662#3,Deco aur ambiance vaakii pyaaraa thaa।,['ambience'],['positive']
+32444534#501179#1,yh New York ke aas-paas sbse achchhaa unknown restaurant hai।,['anecdotes/miscellaneous'],['positive']
+32444534#501179#2,bs jaaem~ aur sbse greatest french food mem Daniel kaa west hai।,['food'],['positive']
+33068425#562449#1,"unke lie jo Indian food se hate krte the, Baluchi's ne mere mid ko bdl diyaa hai।",['food'],['positive']
+33068425#562449#3,"mt mem ek curry jo maim khaa sktii hoom~, enjoy aur gastritis se 3 hours der kr suffer nhiim krnaa hai।",['food'],['positive']
+33068425#562449#5,"sbhii GREAT haim - poori, naan, paratha sbhii taaज़e haim।",['food'],['positive']
+33068425#562449#4,Homemade breads ko aaज़maaem~।,['food'],['positive']
+35703223#626682#0,"is place pr beautiful sushi hai, aur yh svaadisht aur CHEAP hai।","['food', 'price']","['positive', 'positive']"
+35703223#626682#1,iske paas bhut se Korean dishes haim joki affordable aur bs yummy hai।,"['food', 'price']","['positive', 'positive']"
+11351741#1733901#0,maim restaurant ke lie gyaa aur prix fixe menu kii peshksh kii।,['food'],['neutral']
+32857960#1320058#5,"Waiter naa kevl efficient aur courteous thaa, blki bhut hii helpful hai।",['service'],['positive']
+11351633#565247#3,isne tb appetite mem ek wallet se bigger bite liyaa - maim ise kisii ko reccomend nhiim kroomgaa ki maim khudse phir se baat kroomgaa।,"['price', 'food', 'anecdotes/miscellaneous']","['negative', 'negative', 'negative']"
+35701421#583735#2,"yh place classy hai, chic, service warm aur hospitable hai, aur food shaandaar hai।","['ambience', 'service', 'food']","['positive', 'positive', 'positive']"
+35393743#526051#0,maim is place ke baare mem Time Out magazine mem pढ़aa hai।,['anecdotes/miscellaneous'],['neutral']
+35393743#526051#2,Astoria mem ek shaandaar find hai।,['anecdotes/miscellaneous'],['positive']
+32864873#582572#0,"shaandaar burgers, grilled cheeses aur french fries hai।",['food'],['positive']
+11351354#812637#0,Yellowfin Tuna aur Calf's liver meraa psmdiidaa hai।,['food'],['positive']
+11538980#1053497#1,Sushi bhut fresh hai ki yh aapke mouth mem kurkurtaa hai।,['food'],['positive']
+11538980#1053497#4,lekin pkkaa kro ki aapke paas credit card pr enough room hai jo bill se aapke wallet pr ek bड़aa dent krtaa hai।,['price'],['negative']
+11349654#424016#2,5th ave address ke baavjood koii frills whick nhiim jise maim love krtaa hoom~।,['ambience'],['positive']
+35158410#1207085#2,ve aapke table tk sauce cart laate haim aur aapko 7 se 8 choices of sauces aapke steak ke lie (maimne sbhii ko aaज़maayaa thaa) laate haim।,['food'],['positive']
+15094232#1295193#2,"naa kevl sushi fresh thaa, unhone doosre entrees ko bhii kisii naa kisii guest ko choose krke khush krne (duck aaज़maayem) se alg serve kiyaa thaa।",['food'],['positive']
+32894267#698671#5,achchhii variety lekin kuchh bhii surprising nhiim hai।,['food'],['conflict']
+11351328#1638529#2,"mere khriid ko paid krne ke baad, maimne noticed kiyaa ki unhone mujhe utensils nhiim diyaa islie maim apnaa pie khaa skaa hoom~। ",['service'],['negative']
+11350539#680470#6,usii prkaar ydi aap vaakii thin crust yaa vaakii bड़e slices psmd krte haim to Nick aur Joe's aapkaa favorite nhiim ho sktaa hai।,['food'],['negative']
+11359764#1373169#2,yh hmeshaa quite hai kyomki yh awful hai।,['anecdotes/miscellaneous'],['negative']
+33071731#1007204#2,"naa green beans, naa egg, naa anchovy dressing, naa nicoise olives, naa red onion.",['food'],['negative']
+32938896#0#2,"Side orders ke saath ek Amazin Greens salads meal, Buffalo Chicken Kickers aur Cinna Stix bnaaem~।",['food'],['neutral']
+33070588#0#2,"jyaadaa fries, meaty chili aur stuffed baked potatoes menu ko ghoomaataa hai jo cool ko joड़taa hai, ultra-thick chocolate Frosty hai।",['food'],['positive']
+11482070#503858#2,maimne hmeshaa khud ko waiter ko poochhte hue menu se bland aur different hai।,['food'],['neutral']
+32936760#1397861#8,"achchhaa cake lekin: yh jo ab tk khaayaa usmem best cake nhiim thaa, aur sidewalk pr baahr indifferent aur overworked employees cattle jaise khड़e hokr chrte hue bilkul worth nhiim lgtaa thaa।","['food', 'service']","['conflict', 'negative']"
+35720486#684689#1,"jitne paas mujhe Cherry Marscapone mile, lekin us day isse baahr the।",['food'],['neutral']
+35719198#0#3,"India kaa homage roti canai appetizer mem bhut suhaavnaa evident hai, ek fried pancake served with pungent curry dipping sauce, jbki mango chicken ek surprisingly sophisticated, sweet-and-sour pr fresh offer krtaa hai।",['food'],['positive']
+33507331#1177339#1,"yh outside jaisaa kuchh nhiim dikhtaa hai, lekin jaise aap mdr kii trph walk krte haim, yh pooraa doosraa atmosphere hai।",['ambience'],['conflict']
+35693214#539116#0,mujhe khnaa hogaa ki place awesome hai।,['anecdotes/miscellaneous'],['positive']
+32935729#785247#3,Ground chickpea soup ko hmne starter sample kii trh taste kiyaa thaa jo thoड़aa thin hai।,['food'],['negative']
+35709141#1107179#3,"hm sushi ko re-slice krne kii request krte haim, aur yh hmem small cheese-like cubes jaise vaaps krte the।",['food'],['negative']
+11351354#412616#1,"Service, jbki quality of food ke below ek yaa do peg (horrible bartenders) hai, aur clientele, adhiktr part ke lie, rowdy hai, loud-mouthed commuters (yh staff ke bure attitudes ko btaataa hai।) jo concert yaa ek Knicks game ke lie AC/DC mem loaded ho rhaa hai।","['service', 'food', 'ambience']","['negative', 'positive', 'negative']"
+11349840#433070#8,"ydi aap neighborhood mem haim, ek great meal ke lie definitely rukem।",['food'],['positive']
+11349840#433070#7,"Unfortunately, apne show ticket ke saath, hmaare paas desserts sample krne kaa time nhiim hai।",['food'],['neutral']
+11313439#692431#1,"Restaurant thoड़aa paint use kr sktii thii, lekin kul milaakr ek achchhaa sushi place hai। ","['ambience', 'anecdotes/miscellaneous']","['conflict', 'positive']"
+35391416#500259#5,jyaadaa tables bnaaiye - shaayd ek rooftop bar.,['ambience'],['negative']
+32944704#492723#1,"Decoration se aisaa lg rhaa thaa ki hm Cairo mem hai, ye asl mem street adventure kaa part hai।","['ambience', 'anecdotes/miscellaneous']","['positive', 'positive']"
+32950007#1320096#2,"jbki chhotaa hai, iskaa ambience sumdr, shaandaar food (catfish svaadisht hai - ydi aap mind n krem to thoड़aa salty hai) aur jaagrook service hai। ","['ambience', 'food', 'service']","['positive', 'positive', 'positive']"
+11350033#1264371#3,maim vhm~ food ke lie nhiim jaataa islie comment nhiim kr sktaa।,['anecdotes/miscellaneous'],['neutral']
+11660930#655010#2,"mere friends aur maim week mem (minimum, hm area mem rhte haim) ek baar jaataa hoom~ aur hr time baahr nikl ke brush ke lie resist nhiim kr sktaa hoom~।",['anecdotes/miscellaneous'],['positive']
+11660930#655010#4,"Items se stick hokr place achchhaa brisket, ribs, wings cajun shrimp achchhaa nhiim, lekin great hai।",['food'],['positive']
+35509422#0#0,"Hip boutiques aur Ludlow mem bars ko artsy se joड़taa hai, is pr Israeli-style mem laid-back atmosphere ke joint mem burger khaate hai।",['ambience'],['positive']
+35509422#0#1,"Young neighbourhood trendies counter pr day mem chrte haim, jbki chic, art-house drinkers late night mem munchies pile ke heavy doses ke saath ghoomte haim।",['ambience'],['neutral']
+35393632#1591698#0,apnaa date aur ek bottle of wine laao!,['anecdotes/miscellaneous'],['neutral']
+33009300#626261#6,"yh naa kevl best Thai restaurant hai jhm maim gyaa hoom~, blki yh mere dine ke lie ek favorite places mem ek hai।",['anecdotes/miscellaneous'],['positive']
+11350539#680470#7,kisii doosre reviewers ke bilkul negative review se put off hone kii jroort nhiim hai।,['anecdotes/miscellaneous'],['positive']
+35196527#481646#0,"mere Chelsea ke impressive aur creative menu mordern ko joड़taa hai, jo Westernized Japanese dishes jaise Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, aur rack of lamb in black truffle sauce, jaise kuchh name hai।",['food'],['positive']
+35816071#637243#2,"uskaa food shaandaar hai (aur NYC standards ke expensive hai - binaa $30 ke entrees nhiim), adhiktr appetizers $12 se 14 tk kaa hai)।","['food', 'price']","['positive', 'positive']"
+11359613#884374#0,Food consistant aur achchhaa hai lekin yh kaise mere oopr se Manhattan mem Best Diner bnaa hai।,"['food', 'anecdotes/miscellaneous']","['positive', 'conflict']"
+11349840#433070#6,"Pasta primavera bhii shaandaar thaa, bhut se fresh veggies hai।",['food'],['positive']
+32894267#698671#4,"mujhe glt mt smjho - sushi achchhii thii, bs fantastic nhiim thii।",['food'],['positive']
+35693083#822138#1,Puerto Rican hokr maim flan ke baare mem ek yaa do chiiज़em jaantii hoom~ aur yh place ismem se best serve krtaa hai (mujhe aashaa hai ki Mom yh nhiim pढ़taa hai!),['food'],['positive']
+32927541#579582#0,"Brooklyn mem hokr ek 25 years se jyaadaa, mujhe achchhe pizza ke lie bridge pr nhiim jaanaa hotaa hai।",['food'],['positive']
+11349536#778388#0,Friday ko yhm~ dinner kiyaa aur food shaandaar thaa।,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35700989#574718#3,"hmne abhii is restaurants mem New Year's Eve bitaayaa hai, aur wine se dessert menu tk great experiance kiyaa hai।","['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+35709275#573688#2,"atydhik recommend kiyaa huaa... jaisaa ki khaa gyaa, maimne restaurant mem dined *in* nhiim kiyaa lekin yh bar achchhaa dikhtaa hai aur takeout bhut relaxing place lgtaa hai।",,"['positive', 'positive']"
+11351587#1488758#1,"Ambiance shaandaar hai, ek thoड़aa jyaadaa loud lekin phir bhii nice aur romantic haim।",['ambience'],['positive']
+33069925#747092#3,"lekin, filet mignon cocktail hour mem bhut achchhaa nhiim thaa jo free appetizers ke achchhe non-sushi selection mem thaa।","['food', 'price']","['conflict', 'positive']"
+11351725#582163#3,yh hmaare 2 courses ko served krne ke lie 1/2 hours letaa hai।,['service'],['negative']
+11359764#1373169#1,kisne khaa ki vhm~ jaao jb day mem place quite rhtaa hai?,['ambience'],['neutral']
+35698351#821341#1,Size ke kaarण peak times mem thoड़aa busy ho skte haim।,['ambience'],['negative']
+11351360#1704700#0,"maim jury duty pr thaa, maimne lunch break pr bike ko Centre Street ke road pr bhgaayaa aur is great place pr awesome chicken tacos aur Hibiscus lemonade ke saath aayaa।","['food', 'ambience', 'anecdotes/miscellaneous']","['positive', 'positive', 'neutral']"
+32894791#1611374#1,Day ke dauraan shopping ke baad hang out ke lie achchhaa place yaa simple soup piine ke lie yaa ek glass of wine ke saath khaane ke lie classic french dish thiik hai।,"['food', 'anecdotes/miscellaneous']","['neutral', 'positive']"
+36072604#1106889#4,bhut achchhaa touch jo place ko leke bhut fit hotaa hai।,['ambience'],['positive']
+11350033#1264371#2,"jbki, bs kuchh outdoors hone kii vjh se kaaphii great landscaping, casual drink ko enjoy krnaa jo is place ko worthwhile bnaataa hai।",['ambience'],['positive']
+11567247#1415594#1,hm dance floor pr close proximity mem turmt baithe the।,['anecdotes/miscellaneous'],['neutral']
+11351521#768768#2,"ydi aap yhm~ aise pre-show meal mem haim, cab mem alg se 10 minutes leke uptown location jaaie।",['anecdotes/miscellaneous'],['neutral']
+11350033#1264371#5,achchhe mix of people mem twenties kii bढ़t thii jo bshrte ek bड़e eye ke bढ़t ke lie eye-candy mere paas ek shaandaar thaa।,['ambience'],['positive']
+11651065#413029#1,"Fried foods ke baare mem comments shii hai (below) lekin any dishes, lamb entree aur kii salads (avocado shrimp) bilkul achchhaa thaa।",['food'],['conflict']
+11349445#757796#4,Cold night mem close friend ke saath yaa ek achchhe book ke saath honaa achchhaa hai।,['anecdotes/miscellaneous'],['neutral']
+11351816#1162694#2,"dhiimii service, lekin jb aap aas-paas 10 yaa 20 ke groups ke saath hanging kr rhe haim jo vaakii notice krtaa hai।","['service', 'anecdotes/miscellaneous']","['negative', 'conflict']"
+32897564#894393#1,Sauce shaandaar (bhut taaज़aa) hone ke saath dabs of real mozzarella hai।,['food'],['positive']
+11349845#1188496#2,"kbhii preshaan naa hom - Drinks bekaar the, lekin jo people vhm~ kaam krte the unhone vaakii yh dining experience bekaar kr diyaa thaa।","['food', 'service']","['negative', 'negative']"
+33070305#1312437#5,"Room thoड़aa saadaa hai, lekin yh kuchh aisaa exciting place bnaane mem difficult hai aur maim ise ek reasion kii trh dekhne ke lie suggest nhiim kroomgaa।",['ambience'],['negative']
+11432842#416795#4,jbki restaurant week ke baahr kaa prices shaandaar thaa।,['price'],['positive']
+35509422#0#2,"ek chhotii outdoor eating area private ke lie bnaataa hai, akele study krne ke lie yaa friends se milne ke lie comfortable space hai। ",,['positive']
+32408649#945413#0,Place ke saamne meraa attention call nhiim kiyaa।,['anecdotes/miscellaneous'],['neutral']
+35670845#1650649#3,aur sbhii female servers cute bhii the jo hmeshaa achchhaa hai।,['service'],['positive']
+35170181#0#5,"sbse achchhaa dessert, ek chocolate and peanut butter tart mukhyt: Hawaiian nhiim haim lekin yh ek small world ke lie sweets hotaa hai।",['food'],['positive']
+11359619#487952#7,"Appetizer ke lie ek, unke calamari ek winner hai।",['food'],['positive']
+32464595#574909#1,Satay Washington ke un favorite haunts mem se ek hai jhm service aur food hmeshaa money ke saath hotaa hai।,"['service', 'food']","['positive', 'positive']"
+11349536#778388#2,Dinner ke baad maimne music playing sunaa aur jaanaa ki niiche ek lounge hai।,['ambience'],['neutral']
+32408649#945413#1,"lekin ab vh ek ne ownership ke mdr aur renovated kiyaa gyaa hai, yh great dikhtaa hai।",['ambience'],['positive']
+35816071#637243#3,"Room aakrshk,  bi-level space aur drink ke lie bhut achchhe long bar hai। ",['ambience'],['positive']
+35390182#756337#2,ab hm state se baahr aa ge haim aur NYC kaa hr visit ke stop ko joड़taa hai।,['anecdotes/miscellaneous'],['positive']
+11350142#1253117#2,"do complaints- unke appetizer selection stinks krtaa hai, menu se kuchh mozzarella sticks paanaa achchhaa rhegaa।","['food', 'anecdotes/miscellaneous']","['negative', 'conflict']"
+11464511#471981#2,mujhe yaad nhiim ki mere paas kyaa thaa; kuchh bhii memorable nhiim thaa।,['anecdotes/miscellaneous'],['negative']
+11351587#1488758#3,yh bland aur extraodinary kuchh nhiim hai।,['food'],['negative']
+32950061#1264345#3,"maim mukhy roop se baby party ke dauraan impressed huaa jb waitstaff oopr ge aur help krne ke lie sjaane aur baby cakes laane se jyaadaa bhii offering hai, 15 person party ke lie prompt aur friendly service hai। ",['service'],['positive']
+32935729#785247#4,Fresh leaf salad ke saath chicken and falafel platters binaa likhe hue combinations the।,['food'],['neutral']
+11359618#788741#0,"hr time maim NYC jaataa hoom~, maim yhm~ aataa hoom~।",['anecdotes/miscellaneous'],['neutral']
+35160930#774531#0,maim yhm~ tb se rojaanaa aataa rhaa hoom~ jb se 2 years phle se khulaa hai।,['anecdotes/miscellaneous'],['neutral']
+33085669#409731#2,"Atmosphere aapko us place pr le jaataa hai, jis place kaa dream dekhte haim।",['ambience'],['positive']
+11351628#404492#8,"bhut times aur waiters ke saath buraa manners, yh jaankaar job aasaan nhiim hai।",['service'],['negative']
+32896473#439063#0,"Service shaandaar hai (jbki borderline nagging lekin aapko km se km attention), desserts shaandaar hai aur coffee bhut hii achchhaa hai...","['service', 'food']","['conflict', 'positive']"
+11464511#471981#1,hm ek couple ke bgl mem baithe the jinke kitchen renovate kie ge the aur hm tb se sbhii foodies ke lie shmt hue jo bhut khaate haim - yh vh vaaps aane ke lie vh place nhiim thaa।,['anecdotes/miscellaneous'],['negative']
+32899282#556036#1,use Focacchia bread mem served kiyaa gyaa aur uspr mrtaa hai।,['food'],['positive']
+32894966#1727613#3,"jbki smoothies mere lie thoड़aa bड़aa hai, fresh juices sbse achchhaa maimne ab tk khaayaa hai।",['food'],['conflict']
+32464601#418474#0,"Food bs OKAY hai, aur yh almost jaanaa worth nhiim hai jbtk aap pialla nhiim paate, joki kevl ek dish nhiim, jo achchhaa hai।",['food'],['conflict']
+11432442#650772#2,"Guac taaज़aa hai, phir bhii flavor kii kmii hai, hm apnaa ismem fresh salsa joड़naa chaahte haim।",['food'],['conflict']
+11313290#1139539#1,"New menu mem kuchh creative items haim, ve kuchh old favorites ko rkhne ke lie pryaapt hai (lekin unhone prices bढ़aayaa hai), adhiktr time staff friendly hai, lekin mujhe us person se agree honaa hogaa jisne apne favourite words ko lekr likhaa hai: nhiim, nhiim kr sktaa, maaphii..., boy, kisii ke lie rules nhiim bdlegaa।","['food', 'service', 'price', 'anecdotes/miscellaneous']","['positive', 'conflict', 'negative', 'conflict']"
+33061445#591371#0,yh kevl lunch ke lie khulaa hai lekin food bhut achchhaa hai।,"['food', 'anecdotes/miscellaneous']","['positive', 'neutral']"
+33070383#592089#1,ydi aap seafood psmd krte haim aur/yaa Greek food aap is place ko love kremge jbki yh kevl in chiijom tk siimit nhiim hai।,['food'],['positive']
+35668286#0#2,"Menu pub fare joड़taa hai--burgers, steaks aur shepherds pie--aur jbki un black sheep jaise vegetarians ke lie ek portabella lasagna hai।",['food'],['neutral']
+35714274#1076679#1,vo ek exorbitant prices mem mediocre food ke saath kaise survive kr skte haim।,"['food', 'price']","['neutral', 'negative']"
+11351725#582163#2,Food mediocre aur service bhut hii dhiimii hai।,"['food', 'service']","['neutral', 'negative']"
+33060905#1138585#4,maimne yhaa alg-alg occasion pr khaayaa hai - food ke lie prices mediocre hai।,"['food', 'price']","['neutral', 'negative']"
+35695422#1464305#5,maim jldii vaaps jaane ke lie dekh rhaa hoom~ aur eventually menu mem sbkuchh lene ke lie koshish kr rhaa hoom~।,"['food', 'anecdotes/miscellaneous']","['positive', 'positive']"
+36220672#1714981#0,maimne is place pr apnaa first visit kiyaa aur vaaps jaane ke lie wait nhiim kiyaa aur dhiire se menu ke lie work kiyaa।,['anecdotes/miscellaneous'],['positive']
+33068909#1189415#4,maimne baar-baar poochhaa ki meal kaa status kyaa thaa aur waiter thoड़aa grunted aur unbelievably rude thaa।,"['service', 'anecdotes/miscellaneous']","['negative', 'negative']"
+33067279#1612676#0,mujhe aaj brunch ke lie rokaa gyaa thaa aur vegan cranberry pancakes aur thoड़aa rice milk khaayaa thaa।,['food'],['neutral']
+33059931#926509#3,"Weekends crowded nhiim ho sktaa, lekin phir bhii recommended kiyaa gyaa।",['ambience'],['conflict']
+33061445#591371#2,yh bhut crowded hotaa hai islie maim suggest krtaa hoom~ ki aap jldii paate haim।,['ambience'],['conflict']
+35709451#1061726#3,Sweet Irish bartender hmeshaa khush aur mere friends ke face pr ek smile laane ke laayk hai।,['service'],['positive']
+15069510#648179#5,maim hmeshaa apne ko theater industry mem kisii ke bgl mem baithaa paataa hoom~- sunne mem interesting ideas lgtaa hai jbki khaane mem quick bite lgtaa hai।,['anecdotes/miscellaneous'],['positive']
+32443281#959917#4,vhm~ drinks ke lie jaanaa achchhaa hai ydi aap drunk nhiim honaa chaahte haim kyomki aap lucky homge ydi aapko ek hour mem ek drink mil jaae service bhut burii hai।,['service'],['negative']
+11661949#1709112#8,"khair, owner fake thaa।",['service'],['negative']
+35698240#574381#2,Owner suhaavnaa aur entertaining thaa।,['service'],['positive']
+11350390#802808#3,"maim apnii life mem food ko saamne se kbhii vaaps nhiim bhejaa, lekin maim simply bhejnaa pड़aa, aur waiter ne mujhse is pr argue kiyaa।","['food', 'service']","['negative', 'negative']"
+11482070#503858#3,"bhle hii restaurants khud mem achchhaa hai, maim food ke lie jaanaa prefer nhiim krtaa hoom~।","['ambience', 'food']","['positive', 'negative']"
+11351628#404492#3,,['food'],['positive']
